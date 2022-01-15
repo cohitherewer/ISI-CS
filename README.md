@@ -1,2 +1,3 @@
 # ISI-CS
-This is a repository for code assignments, notes for the courses that I have taken during my masters in ISI, Kolkata
+
+Upload Coding Assignment, Notes for the courses, I take during my ISI CS Days
