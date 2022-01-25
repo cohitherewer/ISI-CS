@@ -1,0 +1,55 @@
+GRAPH THEORY
+
+
+NOTE - for anything related to directed graphs refer Robin J. Wilson chapter 7 and refer to the same for problems
+
+
+lec 15 - Basic introduction, lower bound on the number of non-isomorphic graphs on n vertices, Handshaking lemma.
+Robin J. Wilson chapter 2 sec-2,
+Adrian Bondy, U.S.R. Murty pg 4-7 and 12-15
+
+lec 16 - Handshaking for multigraphs, degree sequences, Havel-hakimi theorem.
+Robin J. Wilson pg-12
+Adrian Bondy, U.S.R. Murty exercises on page 10-11
+https://www.youtube.com/watch?v=3JhbEM291WQ&ab_channel=RyannCampbell
+
+lec 17/18 - Paths, Trail, Tour, Walk, Eulerian graphs
+Robin J. Wilson pg-26-27, pg - 31-34
+
+lec 19 - Euler tours in directed graphs, Hamiltonian cycles, Dirac's theorem, Hamiltonian Cycles in directed graphs
+Robin J. Wilson pg - 35-37
+
+lec 20 - diameter, radius, eccentricity, Trees, Spanning trees
+Robin J. Wilson pg - 43-46, 
+notes for definitions
+
+lec 21 - Connectivity
+Robin J. Wilson pg - 28-30
+
+lec 22 - Characterisation of 2 connected graphs, Ear decompositions
+Reinhard Diestel pg-55-57
+http://www.cs.rpi.edu/~goldberg/14-GT/08-block.pdf
+
+lec 23 - Characterisation of 3 connected graphs, Tutte's wheel theorem
+Reinhard Diestel pg-57-59
+Adrian Bondy, U.S.R. Murty pg - 222-223
+
+lec 24 - Vertex covers, matchings, complements, Incdependent sets, Bipartite Graphs
+https://proofwiki.org/wiki/Graph_is_Bipartite_iff_No_Odd_Cycles
+notes for definitions
+
+lec 25 - Art Gallery Problem, Upper bound on maximal matching
+https://math.dartmouth.edu/~nadia/math38/05_01_Matchings.pdf
+notes
+
+lec 26 - konig's theorem, hall's theorem
+Reinhard Diestel pg-34-38
+
+lec 27/28 - Colouring, chromatic number, degeneracy, Mycielski construction, planarity, Euler's formula, The 5 colour theorem;
+Robin J. Wilson pg - 60-67 pg - 81-83
+http://web.math.ucsb.edu/~padraic/ucsb_2013_14/math137a_w2014/math137a_w2014_lecture5.pdf
+https://www.youtube.com/watch?v=7U3sqNJ-egA&ab_channel=VitalSine
+
+
+
+
