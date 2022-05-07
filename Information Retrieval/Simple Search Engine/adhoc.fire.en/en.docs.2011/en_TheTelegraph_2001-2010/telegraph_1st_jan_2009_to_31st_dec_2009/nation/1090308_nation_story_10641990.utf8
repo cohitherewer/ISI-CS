@@ -1,0 +1,23 @@
+<DOC> 
+<DOCNO>1090308_nation_story_10641990.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Nation | Tech tool to track terror 
+                                                                                                               Tech tool to track terror 
+          G.S. MUDUR                           Pattern hint                                  
+	New Delhi, March 7: Software could have spotted unusual patterns of email or phone chatter likely to have been part of plans for a co-ordinated terrorist attack of the type Lahore witnessed on Tuesday, software engineers have said.         
+	Advances in computer software now allow rapid analysis of large volumes of data from phone conversations, email and mobile text messages and closed circuit television cameras to detect anomalies, said Suresh Satyamurthy, a pattern recognition specialist.         
+	We call this meaning-based computing  a search for patterns in unstructured information, said Satyamurthy, the CEO at the India office of Autonomy Corporation, a Cambridge-based company in the UK.        
+	It may be used to identify distinct patterns of activities of phone calls or emails within seconds or minutes  something impossible to achieve by unaided humans, Satyamurthy told The Telegraph.         
+	Speaking on the sidelines of an international conference on emerging technologies here, Satyamurthy said the capabilities of the software were evident in a contrived example of an event in a western European capital.         
+	A set of emails, each containing the word cake, set off an alert because none of them had any reference to a birthday, wedding or any celebration. One software module tracked the emails to a single mobile device.         
+	Another software module combined cellphone tower data and video feeds from traffic CCTVs to identify the car with the mobile device. When the car approached a building, another CCTV picked up the occupants face and transmitted the image to face-recognition software, which alerted authorities leading to an arrest.         
+	From the alert about emails to the arrest, it was only 20 minutes, Satyamurthy said.         
+	Pattern recognition may look for a high frequency of calls or unusual content with specific words, anything out of the ordinary, anything that might be a cause for further investigation, said Srikantha Sampara, a software engineer-turned-entrepreneur.         
+	Sampara, the CEO of Tuple Technologies, Bangalore, who has applied pattern recognition software to analyse apparel shopping by women and bank account transactions, has also demonstrated its potential in counter-terrorist applications.         
+	His analysis of public domain data from a diverse set of sources suggests that a private trust based in a West Asian country has indirect links with al Qaida. Were using this only to showcase what pattern recognition algorithms can achieve, Sampara said.         
+	Pattern recognition software is technology dating back to the early 1990s, but recent advances in this field have empowered it to extract information that could not have been possible a decade ago.         
+	Engineers caution that software can merely sound alerts. Its up to investigating agencies to determine whether an anomaly has a legitimate reason or signifies trouble, Sampara said.                     
+	They also warn that the use of such software for security would require significant investments in surveillance  such as CCTVs  and synthesis of data from different components of surveillance mechanisms.                                                                                                                                                                           
+</TEXT> 
+</DOC>

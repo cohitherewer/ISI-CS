@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO>1050424_calcutta_story_4653433.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Display dilemma 
+
+ TechTalk
+
+ Narasimha Murthy: I have a Compaq PC with Pentium IV 
+
+ 1.8 GHz processor, 845 GE chipset motherboard, 128 MB DDR 
+
+ RAM and 40 GB HDD. I have a Compaq EVO D320 monitor and 
+
+ Windows 98 Operating System. The colour setting is ?16 colours? 
+
+ and screen area is ?640x480 pixels?. When I try to change 
+
+ nothing happens. I have misplaced the driver CD of the motherboard. 
+
+ Is there a remedy or should I go for a new motherboard? 
+
+ TechTalk: You need to instal 
+
+ the driver software for your graphics card. Don?t worry 
+
+ if the motherboard CD is lost. Latest drivers and other 
+
+ utility software can be downloaded for free from the hardware 
+
+ manufacturer?s website or from sites like www.driverfind.com. 
+
+ In your case, go to http://www.intel.com/support/chipsets/sb/CS-009236.htm, 
+
+ download the graphics driver and software for Intel 845 
+
+ GE chipset and instal them. Do check the Operating System 
+
+ specifications before you download. Restart the computer 
+
+ and your problem should be solved.
+
+ Bharat Raimagia: I have a Pentium III 1 GHz processor 
+
+ with 128 MB SD RAM and Windows XP Professional. For the 
+
+ past few days, during booting, my PC hangs for three-four 
+
+ minutes, after which everything becomes normal. When I disable 
+
+ Norton Antivirus 2003 from MSCONFIG, the computer bots comparatively 
+
+ quickly.
+
+ TechTalk: Chances are that 
+
+ some programs you installed recently are being activated 
+
+ on startup and having a conflict with Norton Antivirus. 
+
+ It could also be due to faulty device driver. Check the 
+
+ startup list in MSCONFIG and disable all unnecessary items 
+
+ by clearing the checkbox, but keep the Norton Antivirus 
+
+ related items activated. Download and instal the latest 
+
+ drivers for motherboard chipset, graphics and sound. Also, 
+
+ instal the latest service pack for Windows XP Professional. 
+
+ If the problem persists, try uninstalling and then reinstalling 
+
+ Norton Antivirus. You can also try some other anti-virus 
+
+ software.
+
+ Swati Ghosh: At the time of booting, my PC displays 
+
+ the message: ?CMOS setting is wrong. CMOS checksum is bad. 
+
+ Press F1 to Run Setup. Press F2 to load default values and 
+
+ continue.? When F1 is pressed, setup runs and after exiting 
+
+ setup (without making any change) the PC boots as usual. 
+
+ But the wrong date and time is shown in the CMOS setting. 
+
+ When F2 is pressed, the PC boots up but desktop remains 
+
+ blank.
+
+ TechTalk: Most likely, 
+
+ your motherboard battery needs to be replaced. You have 
+
+ to open the outer casing of the CPU to do this. If you do 
+
+ not feel confident, ask a hardware expert to do it for you.
+
+ Write in with your computer- related problems to TechTalk. 
+
+ Be sure to include the configuration of your PC and be specific 
+
+ about the problem. Write to techtalkabpmail.com
+
+
+
+
+</TEXT>
+</DOC>

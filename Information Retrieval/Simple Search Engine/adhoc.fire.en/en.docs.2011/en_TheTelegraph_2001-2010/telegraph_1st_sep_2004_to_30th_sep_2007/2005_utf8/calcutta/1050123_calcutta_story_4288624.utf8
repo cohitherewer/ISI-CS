@@ -1,0 +1,236 @@
+<DOC>
+<DOCNO>1050123_calcutta_story_4288624.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Security solutions amp; right write
+
+ TechTalk
+
+ Toshibas latest technology allows 
+
+ operation of a remote personal computer through a 3G 
+
+ mobile phone, on display in Tokyo. (AFP)
+
+ Thanks for writing in with your 
+
+ computer worries. Keep the emails coming!
+
+ Gourab Naskar: I have a HP Pavilion 8622 PC with Pentium 
+
+ III 733 MHz processor, 128 MB SD RAM, 20 GB HDD, DirectX 
+
+ 8.1, Windows 98 (4.10, build 2222), Intel 82810 graphics 
+
+ controller, Advance AC 97 sound card. I cannot run EA Sports 
+
+ Cricket 2004 game which I bought. After installation, when 
+
+ I try to run the game, it starts to load, then returns to 
+
+ Windows. I don?t have an AGP card. 
+
+ Cricket 2004 specification: Processor 
+
+ 500 MHz, RAM 64 MB, (128 MB for Windows XP amp; 2000), 
+
+ Graphics 32 MB, DirectX 8.1, HDD 900 MB free space, OS Windows 
+
+ 98 SE, XP, 2000. 
+
+ TechTalk: The integrated 
+
+ video chipset on your motherboard is not capable of handling 
+
+ beyond the average games. Intel 810/810e-based systems use 
+
+ part of the system memory as video memory, instead of the 
+
+ costly VRAM which can use higher resolution and refresh 
+
+ rates needed for high-end games. Since you have 128 MB system 
+
+ memory, at the most 10-12 MB video memory can be spared, 
+
+ while you have mentioned Cricket 2004 requires 32 MB. Adding 
+
+ more RAM would help a little. But the solution is to upgrade 
+
+ to an AGP-based motherboard.
+
+ Charles Huang: I have a PCS computer with Pentium III 
+
+ 500 MHz processor, 160 MB SD RAM, 6 GB HDD and PC 100 system 
+
+ board. I can log on to the Internet and surf websites but 
+
+ I?m unable to open the link of a webpage with Java script.
+
+ TechTalk: You did not mention 
+
+ anything about your web browser. Whichever browser you are 
+
+ using, upgrade to the latest version. If it is Internet 
+
+ Explorer, instal the latest service pack from www.microsoft. 
+
+ com/downloads. Then, download and instal Java Runtime 
+
+ from www.sun.com.
+
+ Mini is the Mantra 
+
+ The new Mac Mini and iPod 
+
+ Shuffle at an unveiling in Seoul. Apple is targeting 
+
+ Windows users with the Mini priced at $499. The iPod 
+
+ Shuffle is the companys first flash-based music 
+
+ player, at $99. (AFP)
+
+ Farzana Alam Rahimi: My PC configuration is Pentium 
+
+ IV, Intel motherboard, 128 MB RAM and Windows 98. I had 
+
+ provided a password for logging on to Windows. After booting, 
+
+ the PC asks for a password but if I press ?Esc? I can get 
+
+ the working environment of the desktop. This means the password 
+
+ was not given properly. How can I protect my PC from unauthorised 
+
+ access? How can I go to system setup after booting? Also, 
+
+ what is a webcam?
+
+ TechTalk: The Windows 98/ME 
+
+ password simply identifies who is logging on to a Windows 
+
+ computer for Windows to adjust the personal desktop (and 
+
+ a few other) settings for multiple users on the same computer. 
+
+ This password alone is not sufficient to protect your computer, 
+
+ and can easily be bypassed pressing the ?Esc? button or 
+
+ clicking ?cancel?.
+
+ To prevent others from logging 
+
+ in MS-DOS mode and click OK. At the C:\WINDOWS prompt 
+
+ that comes up, type ?ren win.com xyz.com? (without the inverted 
+
+ commas) and press Enter. From now on, when anyone switches 
+
+ on your PC, instead of Windows they?ll get an error message 
+
+ and a C: prompt. You can load Windows typing ?xyz? and pressing 
+
+ Enter. 
+
+ To return to regular boot, at 
+
+ MS-DOS mode type ?ren win.com xyz.com?, press Enter and 
+
+ reboot.
+
+ You can also set a boot password 
+
+ (or ?power on password?) to make your PC prompt for the 
+
+ password every time it boots. You can do this in the BIOS. 
+
+ Usually, the computer tells you when you can enter the BIOS 
+
+ (?press Del to enter setup? or in some BIOS versions you 
+
+ have to press F1 or F2 instead of Del). Check your motherboard 
+
+ documentation to know exactly how to set a password. You 
+
+ can also password-protect your screen saver to keep people 
+
+ off your PC when you leave it on while you?re away. For 
+
+ best protection, however, use third-party encryption software 
+
+ or upgrade to Windows XP which has built-in file encryption 
+
+ system and better security.
+
+ As for your last query, a webcam 
+
+ is used to host images and live video streams over the Net. 
+
+ It can also be used for remote surveillance systems, monitoring 
+
+ event/places and broadcasting live events. 
+
+ Somnath Chakraborty: I had been using Nero Express (on 
+
+ Windows XP) before it got corrupted. I tried to remove it 
+
+ by using Add/Remove Programs, when a message came: fatal 
+
+ error during installation. Then I deleted all the related 
+
+ folders from Documents and Settings and also from registry. 
+
+ But still it appears in the list of Add/Remove Programs 
+
+ with the Change/Remove button remaining inactive. As a result, 
+
+ I am unable to do a fresh installation.
+
+ TechTalk: Since you are 
+
+ using Windows XP, you can use TweakUI PowerToy to remove 
+
+ the program from the list of installed software. Microsoft 
+
+ Windows PowerToys is a suite of tools, including TweakUI, 
+
+ available for free download from the Microsoft site. Follow 
+
+ these steps: 
+
+ and double click on TweakUI. Click Add/Remove tab, select 
+
+ the program you want to remove and then click Remove. Click 
+
+ OK and close Control Panel. You can also try to edit the 
+
+ registry by using the Registry Editor and Delete the appropriate 
+
+ key named after Nero Express under the following registry 
+
+ key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall. 
+
+ You mention that you already worked 
+
+ with the registry. Incorrect registry editing may cause 
+
+ serious problems. To rectify, you will have to reinstal 
+
+ your operating system.
+
+ Write in with your computer-related 
+
+ problems to TechTalk. Be sure to include the configuration 
+
+ of your PC and be specific about the problem. Write to techtalkabpmail.com
+
+
+
+
+</TEXT>
+</DOC>

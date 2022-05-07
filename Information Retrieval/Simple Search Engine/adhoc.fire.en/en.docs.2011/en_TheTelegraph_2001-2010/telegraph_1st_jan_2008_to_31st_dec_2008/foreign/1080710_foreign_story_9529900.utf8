@@ -1,0 +1,15 @@
+<DOC> 
+<DOCNO>1080710_foreign_story_9529900.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | International | Experts rush to fix Net flaw to foil hackers
+                                                                                                                                                                                                                                                                                                                                                                       Experts rush to fix Net flaw to foil hackers
+                            
+	San Francisco, July 9 (AFP): Computer industry heavyweights are rushing to fix a flaw in the foundation of the Internet that would let hackers control traffic on the World Wide Web.        
+	Major software and hardware makers worked in secret for months to create a software patch released yesterday to repair the problem, which is in the way computers are routed to web page addresses.        
+	Its a very fundamental issue with how the entire addressing scheme of the Internet works, Securosis analyst Rich Mogul said in a media conference call. Youd have the Internet, but it wouldnt be the Internet you expect. (Hackers) would control everything.        
+	The flaw would be a boon for phishing cons that involve leading people to imitation Web pages of businesses such as bank or credit card companies to trick them into disclosing account numbers, passwords and other information. Attackers could use the vulnerability to route Internet users wherever they wanted no matter what website address is typed into a Web browser.        
+	Security researcher Dan Kaminsky of Ioactive stumbled upon the Domain Name System (DNS) vulnerability about six months ago and reached out to industry giants including Microsoft, sun and cisco to collaborate on a solution.        
+	Kaminsky built a web page, www.Doxpara.Com, where people can find out whether their computers have the DNS vulnerability.                                                                                                                                                                           
+</TEXT> 
+</DOC>

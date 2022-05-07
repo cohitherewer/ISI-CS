@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO>1051217_nation_story_5611927.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Nation
+
+ Spam smart, Net smarter
+
+ M. RAJENDRAN
+
+ Home minister Shivraj Patil talks to the media in Parliament after the security alert. (AFP)
+
+ New Delhi, Dec 16: The bomb scare in Parliament was tracked to an email from Sifys network in Chennai. But Sify claimed that the person who sent the email was using its web-based mail service ? sify.com ? and Bhartis network.
+
+ Bharti said it was extending full cooperation to the authorities in the investigation.
+
+ According to a VSNL software expert, web-based mails (like hotmail or rediffmail) in theory are more easily used as a communication tool for nefarious purposes rather than conventional email.
+
+ But security agencies have been able to track down culprits, thanks to a technology that makes it possible to trace the route, origin and network of an email. It can also be put to use at home to catch virtual crooks.
+
+ Every email message has a header and body. The header has the senders and recipients names and addresses (From: and To:), the date and time when the message was sent and the subject of the mail. The body contains the actual text and/or attachments.
+
+ Every time a mail comes to a server, it processes a message and adds a special line ? the Received: line ? to the header. It has the servers name and Internet Protocol address and the address of the machine from which the server had received the message along with the name of the server.
+
+ With every server putting its Received: line at the top, even if it is from a spammer, the original address will be at the bottom of the Received: line chain.
+
+ Once the origin is traced, it can lead to the computer it was sent from, after which physical policing takes over.
+
+ In case the mail is sent from a cyber cafe, the probe brings within its ambit the Internet service provider on whose network the mail has travelled. Section 90 of the Information Technology Act provides for state governments to devise rules to monitor cyber cafes.
+
+ Many state governments have made it mandatory for cyber cafe owners to maintain a logbook, which should list the names, addresses and identification of all customers. 
+
+
+
+
+</TEXT>
+</DOC>

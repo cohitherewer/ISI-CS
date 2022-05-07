@@ -1,0 +1,194 @@
+<DOC>
+<DOCNO>1050320_calcutta_story_4514448.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+Disk capacity, OS installation
+
+Q amp; A : Thanks for writing in with your computer 
+
+worries. Keep the emails coming!
+
+VSNL mail trail 
+
+ So you use BSNLs DataOne broadband connection and would prefer using 
+
+a mail program like Outlook Express or Thunderbird to send and receive emails 
+
+from your VSNL account? Sorry, you cant. And its not just BSNL, emails 
+
+cannot be sent (they can only be received) using any non-VSNL Internet service 
+
+providers (ISP) connection for a VSNL email account, since POP access is 
+
+not allowed. 
+
+ The workaround: try using VSNLs web interface (http://webmail.vsnl.com) 
+
+and send/receive email like you would for any other email service such as Hotmail 
+
+or Yahoo. The other option is to buy an Internet pack from VSNL itself.
+
+Nishant Roy: My PC configuration is: Intel 
+
+845-GVSR motherboard, Pentium IV 2.4 GHz processor, 256 MB DDR RAM, 80 GB HDD, 
+
+Windows XP Professional. When I defragment my hard drive, the four partitions 
+
+take up 74.49 GB. Does the operating system take up the rest of the space? Is 
+
+there a way of installing Win 98 and Win XP Home on my computer without deleting 
+
+Win XP Pro?
+
+I have a Samsung Trution MultiMedia keyboard with 
+
+the driver installed. When I try to put the PC on Standby, ?device driver interfering 
+
+with standby? message appears. When I press the keyboard?s Sleep button, the PC 
+
+restarts and Scandisk starts running.
+
+Is it safe for DDR RAM and SD RAM to coexist on my 
+
+motherboard?
+
+Recently, I installed an anti-virus which showed only 
+
+125 MB RAM free. How can that happen? 
+
+TechTalk: Hard disk manufacturers specify the 
+
+drive size in decimal notation (1 KB=1000 bytes) instead of the binary notation 
+
+(1 KB=1024 bytes) used by the computer. Thus the discrepancy. Partitioning and 
+
+formatting the disk and file system overhead take up further space, leaving around 
+
+95 per cent of the size advertised.
+
+Win 98 should be installed first and then Win XP Home 
+
+and Win XP Professional, in separate partitions. You can instal the other two 
+
+operating systems without deleting Win XP Pro from the first partition. Create 
+
+a Win XP rescue disk and edit your boot.ini file after all installations are complete.
+
+Your keyboard driver software is either corrupt or 
+
+in conflict with other system software. Download and instal the latest driver 
+
+from the manufacturer?s website.
+
+Intel 845GVSR motherboard supports only DDR SDRAM 
+
+modules so, there?s no question of SDRAM and DDR (SD) RAM coexisting.
+
+Your system software and active programs, including 
+
+those running in the background, are using up the rest of the memory. Windows 
+
+can free up more RAM, if needed.
+
+On-board broadband 
+
+ Now work, play, surf, chat and watch live TV on flights. Singapore Airlines 
+
+has become the first airline in the region to introduce broadband service in the 
+
+aircraft. Connexion by Boeing, as the service is called, provides passengers with 
+
+real-time and high-speed Internet connectivity.
+
+ Using Connexion, passengers with wireless-enabled laptops can send and receive 
+
+emails and even connect with their corporate virtual private network (VPN). A 
+
+round-the-clock free text chat assistance service will also be provided to customers 
+
+going online during the flight. Starting June, passengers of the airline will 
+
+also be able to watch live TV on board. 
+
+Saraswat Chakraborty: I have PIII processor 
+
+with 128 MB SD RAM and 40 GB HDD. Six GB is allocated for Red Hat Linux. I have 
+
+C: and D: drive partitions in the remaining 34 GB, where Win ME is installed. 
+
+During booting, I used to get the option of Windows or Linux. A few days ago, 
+
+I installed Win XP Pro and now I get to choose only between Win ME and XP. The 
+
+Linux partition is lost. Can I format that partition and add it to any of my existing 
+
+Windows partitions without formatting the entire hard disk?
+
+TechTalk: Installing Windows after Linux overwrites 
+
+other boot loaders (Lilo or Grub) and that is why you can?t access Linux. If you 
+
+created the boot diskette during Linux installation, boot your PC with it, log 
+
+in as root, go to the command prompt and type ?lilo? (or ?grub-install? if the 
+
+boot loader is Grub) and press Enter. You should see something like ?DOS added? 
+
+or ?Linux added?. Restart your PC, the problem will be fixed.
+
+If you don?t have the boot diskette, boot your PC 
+
+with the Linux CD. You have to set your CDROM as the first boot device in BIOS 
+
+for this. Type ?linux rescue? and press Enter. At the command prompt, type ?chroot/mnt/sysimage? 
+
+and press Enter. Next, type ?lilo? (or ?grub-install? if the boot loader is Grub) 
+
+and press Enter. Restart the computer and you should have the boot prompt.
+
+It is possible to format or convert the Linux partition(s) 
+
+into Windows partition (FAT32 or NTFS) without formatting the entire hard disk 
+
+by using third party softwares like Partition Magic (www.powerquest.com). 
+
+However, data from the converted partitions will be lost since Linux uses EXT3 
+
+type partition.
+
+Debashis Nag: I have PIV 2.66 GHz processor, 
+
+Intel original motherboard, 256 MB DDR RAM, 40 GB HDD with Win 98 and Win XP Pro. 
+
+Video playback on my PC, particularly movies, is not smooth and is often hazy. 
+
+For diagnostic purpose, I used ?dxdiag? command, which displayed the message ?Error: 
+
+problem getting extra display info, result code=ox80004005 (generic failure)?. 
+
+I have installed DirectX 8.1 but it didn?t help.
+
+TechTalk: Download and instal the latest software 
+
+and driver files for your motherboard and graphics card from the manufacturer?s 
+
+website. Try installing the latest version of DirectX (9.0c). You can download 
+
+it from http://www.microsoft.com/wi-ndows/directx/default.aspx. It will 
+
+upgrade your version of DirectX and also fix corrupt or missing files. Try using 
+
+a video-playing software like Cyberlinks PowerDVD (http://www.gocyberlink.com).
+
+Write in with your computer- related problems to TechTalk. Be sure to include 
+
+the configuration of your PC and be specific about the problem. Write to techtalkabpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

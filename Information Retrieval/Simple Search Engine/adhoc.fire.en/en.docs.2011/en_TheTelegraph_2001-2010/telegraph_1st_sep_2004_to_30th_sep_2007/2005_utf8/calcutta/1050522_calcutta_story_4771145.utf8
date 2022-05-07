@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO>1050522_calcutta_story_4771145.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+.style1 {color: CC0000}
+
+ Windows Gen-Y 
+
+ First take on new OS 
+
+ TECK TALK
+
+ A woman plays Pac Man World 3, powered by an XBox 360 game console, in the Microsoft Corporation exhibit area at the 11th annual Electronic Entertainment Expo (E3 Expo) in Los Angeles, California. More than 1,000 computer and video games and related products are slated for debut at this year?s E3 Expo. (AFP)
+
+ The next version of the Windows operating system, Longhorn, is one of the most eagerly-awaited software from the Microsoft stable. DAVID POGUE takes a sneak peek. 
+
+ Microsoft recently showed me a very, very early version of the next version of Windows, code-named Longhorn. It?s not even in its first beta-test version, so a lot could change, and the final version won?t be available until the 2006 holiday season (that?s right, it?s a year-and-a-half away).
+
+ Even so, the version I saw is far ahead of the version that Microsoft demonstrated at the WinHEC conference. So considering that around 200 million people use Windows, I thought I?d share my impressions.
+
+ Windows goes Apple
+
+ First of all, Microsoft has had quite a swig of the Apple Kool-Aid; product manager Greg Sullivan must have used the word ?elegant? for the new cosmetic Windows design (which is indeed beautiful) about five times. 
+
+ Apple-esque features include the new system-wide search box at the upper-right corner of every desktop window and atop the Control Panel window, much like the Spotlight search box that debuted in Mac OS X Tiger. Similarly, the three control buttons at the top of each window light up as the cursor passes over them, and windows shrink away with an animation when minimised, just as in Mac OS X.
+
+ On the other hand, many of the new features represent Microsoft?s own creative thinking, especially when it comes to everyday folder windows. Window title bars are translucent, which Microsoft says makes it easier to notice that one window is overlapping another. And you can make icons in a window larger or smaller in real time, with no loss of clarity, by turning your mouse?s scroll wheel while pressing the Ctrl key.
+
+ Stacking it up
+
+ In one of the new icon views, folder icons appear to be tipped 90 degrees. In real life, of course, such folders would dump out everything inside. But in this experimental view, you can see some of the documents inside peeking out: thumbnails of the first pages of the actual documents inside!
+
+ The idea of ?stacks? has been kicking around system software seminars for years, but it looks like Longhorn will bring them to the masses. It?s another icon view, in which your documents look like they?re piled up in literal piles of paper; the taller the stack, the more stuff is in there.
+
+ Thanks to a radically different set of sorting criteria, you can define how your stuff is sorted into stacks: chronologically, by author, by keyword, and so on. (Note to the technical: In other words, Windows is about to go metadata-crazy. You can apply keywords to your documents right in a folder window, using a collapsible list of keywords at the left side. And you can edit other kinds of metadata ? date, author, keyword, music genre, and so on ? in a panel at the bottom of the window.)
+
+ The long and short of it
+
+ Yet another change in desktop windows is the ?list?. It?s an area that you can summon at the right side of the window; any icons you drag there turn into shortcuts, no matter where they originated (on the Internet, on a network server, on your own hard drive, and so on). You can build as many lists as you want. They?re handy, they?re flexible, and you can email one to other people so they can play with the same set of documents and folders you have. 
+
+ The only downside to all this desktop-window magic is that, with so many features crammed into so little space, mastering all of these controls may become overwhelming. At one point during the demonstration, a window full of documents had two stacked menu bars at the top, a panel at the left side showing ?virtual folders? (like Keywords and Recent), a panel across the bottom for editing those file details, and a panel down the right side showing lists. I had to squint just to find the actual document icons, huddled in a little square in the middle of the window.
+
+ (Of course, complexity has never been an impediment to Windows?s success in corporations, where Microsoft?s bread is buttered; if anything, complexity means job security for the very people who buy 500 copies of Windows at a time. Furthermore, it?s important to remember that, with 19 months to go before the next Windows is released, Microsoft has a heck of a long time to simplify and straighten out all of these feature ideas.)
+
+ It just works
+
+ Microsoft has also elegant-ised the Start menu, which, with the weirdly overlapping All Programs menu in XP, desperately needed a rethink. Now it?s only two columns ? the same two you have in Windows XP ? but you can expand and collapse folders in the left-side list with just a click, to save space and assist with organisation.
+
+ When you click the All Programs button in Longhorn, you replace the left-side column with a scrolling list of your programs. There?s a little Spotlight-ish search box at the bottom, too, so you can jump to a program whose name you know with a couple of keystrokes. These are very nice changes.
+
+ Now, I?ve just focused here on the on-the-screen differences; Longhorn will also include a huge number of deeper-seated architectural features ? self-healing features, a new driver system, and so on ? that Microsoft says will drastically improve Windows?s security and reliability. ?It just works,? says one of the slides in Microsoft?s PowerPoint presentation.
+
+ Of course, Microsoft says this kind of thing EVERY time it releases a new version of Windows (especially ?It just works?). Here?s hoping that in the next year-and-a-half, the company puts its coding where its mouth is.
+
+
+
+
+</TEXT>
+</DOC>

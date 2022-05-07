@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO>1041205_calcutta_story_4089597.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Click crisis cures 
+
+Write in with your computer-related problems to TechTalk. Be sure to include the configuration of your PC and be specific about the problem. Write to techtalkabpmail.comThanks for writing in. Here are some more solutions to your queries. Keep the emails coming!
+
+Souvik Samanta: I have a HCL Bean Stalk with 2.4 GHz processor, Intel PIV 
+
+motherboard, 128 MB RAM, 40 GB HDD and Windows XP Home Edition. When I dial 172222 
+
+and connect to BSNL account-free Internet, Internet Explorer shows ?The page can?t 
+
+be displayed? message. If I disable my anti-virus software completely (not just 
+
+site filter, firewall, webtrap, mail scan etc) then the pages open. I have PCCillin 
+
+2002 anti-virus software. I am trying Norton 2003 and McAfee but they give the 
+
+same results. My Internet security is set to default.
+
+ TechTalk: You didn?t mention whether you have installed the latest Windows XP Service Pack. Besides, it seems your anti-virus software is not up to date (never instal more than one anti-virus). The Internet Connection Firewall built into Windows XP may not be properly configured. To ensure your computer protection while you are online, follow these steps. Back up your files before starting the process. 
+
+ 2. Instal the latest Service Pack for your operating system and use Automatic Updates feature of Windows XP to get the recent security updates.
+
+ 3. Finally, to ensure complete protection, your anti-virus software must be up to date. Most anti-virus companies offer subscription services to ensure clients getting the latest updates. (If you opt for Norton Antivirus, go for Norton 2004 or Norton 2005).
+
+Angsuman Ghosh: I have a PIII PC with Windows 98SE. My problem is that I cannot 
+
+change the home page in the Internet Connections tab; it is simply disabled. Also 
+
+Registry Editing is not allowed. Every time I type Regedit, a message comes saying 
+
+?Registry editing has been disabled by your administrator?. Please help.
+
+ TechTalk: Chances are that your computer has been infected by some spyware. Download and instal SpyBot (www.safer-networking.org) or AdAware (www.lavasoftusa.com/software/adaware). These are scanning tools which find and get rid of spyware. If that doesn?t solve your problem, restart your computer in MSDOS mode. At the command prompt, type ?scanreg /restore? (don?t overlook the space between ?g? and ?/?. If you have been keeping back-ups of your registry, here you?ll find last five backed-up registry). This will restore your original registry setting and now you can edit Windows Registry by ?regedit?. You can now change your default search page by tweaking the registry. Open the registry and navigate to HKEY_CURRENT_USER\Software\ Microsoft\InternetExplorer\Main; change the value of ?Search Page? to name of your favourite website (example ?http://www.google.com).
+
+A model displays a wearable computer at a fashion show in 
+
+Seoul. The eyeglass serves as a monitor for the hard disk worn on the wrist
+
+Alekhya Chakrabarty: I have a Intel PIV motherboard with 256 MB RAM and 40 
+
+GB HDD. I had Win 98 and XP Professional installed in my machine. While starting 
+
+up Win98 one day, I found the desktop being inclined horizontally to the right. 
+
+Having changed the angle from the Intel extreme graphics option, I tried to change 
+
+the resolution to 1024x768. The screen blanked out and since then every time I 
+
+try to boot with Win 98 the machine boots properly but screen remains blank showing 
+
+an ?out of frequency? message. Trying the safe mode and last best configuration 
+
+hasn?t helped either.
+
+ TechTalk: If the safe mode fails with both operating systems, disable external cache (also known as secondary cache or CPU cache in BIOS) . Press Delete during booting to enter BIOS setup. Go to Advanced BIOS Features menu and disable the option. Also, check if the RAM modules fit properly in the slots.
+
+ If the safe mode works fine with XP, your Win 98 system may be corrupt. Recovery depends on how the OSs are installed. If both Win 98 and XP are installed in the same partition, your safest bet is to delete the Windows 98 ?Windows? folder. Next, modify the ?boot.ini? file and remove the line corresponding to Windows 98. However, if both OSs reside on different partitions, reinstal Windows 98 from the bootable CDROM by booting your computer from this CD (change the boot sequence so that the CD is read first). After Windows 98 is reinstalled, you need to boot via the XP bootable CD and use the Recovery Console to access Windows XP. 
+
+Avik De: I have an assembled PC with PIII 1133 MHz processor, 256 MB RAM, 
+
+Intel 82810 chipset on a Gigatech motherboard and Windows XP Professional. My 
+
+audio controller (from Device Manager) is ?Intel(r) 82801BA/BAM AC?97 Audio Controller?. 
+
+In a program using audio input I get a ?Error opening wave input device? error. 
+
+?Intel(r) Integrated Audio? is present. 
+
+TechTalk: Check if Line in/Microphone in Volume 
+
+Control properties is not set to mute. The AC?97 Audio Device Driver included 
+
+with Windows XP Professional does not perform well with Intel 82801BA/BAM AC?97 
+
+Audio Controller and by default Windows XP is installed with this Audio Driver. 
+
+You have to instal an updated device driver. Download the latest driver file AC97_98SE_ME_2000_XP.EXE 
+
+from www.driverguide.com (http://members.driverguide.com/driver/detail.php?driverid=63605). 
+
+Extract to a new folder. Uninstal the old driver from Device Manager, run ?setup? 
+
+from the new folder. Restart your computer. If this doesn?t help you might have 
+
+to change your OS, or instal a different sound card.
+
+Write in with your computer-related problems to TechTalk. Be sure to include the 
+
+configuration of your PC and be specific about the problem. Write to techtalk@abpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

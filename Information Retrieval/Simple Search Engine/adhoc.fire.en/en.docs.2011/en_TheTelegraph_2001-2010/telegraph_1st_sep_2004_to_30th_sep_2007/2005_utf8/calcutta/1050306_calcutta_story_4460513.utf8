@@ -1,0 +1,160 @@
+<DOC>
+<DOCNO>1050306_calcutta_story_4460513.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+Drives and driversQ amp;A
+
+Thanks for writing in with your computer worries. Keep 
+
+the emails coming! 
+
+TECH TALK
+
+Arindam Das: My PC has 2.8 GHz Pentium IV processor, 
+
+Intel D865GBF motherboard, 40 GB HDD and 256 MB DDR RAM. While partitioning the 
+
+hard disk, the Disk Manager shows two hard disk drives with the model number of 
+
+the installed drive and another non-existent 8.41 GB drive.
+
+After partitioning and formatting the original drive 
+
+in FAT32, a non-DOS partition is being created. I?m unable to instal Windows 98 
+
+even after partitioning and formatting using FDISK. 
+
+TechTalk: Your HDD is not properly installed 
+
+and is configured with wrong partition information. You didn?t mention the version 
+
+of Disk Manager or the HDD brand and whether it is parallel or serial ATA. Download 
+
+the latest version of installation software like Disk Wizard for Seagate or Disk 
+
+Manager special edition for Samsung from the HDD manufacturer?s website.
+
+After preparing the disk installation floppy(s), check 
+
+the jumper and cable. In case of older parallel ATA drive, use the 80-wire data 
+
+cable singularly for the HDD and check whether the jumper is set as master drive. 
+
+Don?t attach other IDE drives like CD/DVD ROM to the same cable.
+
+Switch on your PC and enter BIOS by pressing ?Del?. 
+
+Go to Advanced Menu Drive Configuration. Check whether the HDD is configured with 
+
+accurate model no. (PATA Primary Master or secondary Master) and no other drive 
+
+is configured as slave. Select your Hard Drive and check or adjust to set the 
+
+Drive type in ?Auto? mode. Set Floppy Drive as the First Boot Device. Press F10 
+
+to save and exit BIOS.
+
+Reboot PC with the first floppy of the Disk Installation 
+
+software and follow the on-screen instruction. Select New Drive Installation even 
+
+if the disk installation software displays a Hard Disk already installed and configured. 
+
+This is important to rectify the earlier partitioning and formatting errors.
+
+You should consult the user?s guide (also available 
+
+on the hard disk manufacturer?s website) before using the installation software.
+
+BIG 
+
+BYTE
+
+A JVC employee displays 8 cm DVDs made of 
+
+vegetable-based plastic. The environmental-friendly discs were developed using 
+
+polylactic acid, extracted from corn starch. (AFP)
+
+Soham Dev Maiti: Where can I get the driver 
+
+for Conexant HSF V92 56K PCI Modem for Red Hat Linux 7.3 and how do I configure 
+
+it?
+
+TechTalk: Conexant HSF V92 56K PCI Modem can 
+
+be made to work under most current Linux distributions, with 2.4 or 2.6 kernels. 
+
+Drivers are available at http://www.linuxant.com. Instal the rpm by issuing 
+
+the ?rpm -i hsfmodem-{version}.{arch}.rpm? command. Detailed instructions on how 
+
+to configure are available on the website. 
+
+Pijush Banerjee: I have problems saving to 
+
+a floppy disk. Sometimes, when I try to open documents saved on a floppy, ?illegal 
+
+function? message appears.
+
+I am also unable to erase my document from the PC 
+
+since it is in ?read only view?.
+
+My PC screen often turns pink and starts blinking.
+
+TechTalk: Ensure that the floppy disc is not 
+
+write-protected by adjusting the notch on the lower left corner of the floppy.
+
+To delete content, try the DOS mode. Type ?a:? and 
+
+then ?DEL *.*? or format the floppy by typing ?Format a:?. Remember, floppy disks 
+
+are prone to damage and faulty disks often generate read/write errors.
+
+To change the ?read only? attribute, right click on 
+
+the file and go to Properties. Uncheck the ?read only? box.
+
+Your monitor is faulty and needs to be serviced.
+
+Rikdeb Mukherjee: I have Pentium IV processor 
+
+with 256 MB RAM, Windows 98 and XP. My CDROM drive is unable to read CDs.
+
+Also, soon after booting, my PC boots shows ?Low Virtual 
+
+Memory?. I tried to increase the virtual memory manually, but it didn?t help.
+
+TechTalk: There seems to be trouble with the 
+
+drivers for IDE hard disks or CDROM drive. In Device Manager, remove the IDE ATA/ATAPI 
+
+controllers and reboot for Plug and Play to start over and configure them again.
+
+The page file might also have become corrupt. In the 
+
+Virtual Memory settings, set ?No page file?, exit System Properties, shut down 
+
+the computer and reboot. Delete the file PAGEFILE.SYS (on each drive), set up 
+
+page file again and reboot.
+
+If the problem persists and if your computer has an 
+
+Intel chipset, uninstal Intel?s Application Accelerator and get an updated version.
+
+Write in with your computer-related problems to TechTalk. Be sure to include 
+
+the configuration of your PC and be specific about the problem. Write to techtalkabpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

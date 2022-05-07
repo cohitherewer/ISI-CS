@@ -1,0 +1,32 @@
+<DOC> 
+<DOCNO>1080517_opinion_story_9234885.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Opinion | Letters to Editor
+                                                                                                                                                                                                                                                                                                                                                           Letters to Editor
+                
+	Services not needed                  
+	Sir  The decision of the defence minister, A.K. Antony, to do away with sahayaks (personal orderlies) for officers in order to facilitate higher salaries in the Indian army is a welcome move (Disband servant army, earn more: Antony, April 30). The sahayak system, a raj hangover, is best disbanded, because of the humiliating chores that the new recruits to the army are made to do. Antony feels that young men today are better educated and thus have greater self-esteem. However, the brashness of most armymen and their high-handed behaviour in public places contradict the ministers statement.           
+	Yours faithfully,        Md. Motleb Ali, Calcutta
+        
+	Tech trouble          
+	Sir  As a software developer who uses Apache Tomcat everyday, I could not stop laughing when I read the report by Nishit Dholabhai about the alleged hacking of the cabinet secretariat website by a private software company called Apache Tomcat (Peeping Tomcat sets off govt hacking alarm, May 5). The correspondent should have sought more information on the Tomcat before filing his ridiculous report.           
+	All websites need a web server. The Apache Tomcat is a very popular, free web server which millions of organizations around the world use. A web server is to a website what plumbing and electrical connections are to a house. It is clear from the report that the government website is using Tomcat as its web server. Probably due to the improper placement of some files on the site, your reporter was directed to the Tomcat manager page. This is not the software companys default homepage as your correspondent wrongly reports. When an organization downloads and then uses Tomcat as its web server, the manager page is used by the websites administrator to investigate any problems. In fact, if configured properly, Tomcat provides sufficient facilities to protect a website from hacking.           
+	Yours faithfully,       
+Shyamal Pain, Webb City, US 
+
+      
+	Sir  The news article, Peeping Tomcat sets off govt hacking alarm betrays the lack of knowledge of the correspondent on IT matters. The Apache Software Foundation, which created the Tomcat, is a non-profit organization of computer professionals, many of whom are Indians. Tomcat is used by millions of websites across the world. The cabinet secretariats website, like many others, including The Telegraphs own website, is using this free software in their web server. More often than not, a hacked site would display the signature of the hacker in the form of a replaced page showing credits of the hacker group or result in access to unauthorized areas rather than displaying the default page of the Apache Tomcat Server. Only the uninitiated would confuse this page with the hacked page of a website. Moreover, the most sensitive data of a government department are rarely accessible through a website. And in any case, the hacking of government websites in India always results in loss of face rather than in any kind of security threat.           
+	There is no doubt that The Telegraphs report has provided much amusement to todays tech-savvy generation.           
+	Yours faithfully,       
+Santanu Acharya , Calcutta
+
+                          
+	Parting shot          
+	Sir  Three days are too little time to heal the pain caused by heartache (Dumped? Dont cry, take heartache leave, May 14). In fact, the impact of traumatic events such as bereavement and divorce hits a person days after the actual occasion of loss. Solitude and introspection, rather than helping matters, often cause further depression. A holiday sponsored by ones employers is sure to bring quicker relief.           
+	Yours faithfully,       
+Tapan Pal, Batanagar
+
+                                                                                                                                                                             
+</TEXT> 
+</DOC>

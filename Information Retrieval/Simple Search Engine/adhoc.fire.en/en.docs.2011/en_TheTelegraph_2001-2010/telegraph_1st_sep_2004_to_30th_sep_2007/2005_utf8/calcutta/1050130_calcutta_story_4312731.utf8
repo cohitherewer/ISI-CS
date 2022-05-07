@@ -1,0 +1,100 @@
+<DOC>
+<DOCNO>1050130_calcutta_story_4312731.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+Just Express it 
+
+- Graphics GA-GA 
+
+TechTalk
+
+Does your PC groan while playing Half Life 2 
+
+or FIFA 2005? The culprit could be the graphics card. 
+
+For the average home user, a motherboard with in-built 
+
+graphics system could be enough, but the hardcore gamer or multimedia professional 
+
+needs a lot more.
+
+AGP (Advanced Graphics Port) is the popular pick. 
+
+On a tight budget, an AGP card with 128 MB Video RAM and 6.4 GB per second memory 
+
+bandwidth is a good bet. Try Geforce FX 5200 and Radeon 9550 models, which should 
+
+cost between Rs 4,000 and 5,000. Remember to check for DirectX 9 and OpenGL 1.4 
+
+compatibility. High-end chipsets like nVidia Geforce 5900 or ATI Radeon 9700 with 
+
+256 MB Video RAM would come for Rs 13,000-35,000.
+
+But the dominance of AGP cards may soon be over, thanks 
+
+to PCI Express. Chip-maker Intel and industry giants IBM, Dell, Compaq, HP and 
+
+Microsoft are behind this technology, designed for use in enterprise, desktop, 
+
+mobile, communications and embedded platforms. 
+
+PCI Express was designed as a general-purpose interface. 
+
+The usefulness of an interface is determined by the data bandwidth it can provide 
+
+between the system and peripherals. Higher the bandwidth, greater the data that 
+
+can be moved between devices such as a network and other components.
+
+The limitations of the PCI standard led to the development 
+
+of PCI Express. For some technical details, unlike the traditional PCI Bus where 
+
+a single parallel data routes all data at a set rate, PCI Express Bus architecture 
+
+comprises serial, point-to-point wired, individually clocked ?lanes? that carry 
+
+data upstream and downstream. 
+
+The technology presents an attractive proposition 
+
+for motherboard manufacturers. The number of trace-routes on a motherboard would 
+
+be considerably reduced by the adoption of point-to-point circuitry, thus significantly 
+
+cutting costs of manufacturing motherboards in future. Further, since each lane 
+
+is exclusively used for communication between two points, the available bandwidth 
+
+does not need to be shared.
+
+Other pluses include lower power consumption, high 
+
+wattage to graphics cards, peer-to-peer communication and the capability to link 
+
+several graphics cards together.
+
+Intel is already shipping PCI-X based 925, 915P and 
+
+915G motherboard chipsets for Pentium IV processors. Motherboards for AMD64 are 
+
+also becoming available with this technology. PCI-X graphics cards like ATI Radeon 
+
+X600 XT and NVIDIA GeForce PCX are already a hit with gamers. 
+
+It remains to be seen how soon game developers start 
+
+making full use of this hardware muscle. However, the future of computer graphics 
+
+is sure to revolve around PCI Express.
+
+ARUP MANDAL
+
+
+
+
+</TEXT>
+</DOC>

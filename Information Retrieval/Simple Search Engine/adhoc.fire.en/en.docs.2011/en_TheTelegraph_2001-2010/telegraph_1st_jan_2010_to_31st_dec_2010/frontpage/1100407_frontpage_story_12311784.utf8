@@ -1,0 +1,30 @@
+<DOC> 
+<DOCNO>1100407_frontpage_story_12311784.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Frontpage | Chinese hack India secrets
+                                                                                                                                                 1                                                                                Chinese hack India secrets
+          G.S. MUDUR                                              
+	New Delhi, April 6: Unidentified hackers based in China systematically penetrated computers in sensitive Indian government offices, including the National Security Council Secretariat, electronically stealing documents on Maoists, missiles, and personal and financial information on Indian officials, cybersecurity watchdogs said today.        
+	A consortium of cybersecurity professionals at the University of Toronto, Canada, and other institutions have said their investigation has revealed a complex web of cyber espionage that has compromised at least 35 computers in India, a computer in the office of the Dalai Lama and some in the UN and other countries.         
+	Although the identity and motive of the attackers remain unknown, a report released after the eight-month investigation provides circumstantial evidence that the hackers operated or staged their operations from Chengdu in China. The investigation report has pointed out that Chengdu is also a city where the Peoples Liberation Army  the Chinese army  has stationed one of its technical reconnaissance bureaus tasked with signals intelligence collection.        
+	The dozens of documents stolen by the hackers from computers in Indian security establishments include two documents that are marked SECRET, six marked RESTRICTED, and five marked CONFIDENTIAL, the report said.        
+	We do not have direct evidence that they were stolen from Indian government computers, and they may have been compromised as a result of being copied by Indian officials onto personal computers, the investigators said in a statement released through the University of Toronto.        
+	Sensitive personal, financial and business information on Indian officials was systematically harvested and exfiltrated by the attackers, the investigators said. Some of the stolen information may be leveraged for future attacks, they said.        
+	Whether the attackers are working for state agencies or freelancing and selling stolen data or trade craft on the global grey market, this is a clear wake-up call, said Rafal Rohozinski, chief executive officer of SecDev Group, a senior research adviser at the Munk School of Global Affairs, University of Toronto.        
+	The investigators at the University of Toronto and other agencies tracking cybersecurity issues released a joint report of their investigation titled Shadows in the Cloud.        
+	A computer security expert said Indian officials had known and had been tracking the intrusions for longer than a year, and had taken steps to minimise the risk of such attacks.         
+	Truly sensitive information is unlikely to be placed on a computer which is on a public network, said N. Balakrishnan, professor at the supercomputer education and research centre and associate director of the Indian Institute of Science, Bangalore.        
+	But having said that, any such intrusion into computers in sensitive offices is something to be worried about. Its a violation of privacy and pride, Balakrishnan told The Telegraph.        
+	Computer security specialists have long maintained that the most sensitive data or information should be maintained on computers that are physically separated from computers that are linked to public networks.        
+	Balakrishnan said the intrusions should spur security experts to reinforce awareness of the best practices among government officials. You might find free networks in Chinese cities  an official might use the free network to remotely log onto an office computer and just check mail. That activity could be monitored through software. This should be discouraged, he said.        
+	The Indian government has not revealed details of its own investigation into the intrusions. A defence ministry official today said the government was studying the new report.        
+	The documents stolen from the National Security Council Secretariat appeared related to security situations in the northeastern states and Naxalism, while a document from a military establishment was related to surface-to-air missile systems and moving target indicators. The hackers also fed on computers in Indias diplomatic missions in Kabul, Moscow, Nigeria and Dubai.        
+	According to the investigators, the recovered documents include 1,500 letters sent from the Dalai Lamas office between January and November 2009. A study of the documents suggests that the attackers targeted specific systems and profiles of users.        
+	In their investigation into the hackers activities, Rohozinski and colleagues collected samples of malware (malicious software) used by the hackers to infiltrate computer systems, mapped their command-and-control infrastructure and identified their targets and the stolen documents.        
+	One attacker used Yahoo!Mail accounts as command and control servers, from which the attacker sent emails containing new malware to the already compromised targets. All the Internet addresses the attacker used are based in Chengdu.         
+	The infrastructure appears to be tied to individuals in Chengdu, the investigators wrote in their report.         
+	At least one of these individuals has ties to the underground hacking community in China and to the University of Electronic Science and Technology of China in Chengdu, they said.        
+	This is a fascinating look at the activities of individuals involved in cyber espionage, said Steven Adair, a security researcher with the Shadowserver Foundation.                                                                                                                                             
+</TEXT> 
+</DOC>

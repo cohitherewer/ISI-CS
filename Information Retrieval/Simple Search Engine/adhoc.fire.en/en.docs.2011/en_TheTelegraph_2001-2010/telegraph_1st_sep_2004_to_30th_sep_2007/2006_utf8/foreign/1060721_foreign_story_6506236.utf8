@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>1060721_foreign_story_6506236.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : International
+
+ Microsoft in virus warning
+
+ Seattle, July 20 (Reuters) Microsoft Corp. warned about a new computer virus that exploits a vulnerability in its PowerPoint presentation software to allow hackers to infiltrate computer systems.
+
+ Microsoft issued an advisory on the companys security Web log on July 17 about the virus, which is carried out when a user launches a PowerPoint attachment to an e-mail or opens a file provided to them by the attacker.
+
+ Hackers could also lure users to a Web page that offers content or advertisements containing a file that exploits the PowerPoint software, Microsoft said. The vulnerability applies to PowerPoint 2000, 2002 and 2003.
+
+ Once the user triggers the corrupt PowerPoint file, the virus installs a keystroke logging system to capture everything typed on the machine. It also leaves the machine open to having a hacker install other malicious programmes. It installs a backdoor and allows for all types of software to be downloaded on the computer and the computer can be remotely controlled, said Alfred Huger, a security expert at Symantec Corp. Microsoft said it was completing development of a security update to fix the vulnerability and was on schedule to release the patch on August 8. 
+
+ Default search service
+
+ On Wednesday, Microsoft said that computer manufacturers will be able to set Google or other non-Microsoft search engines as the default search service in the next version of its flagship Windows operating system. 
+
+
+
+
+</TEXT>
+</DOC>

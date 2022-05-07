@@ -1,0 +1,189 @@
+<DOC> 
+<DOCNO>1091119_calcutta_railways.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Metro | Railways
+                                                                                Thursday , November 19 , 2009                                                                                                                                                                                Railways
+                RAILWAY 
+ SMS SERVICES
+
+   For PNR status 
+
+  e.g. IRPNR 825275182 
+
+ For Schedule 
+
+ sms IRTRAIN [train name] or [ train no] to7886
+
+ e.g. IRTRAIN 238 
+
+ For Timetable 
+
+ sms IRTT [train name] or [train number] to 7886
+
+ e.g. IRTT 2052 
+
+ For trains between two stations 
+
+ sms IRSCH [Stn1] to [Stn2] to 7886
+
+ e.g. IRSCH New Delhi to Howrah Jn 
+
+ For Seat Availability 
+
+ sms IRSAVB [ train no] [Stn1] to [Stn2] [DD] [MM] to 7886
+
+ e.g. IRSAVB 2304 new delhi to patna 15 08 
+
+ For Info on Train Delay 
+
+  For help on any key word 
+
+ sms Keyword [help] to 7886
+
+ e.g. IRSAVB help
+ Code covered by the following service providers:-
+
+ Bharat Sanchar Nigam Linited (BSNL), Cell One, Excel,TATA 
+ Indiacom, Walky
+
+ For help on available services 
+  sms TR to 7070
+
+ For PNR status 
+
+  e.g TRPN 1234567890
+
+ For Departure time status 
+
+  e.g. TRDR 2616
+
+ For Arrival time status
+
+  e.g. TRAR 2616 
+
+ For Fare Enquiry 
+
+   to 7070 
+
+ e.g. TRFA 2616 23 3 SL NDLS MAS
+
+ For Train list between two stations
+
+  to 7070
+
+ e.g. TRTL NDLS MAS SL 
+
+ For Station Code 
+
+  e.g. TRSC New Delhi
+    Eastern RailwayDepartureArrivalUp TimeDown TimeHowrah231119-40Delhi-Kalka Mail23127-10300519-10Amritsar Mail30067-25232122-00Mumbai Mail via Allahabad232211-5023818-20Poorva (New Delhi) Express via Gaya-Varanasi
+DEP :Wed,Thurs Sun
+ARR :Tues,Wed sat238216-4523038-05Poorva (New Delhi) Express Via Patna
+DEP :Mon,Tues,Fri Sat
+ARR :Mon,Thurs,Fri Sun230416-45232318-45Howrah-New Delhi Bi-Weekly Superfast Express
+DEP :Tues Sat
+ARR :Fri Tues23246-00230116-55Rajdhani Express via Gaya
+DEP :Mon,Tues,Wed,Thurs,Fri Sat
+ARR :Mon,Tues,Wed,Thurs,Fri Sun23029-55230513-55Rajdhani Express via Patna
+DEP :Sun
+ARR :Sat230612-45230723-30Jodhpur Express23084-0020196-05Satabdi (Bokaro - Ranchi) Express
+DEP :Except Sunday
+ARR :Except Sunday202021-10202313-55Janashatabdi (Patna) Express
+DEP :Except Sunday
+ARR :Except Sunday202413-25206515-15Howrah-Malda Janshatabdi Express
+DEP :Except Sunday
+ARR :Except Sunday206612-50301115-25Howrah-Malda Intercity Express301211-25233123-45Himgiri (Jammu-Tawi) Express
+DEP :Tues,Fri Sat
+ARR :Tues, Wed Sat233211-30234516-00Guwahati Saraighat Express
+DEP :Wed, Thurs Sun
+ARR :Tues, Fri Sat234611-40300920-35Doon Express via Grand Chord30107-00232712-50Upasana (Dehra Dun) Express
+DEP :Tues Fri
+ARR :Mon Fri232815-0530079-40Udyan Abha Toofan Express via Main Line300819-20303920-20Delhi Janata Express30406-05304914-00Amritsar Express305016-00301921-45Bagh (Kathgodum) Express302012-40302115-45Mithila (Raxaul) Express30224-00595917-35Kamrup (Dibrugarh Town) Express59606-2533176-15Black Diamond Express331821-25233917-15Coalfield Express234010-25234118-20Agnibeena (Asansol) Express23428-45235121-35Danapur Express23526-45307121-45Jamalpur Express30724-40233710-10Santiniketan Express233815-4030176-05Ganadevta Express301821-45302512-50Bhopal Express
+DEP :Mon
+ARR :Thurs302615-05302319-50Gaya Express30243-50233320-00Varanasi (Bibhuti) Express23347-55217517-40Chambal (Gwalior) Express
+DEP :Tues,Wed Sun
+ARR :Wed, Fri Sun21766-30930617-40Shipra (Indore) Express
+DEP :Mon, Thurs Sat
+ARR :Thurs, Sat Mon93056-30144814-30Shaktipunj (Jabalpur) Express14474-15217717-40Chambal (Agra Cantt.) Express
+DEP :Fri
+ARR :Tues21786-30527111-15Muzaffarpur Weekly Exp
+DEP :Wed
+ARR :Wed52723-35Sealdah231316-50Rajdhani Express231410-15314113-35Teesta-Torsa Express31425-00234322-05Darjeeling Mail23446-0056576-45Kanchanjunga Express565819-25232913-00West Bengal Sampark Kranti Express
+DEP :Mon Fri
+ARR :Wed Sun233017-45314719-35Uttar Banga Express
+DEP :Mon , Wed Sat
+ARR :Wed, Fri Mon31488-15314919-35Kanchan Kanya Express
+DEP :Tues,Thurs,Fri Sun
+ARR :Tues,Thurs,Sat Sun31508-15316320-00Hatey Bajarey Express31648-05313320-40Sealdah-Varanasi Express via SBG Loop313411-00310318-20Bhagiroti (Lalgola) Express310410-25318515-40Ganga Sagar Express318606-55231513-00Ananya (Ajmer) Express
+DEP :Sat
+ARR :Tues231615-1525039-05New Jalpaiguri Express
+DEP :Tues, Thurs Sun
+ARR :Mon, Wed Sat250419-55350316-40Asansol Intercity Express
+DEP :Except Sunday
+ARR :Expect Sunday350410-45310513-15Ballia Express31063-30298522-50Jaipur Express
+DEP :Friday only
+ARR :Friday only298613-0523177-40Akal Takht Express
+DEP :Wed Sun
+ARR :Sat Wed231815-15315322-15Gour Express31546-15South Eastern RailwayDepartureArrivalUp TimeDown TimeHowrah260323-30Chennai Mail26044-05281020-15Mumbai Mail via Nagpur28095-40286014-05Gitanjali (Bombay) Express285912-15287014-25Howrah-Mumbai Weekly Superfast Express
+DEP :Friday
+ARR :Monday286919-15207313-40Bhubaneswar-Janashatabdi Express
+DEP :Except Sunday
+ARR :Except Sunday207413-0020216-10Janashabdi (Talanagar-Barabil) Express
+DEP :Except Sunday
+ARR :Except Sunday202221-00210222-55Jnaneswari (LTT) Express
+DEP :Mon,Wed,Thurs Sun
+ARR :Mon,Wed,Thurs Sun21013-45283423-55Ahmedabad Express283313-45284114-50Coromandal (Chennai) Express via Cuttack284212-0027037-20Falaknama (Secunderabad) Express270417-55281317-30Tata Steel Express281410-2528716-50Ispat (Sambalpur) Express287218-50800520-55Sambalpur-Koraput Express80068-05861521-55Ranchi Hatia Express86166-35283722-35Puri Express via Cuttack28384-55840919-00Sri Jagannath (Puri) Express84108-15289521-35288721-35Howrah-Puri Express
+DEP :Monday
+ARR :Monday289607-00288807-00289521-35288721-35Howrah-Puri Express
+DEP :Monday
+ARR :Monday289607-00288807-00284723-45Howrah-Vasco Amaravathi Express
+DEP :Mon,Tue,Thu,Sat
+ARR :Mon,Wed,Fri,Sat284822-3028216-00Dhauli (Bhubaneshwar) Express282220-202867A7-45Howrah-Digha Express
+DEP :Sunday only
+ARR :Sunday only2868A17-00864511-45East Coast (Hydrabad) Express864616-15282716-45Purulia Express282811-20213022-15Azad Hind (Pune) Express21294-0025161-05Guwahati - Howrah - Trivandrum Central Express
+DEP :Thursday only
+ARR :Thursday only251600-45251511-15Trivandrum Central - Howrah - Guwahati Express
+DEP :Tuesday only
+ARR :Tuesday only251510-55250714-15Ernakulam - Howrah - Guwahati Weekly Express
+DEP :Thursday only
+ARR :Thursday only250713-5525081-05Guwahati - Howrah - Ernakulam Weekly Express
+DEP :Saturday only
+ARR :Saturday only250800-45632423-15Howrah - Trivandrum Bi-Weekly Express
+DEP :Tues Sun
+ARR :Sat Mon632313-55Guwahati - Bangalore City Tri-Weekly Express (via Howrah Cuttack)Bangalore City - Guwahati Tri-Weekly Express (via Howrah Cuttack)266316-05Tiruchirapally Bi-Weekly Express
+DEP :Thursday Sunday
+ARR :Thursday Sunday26643-20266516-05Kanyakumari Weekly Express
+DEP :Monday
+ARR :Monday26663-2028836-00Rupashi Bangla (Purulia) Express288421-25290622-55Hapa - Porbandar Bi Weekly Express
+DEP :Friday Saturday
+ARR :Friday Saturday29053-45266023-15Gurudev (Nagercoil) Weekly Express
+DEP :Wednesday
+ARR :Tuesday265913-55286320-35Yedhvantpur (Bangalore) Express via Tirupati28646-15251311-15Secunderabad - Howrah -Guwahati Weekly express
+DEP :Monday only
+ARR :Monday only251310-5525141-05Guwahati - Howrah - Secunderabad Weekly Express
+DEP :Friday only
+ARR :Friday only251400-45522823-15Muzzaffarpur -Howrah - Yeshvantpur Weekly Express
+DEP :Monday only
+ARR :Monday only522822-55522714-15Yeshvantpur - Howrah - Muzaffarpur Weekly Express
+DEP :Friday only
+ARR :Friday only522713-55215221-15Howrah - LTT (Kurla) Samarsata Superfast Express via adra
+DEP :Saturday
+ARR :Friday21518-30Shalimar803015-00Kurla (LTT) Express via Nagpur802912-15288507-45Aranyak (Adra) Express
+DEP :Except Sunday
+ARR :Except Sunday288619-05286708-00Shalimar-Digha Express
+DEP :Except Sunday286816-40Kolkata (Chitpur)311120-10Lal Quila Express via Main Line31127-15504912-45Gorakhpur Express
+DEP :Wed Sun
+ARR :Thurs Sun50504-10505112-45Gorakhpur Weekly Express via Narkatiaganj
+DEP :Fri
+ARR :Fri50484-10504712-45Purbanchal (Gorakhpur) Express
+DEP :Mon,Tues,Thurs,Sat
+ARR :Mon,Tues,Wed,Sat50484-10315111-45Jammu-Tavi Express315215-50314519-30Kolkata Radhikapur Express31465-45315720-55Kolkata - Muzaffarpur Tirhut Express
+DEP :Tues
+ARR :Thurs31583-45315520-55Kolkata - Darbhanga Mithilanchal Express
+DEP :Thurs, Sun
+ARR :Tues, Sat31563-45
+    
+	Enquiries: Howrah old complex: 1310, 2660-2581 (manual), 1331, 1332 2660-3535 (IVRS).  Howrah new complex: 2660-2217. Sealdah: 2350-3535/3537 (manual) and 2350-8828/ 8836/ 8876/ 6825 (IVRS). Shalimar Station: 26681121.  Reservation enquiry: 138 (IVRS).  For Railway reservation on the Net, visit www.irctc.co.in                                                                                                                                                  
+</TEXT> 
+</DOC>

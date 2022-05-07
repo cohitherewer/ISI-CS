@@ -1,0 +1,58 @@
+<DOC> 
+<DOCNO>1080124_calcutta_railways.utf8</DOCNO> 
+<TEXT> 
+    
+The Telegraph - Calcutta : Metro
+
+                                          Archives
+                                                                                                                           Railways
+
+             RAILWAY   SMS SERVICES
+      For PNR status 
+    e.g. IRPNR 825275182 
+  For Schedule 
+  sms IRTRAIN [train name] or [ train no] to7886
+  e.g. IRTRAIN 238 
+  For Timetable 
+  sms IRTT [train name] or [train number] to 7886
+  e.g. IRTT 2052 
+  For trains between two stations 
+  sms IRSCH [Stn1] to [Stn2] to 7886
+  e.g. IRSCH New Delhi to Howrah Jn 
+  For Seat Availability 
+  sms IRSAVB [ train no] [Stn1] to [Stn2] [DD] [MM] to 7886
+  e.g. IRSAVB 2304 new delhi to patna 15 08 
+  For Info on Train Delay 
+    For help on any key word 
+  sms Keyword [help] to 7886
+  e.g. IRSAVB help  Code covered by the following service providers:-
+  Bharat Sanchar Nigam Linited (BSNL), Cell One, Excel,TATA   Indiacom, Walky
+  For help on available services     sms TR to 7070
+  For PNR status 
+    e.g TRPN 1234567890
+  For Departure time status 
+    e.g. TRDR 2616
+  For Arrival time status
+    e.g. TRAR 2616 
+  For Fare Enquiry 
+      to 7070 
+  e.g. TRFA 2616 23 3 SL NDLS MAS
+  For Train list between two stations
+    to 7070
+  e.g. TRTL NDLS MAS SL 
+  For Station Code 
+    e.g. TRSC New Delhi    Eastern RailwayDepartureArrivalUp TimeDown TimeHowrah231119-40Delhi-Kalka Mail23127-10300519-10Amritsar Mail30067-25232122-00Mumbai Mail via Allahabad232211-5023818-20Poorva (New Delhi) Express via Gaya-Varanasi
+DEP: Wed,Thurs Sun
+ARR: Tues,Wed sat238216-4523038-05Poorva (New Delhi) Express Via Patna
+DEP: Mon,Tues,Fri Sat
+ARR: Mon,Thurs,Fri Sun230416-45232318-45Howrah-New Delhi Bi-Weekly Superfast Express
+DEP: Tues Sat
+ARR: Fri Tues23246-00230116-55Rajdhani Express via Gaya
+DEP: Mon,Tues,Wed,Thurs,Fri Sat
+ARR: Mon,Tues,Wed,Thurs,Fri Sun23029-55230513-55Rajdhani Express via Patna
+DEP: Sun
+ARR: Sat230612-45230723-30Jodhpur Express
+ARR: 
+
+</TEXT> 
+</DOC>

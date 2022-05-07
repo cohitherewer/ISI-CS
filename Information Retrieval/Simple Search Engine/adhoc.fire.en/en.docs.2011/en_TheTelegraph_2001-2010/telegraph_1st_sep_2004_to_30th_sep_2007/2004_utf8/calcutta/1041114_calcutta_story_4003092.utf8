@@ -1,0 +1,294 @@
+<DOC>
+<DOCNO>1041114_calcutta_story_4003092.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Vendor vitals to music match
+
+ Along with questions, comments 
+
+ and suggestions, you can now write in with your computer-related 
+
+ problems to TechTalk. Be sure to include the configuration 
+
+ of your PC and be specific about the problem. Write to techtalkabpmail.comThanks 
+
+ for writing in. Here are solutions to some of your computer-related 
+
+ problems.
+
+ Puspen Haldar: I have an assembled PC with Celeron 1.7 
+
+ GHz processor, Gigabyte Technology motherboard, 128 MB DDR 
+
+ RAM, 40 GB HDD, 52X CD ROM and running Windows XP Professional. 
+
+ My PC is nearly 14 months old. For the past two weeks, whenever 
+
+ I start the PC, a message is displayed during POST: ?CMOS 
+
+ checksum error-Defaults loaded Press F1 to continue, DEL 
+
+ to enter setup/Q-Flash?. On pressing F1, the computer starts 
+
+ normally and I don?t encounter any problem. But after restarting, 
+
+ the message is displayed again. This time, instead of pressing 
+
+ F1, when I enter CMOS setup, I find that the boot sequence 
+
+ has changed automatically from ?HDD-0, CD ROM, Floppy? to 
+
+ ?Floppy, HDD-0, CD ROM?. I have to change the sequence and 
+
+ save it. After exiting setup, the computer starts normally 
+
+ and the message is not displayed. The problem recurs. My 
+
+ SMPS was damaged twice recently.
+
+ TechTalk: A checksum is 
+
+ computed as an error-detecting code to protect the BIOS 
+
+ settings stored in the CMOS memory. Each time the system 
+
+ is booted, this number is recomputed and is checked against 
+
+ the stored value. If they do not match, an error message 
+
+ is generated indicating CMOS memory contents may have been 
+
+ corrupted. Your problem may be due to a weak CMOS battery, 
+
+ in which case you need to get it replaced. A virus that?s 
+
+ changing the CMOS settings, may also be the cause. Do a 
+
+ thorough check-up with an antivirus. For the frequent SMPS 
+
+ damage, check the input AC Voltage and the ?earthing? of 
+
+ your electricity distribution.
+
+ Ashis Biswas: I have a PC with PIII, 36 MB RAM, 10.2 
+
+ GB HDD, 15-inch Samsung monitor and Windows XP. Two days 
+
+ ago it was displaying the message ?no sound card installed?. 
+
+ Now it is not booting. What do I do?
+
+ TechTalk: You have not 
+
+ mentioned your problem in detail. The two problems may not 
+
+ be related. Please check a few things before you can come 
+
+ to a conclusion. Is the PC receiving proper AC Voltage? 
+
+ Is the PC doing the Power On Self Test (POST)? Is the memory 
+
+ check being done and the hard disk detected during POST? 
+
+ Are all the CMOS settings correct? Is the boot sequence 
+
+ in CMOS setup correct (hard disk followed by floppy or CD)? 
+
+ If all these are OK, then the problem must be with the operating 
+
+ system.
+
+ Jeet Roy: I own a PC with Intel 1.3 GHz Celeron processor 
+
+ and 128 MB RAM on which Windows 98 is installed. Since purchase, 
+
+ I?m facing several problems. The CDROM drive was not working, 
+
+ and now the PC is not booting. I also discovered that my 
+
+ vendor has actually given me 64 MB RAM. He is now avoiding 
+
+ me whenever I?m trying to contact him. What do I do?
+
+ TechTalk: It seems you 
+
+ have been a victim of a dishonest computer vendor. You can?t 
+
+ approach manufacturing company directly since your PC is 
+
+ assembled. You can get in touch with reputed computer showrooms 
+
+ and ask them for repair options. You may have to get into 
+
+ an annual maintenance scheme, but it will ensure your peace 
+
+ of mind for the future. To avoid such a situation, remember 
+
+ to crosscheck your vendor?s credentials before buying.
+
+ Sumit Paul: I want to know about free downloadable sound 
+
+ sample websites and how I can download them. Also, what 
+
+ is the function of karaoke software ? is it a free download?
+
+ TechTalk: There are many 
+
+ websites from which you can download free sound samples. 
+
+ Some, like www.soundcentral.com, allow you to download free 
+
+ samples of different instruments. You can find out about 
+
+ other websites through search engines like Google and Altavista. 
+
+ Many of the websites will ask you to register first and 
+
+ then allow download. 
+
+ Karaoke software helps you to 
+
+ sing along with Karaoke files. Like your MP3 players, you 
+
+ can set up playlist, edit karaoke files or customise a karaoke 
+
+ session. There are different Karaoke software available 
+
+ on the Internet. Some of them are free.
+
+ Suman Rana: My configuration is: Mercury motherboard, 
+
+ PIII 1.13 GHz processor, 192 MB RAM, 40 GB HDD. For the 
+
+ past one month, while booting, I get the following massage: 
+
+ ?Pri master: qp100-12 Samsung sv4002h ultra DMA mode-5, 
+
+ S.M.A.R.T. capable but disabled, CMOS setting wrong CMOS/GPNV 
+
+ checksum bad, press F1 to run setup press F2 to load default 
+
+ values and continue. After changing S.M.A.R.T. enable, I 
+
+ get the message ?CPU has changed, press any key to enter 
+
+ setup. 
+
+ TechTalk: It may be just 
+
+ a coincidence that you encountered the error after you enabled 
+
+ S.M.A.R.T. for your hard disk. There is no relation between 
+
+ the two. Try to load the default CMOS settings first. If 
+
+ it doesnt work then you may have to change your CMOS 
+
+ battery.
+
+ Trigem's new personal computer TG/PD, 
+
+ launched in Seoul recently, promises to change the name 
+
+ of the game. The new multimedia personal computer has 
+
+ strengthened audio entertainment functions with its 
+
+ front cover resembling a music player
+
+ Tuhin Mitra: My two-year old PC has the following configuration: 
+
+ Intel Celeron 1.10A GHz processor, 128 MB SD RAM, 40 GB 
+
+ HDD, Mercury 810e2 TFST motherboard, 52X CDROM, 600VA Microtek 
+
+ UPS. When I bought it; there were two types of Celeron processors 
+
+ available. One, the Celeron 1.1 Ghz and the other Celeron 
+
+ 1.10A GHz. I chose the latter. I want to know the difference 
+
+ between the two. Also, I want to upgrade to 256 MB DDR RAM, 
+
+ but my motherboard doesn?t support DDR RAM. I was also told 
+
+ that changing the motherboard wouldn?t help because my processor 
+
+ wouldn?t fit in current motherboards. Please suggest a way 
+
+ out.
+
+ TechTalk: There are architectural 
+
+ differences between Celeron 1.1 and 1.1 A. Celeron 1.1 has 
+
+ the Coppermine based 0.18 micron core whereas Celeron 1.1A 
+
+ has Tualatin based 0.13 micron core. ?A? denotes Tualatin. 
+
+ The maximum temperature of Celeron 1.1 is 77 degree Celsius 
+
+ and the power is 33.0 Watts. For Celeron 1.1A the maximum 
+
+ temperature is 69 degree Celsius and the power is 28.9 Watts. 
+
+ The core voltage of Celeron 1.1 is 1.75 Volt and Celeron 
+
+ 1.1A is 1.48 Volt. For the second problem, there seems no 
+
+ way out. You might have to change the whole setup, but if 
+
+ you only want to a memory increase, look for SD RAM.
+
+ P.K. Basu: I have an assembled PC with Celeron 1 GHz 
+
+ Intel processor, 128 MB RAM and 40 GB HDD. Windows 98 and 
+
+ Windows 2000 Server are loaded. While Defragmenting drive 
+
+ C, after completing 10% it repeatedly shows ?Drives contents 
+
+ changed...Restarting?. I also have huge number of files 
+
+ in the Temporary Internet Files folder. Can these be deleted? 
+
+ Further, by removing a particular program using Add/Remove 
+
+ programs, do all the files actually get deleted? If not, 
+
+ how do I remove unnecessary files? 
+
+ TechTalk: Usually, the 
+
+ error message ?Drives contents changed? is shown when you 
+
+ try to run Defrag while the anti-virus or screen saver is 
+
+ running. Select ?None? for your screensaver menu, disable 
+
+ the antivirus program and then try Defrag. If it still doesn?t 
+
+ work, boot your system in Safe mode and run Defrag. The 
+
+ Temporary Internet files can be deleted safely.
+
+ The answer to the last question 
+
+ depends on the program you want to uninstal. A good uninstaller 
+
+ program should remove all the components, including the 
+
+ registry entry. But some uninstallers don?t clear all files. 
+
+ If you know the location of these files or registry entries, 
+
+ you may try to delete them manually.
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,334 @@
+<DOC>
+<DOCNO>1041003_calcutta_story_3835854.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ UPS woe and installation ire
+
+ Tapas Chakraborty: I have a Pentium IV HCL Beanstalk 
+
+ machine. I want to take home-based Medical Transcription 
+
+ (MT) assignments after taking Computer Based Test on MT. 
+
+ Is it feasible? What are the options of Internet connection 
+
+ like DIAS (BSNL) and who do I contact? Please give me the 
+
+ details of other types of Internet connections available 
+
+ in Calcutta that are suitable for home based MT job. 
+
+ TechTalk: There are many 
+
+ options available for connecting to the Internet. DIAS from 
+
+ BSNL, as mentioned by you, is one of them. For getting DIAS 
+
+ connection you have to contact Commercial Officer, BSNL 
+
+ of your area. DIAS can be installed using your existing 
+
+ telephone. Internet service providers like VSNL and Sify 
+
+ also offer dial up connection packages for fixed number 
+
+ of hours like 50, 100, 500 and so on. These connections 
+
+ are widely available in a number of outlets in the city. 
+
+ You can choose according to your requirement.
+
+ Pradip Mukherjee: I have a 15-inch LG Monitor, 
+
+ 1.7 GHz Intel Processor, Intel Motherboard, 40 GB Hard Disk, 
+
+ 128 MB DDR RAM and 500 Volt UPS from Everlite. My UPS makes 
+
+ the backup sound and after sometime it shuts down the whole 
+
+ system although the main power supply is on. It also does 
+
+ not provide backup power when the mains are off.
+
+ TechTalk: You need to check 
+
+ a few things before you can isolate the problem. Is the 
+
+ power cord properly inserted into your UPS? Is there any 
+
+ loose connection in the mains outlet plug point? Is the 
+
+ main voltage supply stable and within the proper range? 
+
+ Extreme low voltage may cause a problem similar to the one 
+
+ you have stated. Does your UPS have the ?Cold Start? feature? 
+
+ This feature enables the UPS to start even when the main 
+
+ power is off. If these points are okay, then there is some 
+
+ problem with the UPS and you need to get it repaired.
+
+ Rakesh Shaw: My PC has the following configuration: 
+
+ 40 GB Hard disk, 128 MB RAM, 2.4 GHz Pentium IV processor, 
+
+ original Intel motherboard GVSR 845. Does the processor 
+
+ being Celeron 2.0 GHz or Pentium 2.4 GHz make any difference 
+
+ in the speed of Internet surfing? Also, when I am connected 
+
+ to the Net, sometimes I see that the rate of bytes sent 
+
+ and received is slower compared to other times. Is this 
+
+ a modem problem or something else? 
+
+ TechTalk: Here is a brief 
+
+ comparative study of PIV and Celeron processors: The Celeron 
+
+ and PIV chips have the same core. Celeron chips have less 
+
+ cache memory than Pentium IV chips. It does not have any 
+
+ L1 cache. Cache memory can have a big effect on performance. 
+
+ The PIV chips run at a higher clock speed than Celeron chips. 
+
+ The fastest PIV can be up to 50 per cent faster than the 
+
+ fastest Celeron. There are significant differences in the 
+
+ maximum bus speeds that the processors allow. Pentium IV 
+
+ processors tend to be about 30 percent faster than Celerons. 
+
+ From the comparison it is clear that a PIV and a Celeron 
+
+ chip having same clock speed will have a big difference 
+
+ in performance. This can be felt if you do a complicated 
+
+ mathematical calculation work like graphics rendering.
+
+ However, Internet surfing speed 
+
+ does not depend on whether you have a Celeron or PIV processor 
+
+ because browsing and mailing does not put extra load on 
+
+ the processor.
+
+ Your second problem can occur 
+
+ due to various reasons. These include the condition of your 
+
+ telephone line, ?handshaking? or communicating with the 
+
+ interface of the Internet Service Provider, error correction 
+
+ technology in your modem and so on. 
+
+ Salil Kumar Kundu: My PC is an assembled one 
+
+ with Celeron 2 GHz processor and 256 MB RAM with Windows 
+
+ XP Professional. I have been using Office XP for a long 
+
+ time. Recently, I got Office 2003 installed by a friend. 
+
+ Later, I noticed that I still had Office XP and so uninstalled 
+
+ Office 2003 from Add/Remove Programs. However, after a few 
+
+ days when I tried to re-instal Office 2003, I failed. After 
+
+ keying in the serial number I received the following message: 
+
+ ?Microsoft Office Setup cannot continue because the installation 
+
+ source has been corrupted?. I have even tried uninstalling 
+
+ Office XP but the problem remains.
+
+ TechTalk: It seems that 
+
+ the cause may due to any of the following factors. The CD-ROM 
+
+ drive is not functioning properly or the office 2003 CD 
+
+ is damaged. If the installation CD for Office 2003 you are 
+
+ using is an upgrade version it may cause a problem if you 
+
+ have uninstalled the source software. Another program running 
+
+ on your computer may be interfering with the Office installation.
+
+ To resolve the last one, try to 
+
+ clean boot your machine with the following steps. Click 
+
+ ?Start?, and then ?Run?. 
+
+ Type msconfig in the ?Open? box, 
+
+ and click OK. Click the ?General? tab, and then ?Selective 
+
+ Startup?. Clear the check boxes: Process System.ini file, 
+
+ Process Win.ini file and Load Startup Items.
+
+ Click the ?Services? tab, click 
+
+ to select the ?Hide All Microsoft Services? check box, and 
+
+ then click ?Disable All?. Click OK, and then click Restart. 
+
+ You may try installing Office 2003 now. To restore the computer 
+
+ for a normal startup, run msconfig once again and select 
+
+ Normal Startup from the General tab.
+
+ Md Asique: I recently purchased a PC with PIV-2.6 
+
+ GHz processor, 128 MB DDR RAM, Intel 845GVSR Motherboard, 
+
+ 40 GB HDD and 52X CDROM. I want to instal Windows 95 because 
+
+ I have a software that runs only on Win 95. I started installation 
+
+ with a Win 95 bootable floppy. I confi gured Himem.sys in 
+
+ Config.sys, restarted and then ran the Win 95 setup. After 
+
+ copying the files, the computer restarts and shows a message 
+
+ that it?s the first time Windows is running. After only 
+
+ a few seconds, there is a black screen with the message 
+
+ ?While initialising ios, Windows Protection Error, Press 
+
+ Ctrl+Alt+Del to restart your computer?. How can I instal 
+
+ Win 95?
+
+ TechTalk: Windows Protection 
+
+ Error can occur due to different reasons, including virtual 
+
+ driver (VxD) problems, conflicts between real-mode and hardware 
+
+ problems can also be the cause.
+
+ This patch for the AMD K6-2 processor 
+
+ also works for the Intel PIII (1-GHz or faster) and PIV 
+
+ processors. Go to http://www.microsoft.com/windows95/downloads 
+
+ and download ?Windows 95 Update for AMD-K6-2/350? (file 
+
+ name: AMDK6upd.exe).
+
+ When the error occurs (usually 
+
+ on the first boot into Windows 95), or the computer fails 
+
+ to start Windows 95, boot the PC using the bootable 95 floppy. 
+
+ In another PC, extract the files 
+
+ from AMDK6upd.exe to a make a bootable floppy disk. To do 
+
+ this, at the DOS prompt, execute ?AMDK6upd.exe /T:a:\ /C?.
+
+ Manually copy the updated driver 
+
+ files on the diskette to their proper locations as indicated 
+
+ below:
+
+ scsiport.pdr to C:\Windows\ System\IOSubsys 
+
+ disktsd.vxd to C:\Windows\ System\IOSubsys 
+
+ esdi_506.pdr to C:\Windows\ System\IOSubsys 
+
+ hsflop.pdr to C:\Windows\ System\IOSubsys 
+
+ cdfs.vxd to C:\Windows\System\IOSubsys 
+
+ vfbackup.vxd to C:\Windows\System\VMM32 
+
+ ios.vxd to C:\Windows\System\VMM32 
+
+ int13.vxd to C:\Windows\System\VMM32 
+
+ ntkern.vxd to C:\Windows\ System\VMM32 
+
+ Remove the floppy disk and restart 
+
+ the system. If prompted, select Normal Startup. Complete 
+
+ Windows 95 installation. Execute AMDK6upd.exe without any 
+
+ command switches to register the update. The problem should 
+
+ be solved.
+
+ ... and elsewhere in the 
+
+ world
+
+ Apple has reinvented the wheel, 
+
+ again! Looking at the new iMac G5 (picture right shows front 
+
+ and side view), you?ll wonder where the computer is. Everything 
+
+ is neatly tucked away ? unparalleled processor power, massive 
+
+ storage space and every imaginable bell and whistle ? behind 
+
+ the display. Despite that, the rig is incredibly only two-inch 
+
+ thick!
+
+ Tech-specs: Choose either the 
+
+ 1.6 GHz or 1.8 GHz processor, both ready to run 64-bit applications. 
+
+ NVIDIA graphics muscle boosts performance of games by even 
+
+ 200 per cent compared to the G4. The bundled superdrive 
+
+ packs in a DVD burner that slides gracefully into the display, 
+
+ while wireless-ready does away with cable clutter. Not to 
+
+ forget looks. Even when switched off, you might be tempted 
+
+ to spend hours simply gazing at the G5. Own it for $1299.
+
+ Along with questions, comments and suggestions, write in with 
+
+ your computer-related problems to TechTalk. Be sure to include 
+
+ the configuration of your PC and be specific about the problem. 
+
+ Write to techtalkabpmail.com
+
+
+
+
+</TEXT>
+</DOC>

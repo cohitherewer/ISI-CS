@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO>1051215_nation_story_5601751.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Nation
+
+ Just log in to know your companys destiny
+
+ G.S. MUDUR 
+
+ Clueless?
+
+ New Delhi, Dec. 14: An Indian mathematician today claimed that he has developed artificial intelligence software that can analyse financial data to predict whether a company will succeed or go bankrupt. 
+
+ The software may be used to forecast financial distress, Dr Kuldeep Kumar, associate professor of statistics at Australias Bond University, said at an international conference on cognitive systems here.
+
+ Banks, regulatory agencies and individual investors could use this technology, Kumar said. The software combines standard statistical methods with artificial neural networks to use information from the balance sheets of companies to predict their fates. 
+
+ Neural networks are software programs that mimic the human capacity to learn. Kumar trained the neural networks by feeding them financial data of more than 700 companies in the US that had either succeeded or gone bankrupt. Over time, the neural network learnt how to use such information to predict success or failure of other companies. 
+
+ Finance specialists at the Indian Institute of Management in Calcutta cautioned that while the trend of using neural networks to forecast the future of companies has been gaining momentum in recent years, it is not popular yet.
+
+ Artificial neural networks are promising, but there is no evidence yet that their performance is any better than existing techniques, Binay B. Chakrabarti, professor of finance at IIM Calcutta, told The Telegraph. But they have been used selectively for forecasts in complex market environments, Chakrabarti said.
+
+ Kumar acknowledged that the neural network approach has certain limitations. It cannot capture variables such as fraud or any abrupt changes in policy that might affect a company, he said.
+
+ Like standard statistical techniques, the neural network strategy also relies on a number of financial variables such as profit margin, return on invested capital, cash ratio, total debt to asset ratio and invested capital from a companys balance sheets to churn out a forecast.
+
+ The neural network analyses such data to come up with a number between 0 and 1, where 0 represents a severely distressed or a bankrupt company, while 1 implies excellent performance, Kumar said in his paper delivered at the conference organised by the research division of the NIIT.
+
+ Kumar, who was at IIM Lucknow and then at the National University of Singapore before moving to Australia, said he had developed a neural network system for Australias taxation office last year. Earlier, during the 1990s, a rudimentary version of the technology had predicted the success of three companies in Singapore, Kumar said.
+
+ Finance experts said that company forecasts, whether through statistical methods or through neural networks, will always have uncertainties. Success every time is impossible, said Ashish Bhattacharyya, professor of finance at IIM Calcutta.
+
+ Kumar said the neural network has been trained to analyse cosmetics, manufacturing and retail companies as well as financial institutions.
+
+
+
+
+</TEXT>
+</DOC>

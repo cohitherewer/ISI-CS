@@ -1,0 +1,202 @@
+<DOC>
+<DOCNO>1050410_calcutta_story_4595951.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Beat browser blues 
+
+ Tech Talk
+
+ Soccer star Ronaldo 
+
+ displays Siemens cellular phones during a promotional 
+
+ tour at the CeBIT computer fair, held in March in Hanover, 
+
+ Germany. (AFP)
+
+ Suvarghya Kar: I have an 
+
+ assembled PC with Pentium III processor, 128 MB SD RAM, 
+
+ 40 GB HDD with Windows XP Professional. For the past few 
+
+ weeks, whenever I work with two-three windows open for a 
+
+ few minutes, the message ?Windows Explorer has encountered 
+
+ a problem and needs to close? appears. There are three options 
+
+ ?debug?, ?send error report? and ?don?t send?. If I click 
+
+ ?don?t send?, another message appears: ?An error has occurred 
+
+ in Internet Explorer. Internet Explorer will now close. 
+
+ If you continue to face problems, please restart your computer.? 
+
+ If I press Ok, then the computers restarts and if I cancel 
+
+ the message box, all the active folders close. 
+
+ TechTalk: If an application 
+
+ experiences an error that it is not prepared to handle, 
+
+ Windows XP stops the application and prompts you to send 
+
+ an error report. Instal the latest service pack for Windows 
+
+ XP Professional and Internet Explorer and update your anti-virus 
+
+ software. To turn off error reporting, right-click My Computer 
+
+ and click Properties. On the Advanced tab, click Error Reporting 
+
+ and Disable. Also clear the ?But notify me when critical 
+
+ errors occur? checkbox.
+
+ Vadapalli Srinivas: I would 
+
+ like my PC to automatically shut down at a scheduled time. 
+
+ How do I do this?
+
+ TechTalk: To turn off the 
+
+ computer automatically at a user-specified time, try a third-party 
+
+ software like Accurate Shutdown (http://www.gold-software.com) 
+
+ or ShutDownOnTime or Timed Shutdown (http://www.snapfiles.com). 
+
+ There are many other such programs on the Internet.
+
+ Taha Kapdawala: Whenever 
+
+ I connect to MSN Messenger Service the following pop-up 
+
+ appears: ?We are unable to sign you into .NET Messenger 
+
+ service possibly because of a problem with the service or 
+
+ with your Internet connection. Please make sure that you 
+
+ are connected to the Internet. 0x 81000301.? 
+
+ TechTalk: This error usually 
+
+ indicates that your password is incorrect. Make sure you 
+
+ typed your username and password correctly.
+
+ Also, visit http://www.passport.net 
+
+ and check whether you can log in there with your MSN username 
+
+ and password. If you fail, your account may have been stolen 
+
+ by someone else or cancelled for technical reasons.
+
+ However, if you can log in on 
+
+ the passport.net site, the problem may be with MSN Messenger. 
+
+ Try the following solution, but note that it will delete 
+
+ your custom emoticons and display pictures. 
+
+ Click on Start and then on Run. 
+
+ If you use Windows 2000, XP or 2003, type: ?%appdata%\microsoft? 
+
+ and press Enter. Delete the MSN Messenger folder. For Windows 
+
+ 95, 98 or Millennium (ME), type: ?%windir%\Application Data\Microsoft? 
+
+ and press Enter. Delete the MSN Messenger folder.
+
+ Check your Internet Explorer Security 
+
+ Make sure that use SSL 2.0 and use SSL 3.0 are both checked. 
+
+ MSN Messenger requires SSL for the authentication process. 
+
+ Finally, ensure you are connected 
+
+ to the Internet and have the latest version of MSN Messenger.
+
+ If your PC is part of a network, 
+
+ make sure the network allows access to the MSN Messenger 
+
+ service and if you are using a firewall, make sure that 
+
+ MSN Messenger is allowed full access.
+
+ Also try the MSN Messenger Connection 
+
+ Troubleshooter to examine your system. 
+
+ A visitor checks 
+
+ out a public analogue telephone displayed at the CeBIT 
+
+ computer fair in Hanover, Germany. (AFP) 
+
+ Anjan Dutta: I have a Pentium 
+
+ IV 1.7 GHz processor on Intel D850MV motherboard with 128 
+
+ MB PC800 RD RAM, 15? SAMTRON 56V monitor, NVIDIA RIVA TNT2 
+
+ graphics adapter with 32 MB onboard RAM and Windows 98 SE. 
+
+ The game Hoyle Majestic Chess meets all the requirements 
+
+ but after successful installation, when I try to play the 
+
+ game it returns to the desktop. I have tried reinstalling.
+
+ TechTalk: Chances are that 
+
+ a previous installation has changed the Windows registry 
+
+ setting. Particularly if you had tried a demo or crack version 
+
+ of the game.
+
+ and press Enter. Navigate to the following registry key: 
+
+ HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall. 
+
+ Here, you will see the product ID keys.
+
+ Click each ID and look for ?Hoyle 
+
+ Majestic Chess? in the right pane. On finding it, delete 
+
+ it and exit the registry editor. You can now reinstal game.
+
+ If it still doesn?t run, try updating 
+
+ the driver files from the manufacturer?s website. Also check 
+
+ if DirectX is functioning properly. Instal the latest DirectX 
+
+ (version 9.0c).
+
+ Write in with your computer- related problems to TechTalk. 
+
+ Be sure to include the configuration of your PC and be specific 
+
+ about the problem. Write to techtalkabpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC> 
+<DOCNO>1100814_nation_story_12810962.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Nation | Berry hints at partial access
+                                                                                                                                 2                                                                                      Berry hints at partial access
+  - Analysts foresee US model for Indian security agencies         OUR SPECIAL CORRESPONDENT                                                  
+	New Delhi, Aug. 13: Canada-based Research in Motion today said it was ready to provide the Indian government with lawful access to BlackBerrys messenger and corporate email services to meet the countrys security concerns.        
+	Analysts say this would be similar to the kind of access the company has given the governments of the US and other countries.        
+	Sources said the Canadian firm had offered to provide user details on BlackBerry enterprise servers located on corporate premises that store emails in decrypted form.         
+	Research in Motion (RIM), though, insists that it cannot be asked to provide customers encryption keys of corporate emails. Also, it cannot change its security architecture to accommodate any national security demands.        
+	This means the government cannot by itself access corporate emails but will have to approach the companies for such access, which can be a long-drawn process. The government will first have to identify which companys server a certain email was sent from and then, perhaps in some cases, need to persuade the company to provide access.        
+	Under the monitoring system suggested by RIM, Indian security agencies can also get the PIN number and IMEI code for every BlackBerry phone in the country, thus securing access to the smartphones messenger or chat data in a decoded form, sources said.        
+	Any BlackBerry user can chat with another for free, through the smartphones messenger system if they know the recipients PIN number. This code number will now allow intelligence agencies to crack messages travelling between two BlackBerry users.        
+	The home ministry had yesterday given RIM till the end of the month to come up with a mechanism to allow the government to monitor data that travel through its devices, or face a possible ban on some services. Security agencies cannot now monitor encrypted communications on the platform, raising concern in many countries including India that this can allow terrorists to misuse the service.        
+	After a meeting with home ministry officials today, Robert E. Crow, RIMs vice-president for industry, government and university relations, told reporters he was optimistic about solving Indias security concerns relating to BlackBerry services.        
+	Indian intelligence agencies have been insisting on access to the encryption key  on account of high levels of encryption used for data transfers through BlackBerry to de-crypt corporate emails travelling between two BlackBerry devices.        
+	But RIM said: The BlackBerry security architecture for enterprise customers is based on a symmetric key system whereby the customer creates their own key and only the customer ever possesses a copy of their encryption key.        
+	The company added: There can be no changes to the security architecture for (the) BlackBerry Enterprise Server customer since, contrary to any rumours, the security architecture is the same around the world and RIM truly has no ability to provide its customers encryption keys.        
+	Industry analysts, however, said RIM could always create a backdoor to allow the firm or a third party to gain access to corporate data sent to and from the smartphone.        
+	To subvert the system, RIM could install software on the device, or on a BlackBerry Enterprise Server, that could copy encryption keys and send them to interested governments, John Pescatore, analyst at Gartner, told a news agency. RIM could build backdoors to their software, he added.        
+	RIM has also indicated that it is not willing to allow governments to access data from BlackBerrys if security agencies are not, in the same way, monitoring the data being exchanged on smartphones made by its competitors.        
+	India has already started the process of monitoring messages, calls and emails sent using voice over Internet protocol Skype services, Googles Gmail services, and Nokias popular messaging services.        
+	The Intelligence Bureau has asked mobile phone companies to demonstrate that third-generation (3G) services can be monitored, intercepted and blocked before they launch services on this high-end platform.                                                                                                                                                          
+</TEXT> 
+</DOC>

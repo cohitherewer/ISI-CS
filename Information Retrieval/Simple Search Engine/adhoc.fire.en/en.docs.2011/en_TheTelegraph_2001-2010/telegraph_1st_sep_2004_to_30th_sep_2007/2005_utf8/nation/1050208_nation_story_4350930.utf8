@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>1050208_nation_story_4350930.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Nation
+
+ Worm lurks behind chick lure
+
+ Chennai, Feb. 7 (PTI): A new computer worm that spreads through MSN Messenger is likely to tempt Internet chat users with ?sexy? images, a Chennai based anti-virus software firm has warned. 
+
+ ?The worm attempts to send copies of itself in different file names to all online contacts, pretending to be alluring images,? said the firm. 
+
+ ?MSN Messenger users get a comical photo of a roasted chicken with a bikini tan line. The worm also bears the agobot worm as part of its payload, capable of opening the backdoor on infected systems,? added Trend Micro, issuing a ?medium risk? alert.
+
+ Sightings of the worm have been reported in Taiwan, China, Korea and the US. 
+
+ When a PC is infected, the memory resident worm (worm_bropia.F) drops a copy of itself in the Windows system folder and tries to propagate to other MSN Messenger users by sending a copy of itself under other file names.
+
+ ?The worm also executes a file called sexy.jpg, which displays a photo of a chicken that appears to have been cooked in the oven with its bathing suit on,? the company said. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC> 
+<DOCNO>1080808_foreign_story_9662931.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | International | Internet flaw helps hackers
+                                                                                                                                                                                                                                                                                                                                                                       Internet flaw helps hackers
+                            
+	Las Vegas, Aug. 7 (AP): A newly discovered flaw in the Internets core infrastructure not only permits hackers to force people to visit websites they did not want to, it also allows them to intercept email messages, the researcher who discovered the bug said yesterday.        
+	Considering the silent nature of the attack and the sensitive nature of a lot of electronic correspondence, the potential for damage from this second security flaw is high. But theres no evidence yet that this method of targeting email has been used in a successful attack.        
+	Dan Kaminsky of Seattle-based security consultant IOActive Inc. exposed a giant vulnerability in the Internets design that, in one case, allowed hackers to reroute some computer users in Texas to a fake Google.com site loaded with automated advertisement-clicking programmes, a scam to generate profits for the hackers from those clicks. The flaw was not in the site itself, it was in the back-end machines responsible for guiding computers to that site.        
+	The vulnerability Kaminsky found is especially insidious because it allows criminals to tamper with machines whose reliability and trustworthiness is critical for the Internet to function properly. Kaminsky, who spoke yesterday at the Black Hat hacker conference in Las Vegas, has given few details publicly about the vulnerability he found in the Domain Name System, a network of servers used to connect computers to websites. He remained tightlipped so that Internet providers would have time to fix their machines. Many have done that, but others have delayed, leaving some people at risk. Major vendors like Microsoft Corp., Cisco Systems Inc., Sun Microsystems Inc. and others have issued patches.                                                                                                                                                                            
+</TEXT> 
+</DOC>

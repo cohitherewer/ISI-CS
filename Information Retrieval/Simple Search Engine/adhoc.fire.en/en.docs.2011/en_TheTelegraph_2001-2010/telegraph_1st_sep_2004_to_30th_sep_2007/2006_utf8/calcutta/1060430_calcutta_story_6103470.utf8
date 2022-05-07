@@ -1,0 +1,174 @@
+<DOC>
+<DOCNO>1060430_calcutta_story_6103470.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Troubleshooting 
+
+ tips for video worries
+
+ techtalk
+
+ A screen projects images from Xboxs 
+
+ new game FIFA World Cup Germany 2006 as Microsoft Japans 
+
+ Xbox division general manager Takashi Sensui speaks 
+
+ in Tokyo recently. Microsoft said Xbox 360 game console 
+
+ users will have more than three times as many game titles 
+
+ available by December. The move is seen as preparation 
+
+ for an upcoming battle with Sonys PlayStation 
+
+ 3. (Reuters)
+
+An 
+
+ odd thing happened the other day. I had just reinstalled 
+
+ my operating system (Windows 2000) and some of my video 
+
+ files just wouldn?t play on Microsoft?s own Windows Media 
+
+ Player.
+
+ The files had ?.mpg? extension 
+
+ and had worked fine with both Windows Media Player 9 (the 
+
+ most advanced version of the player for Windows 2000) and 
+
+ Windows Media Player 9 (the default player included with 
+
+ the operating system) before the OS reinstall.
+
+ But now they only threw up error 
+
+ messages.
+
+ Quite a bit of Googling and tech 
+
+ forum hunting later, a simple and lightweight (only 213 
+
+ kb) piece of software helped locate the cause of the problem, 
+
+ and more importantly, a solution.
+
+ Gspot (www.headbands. com/gspot) 
+
+ not only identifies the video format of a file, but also 
+
+ manages to come up with the name of the video codec required 
+
+ to play the file.
+
+ A video codec is a software module 
+
+ that enables compression of video. Since raw video takes 
+
+ up a lot of space, for delivery over Internet, it is always 
+
+ compressed into some format or another.
+
+ In this case, Gspot analysed the 
+
+ files and reported that they had been marked with the wrong 
+
+ extension. In fact, the ?.mpg? files were actually Windows 
+
+ Media Video files that should have been marked ?.wmv?.
+
+ Due to the presence of standalone 
+
+ codecs that might have been installed at some point, Windows 
+
+ Media Player 9 had been able to play them. But a fresh installation 
+
+ brought things into perspective.
+
+ So for acute video-related ailments, 
+
+ try Gspot or other troubleshooters like VideoInspector 
+
+ (http://www.kcsoft wares.com/?vtb), MediaInfo 
+
+ (http://mediainfo.sourceforge. net/), and AVICodec 
+
+ (http:// avicodec.duby.info/).
+
+ The business of video formats 
+
+ is rather tricky with several formats, encoding techniques 
+
+ and tools in use and several media players to play them. 
+
+ Here are some common file formats you will encounter while 
+
+ trawling through the Internet: 
+
+ Windows Media Video (.wmv), 
+
+ Advanced Systems Format (.asf), Audio Video Interleave (.avi): 
+
+ Windows Media Player 9 (www.micro soft.com/windows/windowsm 
+
+ edia/player/9series/default.as px) can handle all of 
+
+ these. Older versions of the player, like 6.4, can also 
+
+ do the trick, but only after installing necessary codecs 
+
+ from the Internet. 
+
+ (Quick tip: after you instal Windows 
+
+ Media Player 9 on Windows 2000, you won?t find any trace 
+
+ of the earlier version, 6.4. To access the old player, click 
+
+ on Start and then Run. In the dialogue box, type ?mplayer2?). 
+
+ Another option is the Media Player 
+
+ Classic (http:// sourceforge.net/projects/guliv erkli/).
+
+ Real Video (.rm): You?ll 
+
+ need Real Player (www.real. com) for this proprietary 
+
+ format from Real and for playing Real Audio files (.ra). 
+
+ Or, try Real Alternative (www.free-codecs.com/download/Real_Alternative.htm)
+
+ QuickTime video (.mov): 
+
+ Apple?s proprietary format. It plays with the QuickTime 
+
+ player (www.apple.com/quick time/download), which 
+
+ is bundled with the iTunes software (www.apple. com/itunes). 
+
+ Non-Apple fans can try the QuickTime alternative from www. 
+
+ free-codecs.com/download/Qu ickTime_Alternative.htm.
+
+ DivX (.divx): Fast gaining 
+
+ popularity for compressing entire movies into one CD without 
+
+ compromising much on quality. You?ll need the DivX player 
+
+ from www.divx. com to play these files.
+
+ SUBHAJIT BANERJEE
+
+
+
+
+</TEXT>
+</DOC>

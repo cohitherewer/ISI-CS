@@ -1,0 +1,14 @@
+<DOC> 
+<DOCNO>1100922_foreign_story_12966252.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | International | Twitter site hacked
+                                                                                                                           17                                                                                      Twitter site hacked
+          RIVA RICHMOND                              
+	New York, Sept. 21: Magnus Holm, a Norwegian programmer, started a worm simply to see if it was possible.        
+	Twitter was overrun with posts this morning that used a programming flaw to play pranks, distribute porn and spread worms to unsuspecting users. The problem appeared to be confined to Twitters old Web interface, and does not affect the new interface that Twitter is gradually rolling out or to mobile applications.         
+	Security experts said that a JavaScript command in the offending posts included a command, onmouseover, that caused messages to pop up and Web sites to open automatically when a mouse hovered over it. The script in some cases also caused a user to forward the offending link, spreading it virally to their followers and the rest of Twitter.        
+	Twitter did not immediately respond to a request for comment, but it posted a message on its status page saying: Weve identified and are patching a XSS attack; as always, please message safety if you have info regarding such an exploit. XSS is short for cross site scripting and refers to Web- application flaws that enable hackers to inject scripts into websites.        
+	Among the pranks was one that apparently ensnared Sarah Brown, wife of the previous British Prime Minister, Gordon Brown. A link on her Twitter page redirected visitors to a hard-core Japanese porn site.                     NEW YORK TIMES NEWS SERVICE                                                                                                                                                  
+</TEXT> 
+</DOC>

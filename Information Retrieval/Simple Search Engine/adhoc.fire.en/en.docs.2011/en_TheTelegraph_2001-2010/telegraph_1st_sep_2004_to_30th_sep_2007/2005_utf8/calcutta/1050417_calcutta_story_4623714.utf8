@@ -1,0 +1,172 @@
+<DOC>
+<DOCNO>1050417_calcutta_story_4623714.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Do-it dossier 
+
+ Techtalk
+
+ Queries regarding partitioning 
+
+ of Hard Disk drives (HDD) and installing multiple Operating 
+
+ Systems (OS) keep pouring in. Here?s the lowdown on these 
+
+ essentials that we care little about till a really urgent 
+
+ need to repartition the Hard Disk or to add another OS to 
+
+ the existing one forces us to.
+
+ Partition why
+
+ Hard Disks need to be partitioned 
+
+ and formatted before they are ready to instal the Operating 
+
+ System and other software, and before they can store data. 
+
+ Partitioning is the process of dividing the physical Hard 
+
+ Disk into many (or even one, in case of small disks) virtual 
+
+ drives, so that each partition can be accessed like a separate 
+
+ disk. Partitioning is also important for defining the Hard 
+
+ Disk structure and affects the proper utilisation of drive 
+
+ space.
+
+ Partition how
+
+ Software utilities within the 
+
+ OS itself help the partition process. The Windows 98 or 
+
+ ME boot disk, for instance, contains FDISK.EXE and FORMAT.COM 
+
+ to partition and format. Besides, you can download HDD installation 
+
+ software like Disk Wizard for Seagate drives or Disk Manager 
+
+ for Samsung drives from the manufacturers? website. Third-party 
+
+ software like Partition Magic or Ontrack Disk Manager can 
+
+ also be used.
+
+ Using disk installation floppy 
+
+ is easy, but would require resetting the BIOS to boot the 
+
+ PC from the floppy drive. The alternative is to use CDROM. 
+
+ Windows 2000, Windows XP and most recent versions of Linux 
+
+ allow partitioning and formatting the HDD during the Operating 
+
+ System installation. Set CDROM as the first boot device 
+
+ in BIOS and boot your computer with the OS installation 
+
+ disk. During boot, you will be instructed to partition the 
+
+ unpartitioned Hard Disk and format the partitions with appropriate 
+
+ file-systems.
+
+ Partition how many
+
+ Up to 67 partitions (3 primary 
+
+ and a secondary, containing up to 64 logical partitions 
+
+ inside) can be created. Some OSs have to be installed in 
+
+ the primary partition or it will not boot up. While allocating 
+
+ the size of the partitions, remember that a partition containing 
+
+ the OS and application software will require a lot of free 
+
+ space for Virtual Memory and future addition of application 
+
+ software. Preferably, use other partitions to store data 
+
+ like music, photos and documents.
+
+ Partition Linux
+
+ Linux partitions can be created 
+
+ during the installation process. All Linux distributions 
+
+ need at least a root partition (/) and a swap partition. 
+
+ The swap partition should either be of the same size as 
+
+ your PC?s memory (RAM) or up to twice that size. You can 
+
+ keep adding more partitions (/usr, /boot, /var etc.) as 
+
+ required. Linux will also instal the boot-loader (Lilo or 
+
+ Grub Install). The Linux installation program usually detects 
+
+ Windows and automatically configures the boot loader (Grub 
+
+ or Lilo) to boot either Linux or Windows.
+
+ Dual boot what
+
+ Many users need more than one 
+
+ Operating System on a single PC, with the option of choosing 
+
+ one of them while starting up. This is called dual (or multiple) 
+
+ boot. With the growing popularity of Linux as a desktop 
+
+ Operating System, dual boot has assumed even greater significance. 
+
+ To make a dual or multi-boot system run smoothly, the OSs 
+
+ must be installed in separate partitions. A boot-loader 
+
+ software also needs to be installed for selecting between 
+
+ OSs during booting.
+
+ Dual boot how
+
+ Instal each OS on a separate drive 
+
+ or disk partition. If you are using two or more versions 
+
+ of Windows, follow this order: Windows 98/ME, Windows 2000, 
+
+ Windows XP.
+
+ In case of dual booting Linux 
+
+ with Windows, instal Windows first. Also, create the disk 
+
+ partitions with the Windows partitioning software, otherwise 
+
+ Windows may not recognise the partitions. If you want to 
+
+ share Windows files from Linux, format the Windows partition 
+
+ with FAT32 file system.
+
+ ARUP MANDAL
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+<top lang="en">
+<num>26</num>  
+<title>Singur land dispute</title> 
+<desc>The land acquisition policies of the Left Parties in Singur and the protest of Bhumi Ucched Protirodh Committee against this policy.</desc> 
+<narr>Relevant documents should contain information regarding the acquisition of agricultural land for industrial growth in Singur, the territorial battle between the Left Parties and the opposition parties, the brutal killing of the innocent people and the protests and the criticism by people from different sections of society.</narr> 
+</top>
+
+<top lang="en">
+<num>27</num>  
+<title>Relation between India and China</title> 
+<desc>India and China's bi-lateral relation in terms of economy, diplomacy, science, technology and civil-aviation.</desc> 
+<narr>Information about the relationship between India and China with regard to economy, diplomacy, science, technology and trade is relevant.</narr> 
+</top>
+
+<top lang="en">
+<num>28</num>  
+<title>Iran's Nuclear Programme</title> 
+<desc>Iran's Nuclear programme and worldviews regarding its nuclear policy.</desc> 
+<narr>Information about Iran's nuclear policy, talks and negotiations between Iran and E.U. regarding nuclear policy, and worldviews on this issue should be present in a relevant document.</narr> 
+</top> 
+
+<top lang="en">
+<num>29</num> 
+<title>Post Tsunami relief measures</title> 
+<desc>Relief measures for Tsunami-affected people.</desc> 
+<narr>A relevant document should contain information about the financial help sent by various countries of the world, relief material sent by governments and NGO's for the distressed people, and the problem of relief goods not reaching the hands of common people.</narr>
+</top> 
+
+<top lang="en">
+<num>30</num>  
+<title>Laloo Prasad Yadav as the Railway Minister</title> 
+<desc>The performance of Laloo Prasad Yadav and the Indian rail in his tenure.</desc> 
+<narr>A relevant document should contain information about the safety measures taken by the Indian Railways, or infrastructural improvements planned or undertaken during the tenure of Laloo Prasad Yadav. Information about disputes / controversies surrounding Laloo are only relevant if they pertain to the Railways. </narr>
+</top>
+
+<top lang="en">
+<num>31</num> 
+<title>Kashmir under terrorist attacks</title>
+<desc>Attacks by terrorist groups in different parts of Kashmir.</desc>
+<narr>A relevant document should include information regarding terrorist incidents in Kashmir, the number of casualties and the aid given by the government.</narr>
+</top> 
+
+<top lang="en">
+<num>32</num>  
+<title>Relation between Congress and its allies</title>
+<desc>The relationship between the ruling Congress party and its allies in the UPA government.</desc>  
+<narr>A relevant document should contain information regarding the formation of the UPA government on the basis of a common minimum programme, the relationship between the Congress party and its allies such as CPI(M), CPI, Telugu Desam, Janata Dal, etc. and the conflict within the government regarding economic reforms.</narr> 
+</top>
+
+<top lang="en">
+<num>33</num>  
+<title>President Bush visits India</title> 
+<desc>The first visit of President Bush to India during his two-term presidency.</desc> 
+<narr>Information regarding Bush's visit to India, his tour of Hyderabad and some rural areas is relevant here.</narr> 
+</top>
+
+<top lang="en">
+<num>34</num>  
+<title>Jessica Lall Murder</title>   
+<desc>The murder of Jessica Lall.</desc> 
+<narr>Information related to the murder of the model Jessica Lall and Manu Sharma's life sentence by the court should be included in the documents.</narr> 
+</top>
+
+<top lang="en">
+<num>35</num>  
+<title>ULFA attacks in India</title> 
+<desc>ULFA attacks in different states of India and the preventive measures taken by various states and the central government.</desc>  
+<narr>Relevant documents should contain reports on the violent activities of the ULFA terrorist group targeting the police and civilians, the meetings of police and bureaucrats in naxalite infested states, and the steps taken to check the naxalite menace.</narr> 
+</top>
+
+<top lang="en">
+<num>36</num>
+<title>Protest against Narmada Dam construction</title>
+<desc>The protest held by Narmada Bachao Andolan against the controversial dam construction.</desc>
+<narr>A relevant document should contain information regarding the construction of the controversial Narmada dam and the protests led by the Narmada Bachao Andolan which included even environmentalists and actors.</narr>
+</top>
+
+<top lang="en">
+<num>37</num>  
+<title>Changing political scenario in Nepal</title> 
+<desc>The fast changing political scenario in the Himalayan Kingdom of Nepal.</desc> 
+<narr>A relevant document should contain information regarding the political unrest and agitation following King Gyanendra's usurpation of executive authority through his 'royal coup'.</narr>
+</top> 
+
+<top lang="en">
+<num>38</num>  
+<title>Uneasy truce between Greg Chappell and Sourav Ganguly</title>  
+<desc>The uneasy truce between the Indian coach Greg Chappell and captain Sourav Ganguly.</desc> 
+<narr>Information related to the mutual recrimination between Chappell and Ganguly, and the leaking of Chappell's e-mail to the BCCI by the media should be included in a relevant document.</narr>
+</top> 
+
+<top lang="en">
+<num>39</num>  
+<title>Attacks on American soldiers in Iraq</title>
+<desc>The attacks on the American soldiers in various parts of Iraq.</desc> 
+<narr>A relevant document should contain the information regarding the continuing attacks on the American soldiers in Iraq and the number of casualties.</narr> 
+</top>
+
+<top lang="en">
+<num>40</num>
+<title>Corruption in Pakistan's judicial system</title> 
+<desc>Find documents reporting on the corruption in the Pakistani judicial system and the suspension of Pakistan's Chief Justice Mr. Iftikhar Muhammad Chaudhry.</desc> 
+<narr>A relevant document should contain reports regarding corruption in the Pakistani judiciary, and the suspension of Pakistan's Chief Justice on charges of 'misconduct' and the 'misuse of office' by President Pervez Musharraf. The discontent among the various sections of Pakistani populace and mass protests against such a decision, the detention and arrest of protestors by the riot police, the strike by hundreds of lawyers, international condemnation of the President and finally reinstation of Chaudhry after Musharraf backed off are also of interest.</narr>
+</top> 
+
+<top lang="en">
+<num>41</num>
+<title>New Labour Laws in France</title> 
+<desc>Find documents reporting on the introduction of the new labour law in France and the protests against it.</desc>
+<narr>Information regarding the introduction and adoption of the First Employment Contract in France by the Parliament, the giant protests by the unions, students and youth in response to the new employment legislation, the assault on the students by the French riot police, the announcement of the French President to scrap the CPE and the threat by the union leaders that the government would face a repeat of the recent general strikes if the law were not withdrawn.</narr> 
+</top> 
+
+<top lang="en">
+<num>42</num>
+<title>North Korea's Nuclear Policy - worldviews</title>
+<desc>North Korea and its weapons of mass destruction</desc> 
+<narr>Information regarding North Korea's nuclear test and its claim of possessing nuclear weapons, U.S.A's call for a six-party talk, North Korea's refusal and acceptance of only bi-lateral talks with the United States as well as the views of various World leaders regarding this issue should be included in a relevant document.</narr>
+</top> 
+
+<top lang="en">
+<num>43</num>
+<title>Imposing dress-code in Educational Institutions</title> 
+<desc>The imposition of dress code among students and teachers</desc>  
+<narr>Relevant documents should contain reports regarding the imposition of dress code among the students, especially female students and teachers in universities, colleges and schools and the furious debate related to this issue and resulting steps taken by the authorities.</narr>
+</top> 
+
+<top lang="en">
+<num>44</num>
+<title>Terrorist attacks in Britain</title>
+<desc>Serial blasts in London due to terrorist strikes.</desc> 
+<narr>Relevant documents should contain reports regarding the terrorist attacks in London in 2005 conducted by four separate suicide bombers and the recent attack in the Glasgow airport. Reports regarding the number of casualties, the raids and arrests made by the Police are also of interest.</narr>
+</top>
+
+<top lang="en">
+<num>45</num>
+<title>Global Warming</title> 
+<desc>The signs of global warming and solutions to the problem </desc> 
+<narr>Relevant documents should contain reports regarding the global warming, the causes and the effects of global warming on our planet, the consequences mankind will face and the different measures taken by the respective government and non-governmental organizations to reduce or reverse future warming.</narr>
+</top> 
+ 
+<top lang="en">
+<num>46</num>
+<title>"Prince" rescued after 50 hours in black hole</title>  
+<desc>The homecoming of Prince out of the black hole after 50 hours.</desc>  
+<narr>A relevant document should contain information regarding the travails of Prince Kumar who spent 50 hours in a 3 feet shaft inside a dark damp hole, and his rescue.</narr>
+</top> 
+
+<top lang="en">
+<num>47</num>
+<title>Nobel Prize missing</title> 
+<desc>Theft of Bengali poet Rabindranath Tagore's Nobel Prize medal.</desc>
+<narr>Asia's first Nobel Prize (in literature) was awarded to renowned poet and author Rabindranath Tagore. Tagore's Nobel Prize Medal was stolen on 25th March, 2004 along with some other rare artifacts and paintings of Tagore. Relevant documents will contain information regarding the theft. Documents discussing the abrupt stop of C.B.I.'s investigation into the Nobel Prize theft are also relevant. Information related to the theft of other Nobel Prizes are not relevant here.</narr> 
+</top> 
+
+<top lang="en">
+<num>48</num>
+<title>Nithari murder case</title> 
+<desc>The 2006 Noida murder case and its investigation</desc> 
+<narr>Information regarding the serial killing in the village of Nithari near Noida is relevant. Reports about the children or the 20 year old girl who were victimised and brutally killed, the arrest of the two accused in this case, and the investigations undertaken by the police and the CBI are all relevant.</narr>
+</top>
+
+<top lang="en">
+<num>49</num>
+<title>World wide natural calamities</title> 
+<desc>Natural disasters occurring in various parts of the world.</desc> 
+<narr>Relevant documents should contain information regarding natural disasters affecting various parts of the world. Natural disasters include landslides, volcanic eruptions, tsunamis, tornados, Katrina, earthquakes, floods, hurricanes, etc. Information on the aid provided by world organisations and the respective governments of the affected countries is also relevant.</narr>
+</top> 
+
+<top lang="en">
+<num>50</num>
+<title>Kolkata Book Fair 2007</title> 
+<desc>Kolkata Book Fair and the dispute regarding the venue of the fair.</desc>
+<narr>Relevant documents will report about the theme of the book fair, books newly released at the fair, the reactions of the book lovers, along with the uncertainty prevailing regarding the venue of the fair, the effect on the fair after the venue was changed, as well as the objections raised and the reasons given by environmentalists in support of the change of venue.</narr>
+</top> 
+
+<top lang="en">
+<num>51</num>
+<title>Corruption in the educational system</title> 
+<desc>The prevalence and prevention of corruption in our educational system.</desc> 
+<narr>Relevant documents will cite instances of bribery in the educational sector, in connection with the admission of students, and the appointment and transfer of teachers both in rural and urban areas.</narr>
+</top> 
+
+<top lang="en">
+<num>52</num>
+<title>Budget 2006-2007</title>  
+<desc>The budget estimates made for the year 2006-2007 and its effects.</desc> 
+<narr>Relevant documents must provide information regarding the estimates and proposals announced by the ministerial departments, the economic impact of the proposed budget, the schemes made for the people below poverty line, and the criticism of the budget by the Indian people.</narr>
+</top> 
+
+<top lang="en">
+<num>53</num>
+<title>India-U.S Nuclear Deal</title> 
+<desc>The nuclear deal between two democratic countries India and U.S.</desc> 
+<narr>A relevant document should contain information regarding the agreement regarding nuclear policy between the two countries, the terms of the agreement, the loopholes behind this deal, the protests raised against the deal by some parties of both nations, and the numerous questions arising relating to the nuclear deal.</narr>
+</top> 
+
+<top lang="en">
+<num>54</num>
+<title>HIV and AIDS epidemic</title> 
+<desc>Find information about how HIV/AIDS has become one of the biggest global health concerns.</desc> 
+<narr>Relevant documents should provide information relating to the causes, symptoms, and treatment of HIV patients, the gradual rise in the rate of HIV/AIDS infection, ways of preventing the epidemic, and the reactions of the common mass towards infected persons.</narr>
+</top> 
+
+<top lang="en">
+<num>55</num>
+<title>Sania Mirza's tennis career</title> 
+<desc>The wonderful performances by the Indian tennis sensation Sania Mirza.</desc> 
+<narr>A relevant document will provide information about the awards and achievements received by Sania so far, Sania's rank in singles and doubles (including her latest WTA rank) as well as her upcoming games.</narr>
+</top>
+
+<top lang="en">
+<num>56</num>
+<title>The increase of mobile phone users </title>
+<desc>Find information about the increasing use of mobile phone, and how mobile phones are becoming the non-drug addiction of the 21st century.</desc>
+<narr>Relevant documents will report on the disadvantages arising out of the rapid growth of the use of mobile phones, the symptoms caused by the radiation of mobile phones, the views of scientists and doctors, and the problems arising out of the use of cell-phone cameras in society.</narr>
+</top>
+
+<top lang="en">
+<num>57</num>
+<title>Salman Khan's killing of rare antelope</title> 
+<desc>Arrest of Salman Khan for killing of endangered gazelles.</desc> 
+<narr>Relevant documents will cite the arrest of Salman Khan for killing black buck antelopes, and his appeal before the court after he was sentenced to jail for a five-year term.</narr>
+</top> 
+
+<top lang="en">
+<num>58</num>
+<title>Thailand Coup</title> 
+<desc>Find information about the activities of leaders involved in the coup in Thailand, and its aftermath.</desc> 
+<narr>A relevant document should contain information regarding the suspension of Thailand's constitution and the country's parliament and senate by the coup leaders and the abuse of Human Rights during the military coup.</narr>
+</top> 
+
+<top lang="en">
+<num>59</num>
+<title>Protests by American citizens against Iraq War</title> 
+<desc>Protests by American citizens against George. W. Bush on the issue of the Iraq war.</desc> 
+<narr>Relevant document must provide information regarding protests by the American people and political parties, anti-war rallies and meetings, the arrest of American citizens for wearing anti-Bush T-shirts, and also the overwhelming push from the masses to escalate the Iraq war.</narr>
+</top> 
+
+<top lang="en">
+<num>60</num>
+<title>Terrorist activities of Al Qaida</title>
+<desc>Find documents that reports on the terrorist activities of Al Qaida.</desc> 
+<narr>Relevant document should contain information regarding the terrorist activities of Al Qaida, the nations affected by their attacks, the number of casualties as a result and the measures taken by the respective governments to control the activities of Al Qaida.</narr>
+</top> 
+
+<top lang="en">
+<num>61</num>
+<title>Harry Potter mania </title>
+<desc>The craze across the world regarding the release of Harry Potter books.</desc>
+<narr>We seek information on the Potter mania which infested the whole world, the midnight openings of the book releases, opinions of Potter fans, the excitement of viewers awaiting the release of cinematic versions of the original books.</narr>
+</top>
+
+<top lang="en">
+<num>62</num>
+<title>Corruption in the Central Government</title> 
+<desc>Find information about central government officials involved in various corruption cases.</desc> 
+<narr>A relevant document will contain information relating to all sorts of corruption prevailing at the government level, the investigation made so far and the steps taken by CBI, the detection and the prevention of corruption by the Anti Corruption Bureau, the arrest of the government officials and the protests against this corruption.</narr>
+</top> 
+
+<top lang="en">
+<num>63</num>
+<title>Netaji's death unraveled</title> 
+<desc>Uncertainty and different contradictions regarding the death of Netaji Subhas Chandra Bose.</desc> 
+<narr>We are looking for information regarding the mysterious death of Netaji, government's propaganda relating to the death of Netaji in the plane crash, the government's refusal to disclose the secret papers and documents relating to Netaji's death, and the demand by the Indian people that the truth behind this mysterious death be disclosed. Information besides this is irrelevant.</narr>
+</top> 
+
+<top lang="en">
+<num>64</num>
+<title>Sabharwal Murder Case</title> 
+<desc>The murder of Ujjain professor H.S. Sabharwal by ABVP students.</desc> 
+<narr>Information regarding the merciless beating and murder of Prof. Sabharwal in Ujjain by ABVP students, the hostile reactions of the eye witnesses, the trial of the accused persons and the suspension of the police officer should be included in the document. Other murder incidents are not relevant here.</narr>
+</top> 
+
+<top lang="en">
+<num>65</num>
+<title>CBI in search of Dawood Ibrahim</title>
+<desc>CBI's continuous search for the most wanted criminal Dawood Ibrahim.</desc>
+<narr>A relevant document must provide information regarding the activity of the global terrorist Dawood Ibrahim, CBI's request to Interpol to help them in capturing Dawood, uncertainty relating to Dawood's nationality, and CBI's urging of the international community to create pressure upon the country which is sheltering the underworld don Dawood Ibrahim.</narr>
+</top>
+
+<top lang="en">
+<num>66</num>
+<title>Khadim owner abduction case</title> 
+<desc>Abduction of Khadim owner Partha Pratim Roy Burman.</desc> 
+<narr>Any document that provides information related to the kidnapping of Khadim owner, the demand of a huge sum of money, the arrest and the death sentence of the criminals and FBI's involvement in this abduction case, is relevant.</narr>
+</top> 
+
+<top lang="en">
+<num>67</num>
+<title>Revival of Bofors Scandal</title>
+<desc>Bofors scam and Quattrocchi's involvement.</desc> 
+<narr>A relevant document should contain information related to the impact of the Bofors scam on the Indian political scenario during Manmohan Singh's regime, the role of opposition parties about defreezing Quattrocchi's bank account, Argentine court's rejection regarding the handover of Quattrocchi to the Indian government, Interpol's Red Corner notice against Ottavio Quattrocchi.</narr>
+</top>
+
+<top lang="en">
+<num>68</num>
+<title>Amarnath Yatra</title> 
+<desc>The holy yatra to Amarnath and the events following the journey.</desc> 
+<narr>Information regarding the holy shrine of Amarnath, the journey of the pilgrims, terrorist attacks on the innocent pilgrims, disputes related to the naturally formed shrine should all be included in the document. Information on other topics is not relevant here.</narr>
+</top>
+
+<top lang="en">
+<num>69</num>
+<title>Indian Railway Accidents</title>  
+<desc>Railway accidents in India.</desc> 
+<narr>A relevant document should contain information regarding railway accidents that occurred in various parts of India, the aftermath of the accidents, number of people killed or injured, and the aid given by the government. Information on other accidents is irrelevant here.</narr>
+</top> 
+
+<top lang="en">
+<num>70</num>
+<title>Remake in Bollywood </title> 
+<desc>Find information about a series of remakes of Hindi classics in Bollywood.</desc> 
+<narr>A relevant document should contain information about "remake" films -- both hits and flops, criticism of the viewers regarding the films, and the explanations given by the directors, actors and actresses regarding the remake films. Other information is not relevant.</narr>
+</top> 
+
+<top lang="en">
+<num>71</num>
+<title>Haj Pilgrims from India</title>  
+<desc>Visits by Indian muslim pilgrims to Mecca during Haj.</desc> 
+<narr>A relevant document should contain information regarding the visits of Indian muslim pilgrims to Mecca, and the government's decision of giving no subsidy to Haj pilgrims. Also relevant is information about a rule of the Saudi Arabian government that makes it mandatory for Haj pilgrims to take polio immunization in order to get their visas cleared for Haj.</narr>
+</top> 
+
+<top lang="en">
+<num>72</num>
+<title>Stamp paper scam</title>  
+<desc>Find information about the persons charged with forgery of government stamp paper.</desc> 
+<narr>Information regarding the arrest and suspension of the accused persons (including high ranking government officials) in connection with the multi-crore fake stamp paper scam should be included in the document. Other information beside this is irrelevant here.</narr>  
+</top> 
+
+<top lang="en">
+<num>73</num>
+<title>Zinedine Zidane's headbutting incident at the World Cup </title> 
+<desc>Find documents describing the incident where Zidane butted Materazzi with his head in the World Cup 2006 final, after the Italian made an offensive and provocative comments about Zidane. </desc>
+<narr>Information regarding a headbutting incident in the World Cup Final, in which Zinedine Zidane butted Italian player Marco Materazzi after his provocative remarks should be included in the relevant documents. Information about Zidane's apology and his demand that Materazzi be punished, as well as his winning the Golden Ball award is also relevant.</narr> 
+</top>
+
+<top lang="en">
+<num>74</num>
+<title>Indo-Pak LOC problem</title> 
+<desc>Indo-Pak relations and the problem lingering between the two nations regarding LOC.</desc>
+<narr>Information regarding the infiltration of terrorists through the LOC from Pakistan to Indian governed Kashmir, and about the talks between the two nations to resolve the LOC dispute should be included in relevant documents. Information other than this is not relevant here.</narr> 
+</top> 
+
+<top lang="en">
+<num>75</num>
+<title>Britain's new Prime Minister</title>
+<desc>Find documents reporting Gordon Brown's takeover as Prime Minister of Britain.</desc> 
+<narr>A relevant document should cover the takeover of Gordon Brown as Britain's Prime Minister, the decision of the Labour Party regarding the election of Gordon Brown as British Prime Minister. Documents that the evaluation of policies and the promises made by Brown which benefits the Labour Party.</narr> 
+</top>
+</topics>
+<topics>
+
+<top lang='en'>
+<num>76</num>
+<title>Clashes between the Gurjars and Meenas</title>
+<desc>
+Reasons behind the protests by Meena leaders against the
+inclusion of Gurjars in the Scheduled Tribes.
+</desc>
+<narr>
+The Gurjars are agitating in order to attain the status of a
+Scheduled Tribe. Leaders belonging to the Meena sect have
+been vigorously opposing this move. What are the main reasons 
+behind the Meenas' opposition? A relevant document should
+mention the root cause(s) behind the conflict between these
+two sects.
+</narr>
+</top>
+
+<top lang='en'>
+<num>77</num>
+<title>Attacks by Hezbollah guerrillas</title>
+<desc>
+Attacks by Hezbollah guerrillas on Indian and Israeli forces.
+</desc>
+<narr>
+A relevant document should provide information about attacks
+by Hezbollah guerrillas on Indian and Israeli peace keeping
+troops stationed in Israel.
+</narr>
+</top>
+
+<top lang='en'>
+<num>78</num>
+<title>Conflict between Advani and Singhal over the Ram
+Mandir issue</title>
+<desc>
+Conflict between Ashok Singhal, the president of Vishwa
+Hindu Parishad, and L.K. Advani, the BJP leader over the Ram
+Mandir issue.
+</desc>
+<narr>
+A relevant document should provide information about the
+ongoing debate on the Ram Mandir issue between Ashok
+Singhal, the Vishwa Hindu Parishad president, and L.K. 
+Advani, the BJP leader. Information on conflicts between
+these two leaders on other issues, or among other VHP and
+BJP leaders is irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>79</num>
+<title>Building roads between China and Mount Everest</title>
+<desc>
+Plans to build a road from China to Mount Everest.
+</desc>
+<narr>
+A relevant document should describe plans to build a road
+from China to Mount Everest. Information about discussions
+on this issue between the Indian and Chinese authorities
+is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>80</num>
+<title>Babri Masjid demolition case started against Advani</title>
+<desc>
+Initiation of legal proceedings against Advani for his
+involvement in the demolition of Babri Masjid.
+</desc>
+<narr>
+A relevant document must include information about the
+initial legal steps taken against Advani, including the
+registration of an FIR, or orders passed by the Rae Bareilly
+court. Information about steps that were taken to transfer
+the case to the Allahabad High Court is not relevant, nor is
+information about what happened at the Allahabad Court.
+</narr>
+</top>
+
+<top lang='en'>
+<num>81</num>
+<title>Problems related to the immunization programme
+against Japanese Encephalitis in India</title>
+<desc>
+The Health Ministry in India has made certain plans to
+protect Indian children against the outbreak of Japanese
+Encephalitis. What problems have arisen in the course of
+implementing these plans?
+</desc>
+<narr>
+What problems have arisen while vaccinating Indian children
+against Japanese Encephalitis? One of the problems is that
+adequate vaccine is not manufactured in India. Thus, the
+possibility of importing vaccine from abroad (particularly
+China) has been considered. Related discussions will also be
+regarded as relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>82</num>
+<title>Proposed bus service between Srinagar and Muzaffarabad</title>
+<desc>
+The proposed bus service between Srinagar and Muzaffarabad,
+and its role in solving the Indo-Pak dispute.
+</desc>
+<narr>
+A proposed bus service between Srinagar in India and
+Muzaffarabad in Pakistan is being considered. What hopes has
+this raised about resolving disputes between the two
+countries? Terrorist organizations have threatened to attack
+the buses to disrupt the service. Information about such
+threats is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>83</num>
+<title>Election campaign of Laloo Prasad Yadav and Ram Vilas
+Paswan</title>
+<desc>
+Attempts made by Laloo Prasad Yadav and Ram Vilas Paswan to
+gain the votes of Muslim voters.
+</desc>
+<narr>
+A relevant document will describe attempts made by Laloo
+Prasad Yadav and Ram Vilas Paswan to gain the votes of
+Muslim voters. Of particular interest is information about
+various promises made and allurements offered to
+Muslims.
+</narr>
+</top>
+
+<top lang='en'>
+<num>84</num>
+<title>Brinda Karat's allegations against Swami Ramdev</title>
+<desc>
+Allegations raised by Brinda Karat that medicines sold by
+Swami Ramdev contain animal parts.
+</desc>
+<narr>
+A relevant document should contain information about
+complaints made by Brinda Karat alleging that Ramdev has
+been selling medicines containing animal parts, thus
+violating licensing and labeling regulations laid down in
+India's Drug and Cosmetics Act.
+</narr>
+</top>
+
+<top lang='en'>
+<num>85</num>
+<title>Abu Salem, accused in the Mumbai Bomb Blast case, in
+jail custody</title>
+<desc>
+Order passed by the court to remand Abu Salem, accused in
+the Mumbai Bomb Blast case, in jail custody.
+</desc>
+<narr>
+Information about Abu Salem's involvement in the Mumbai Bomb
+Blasts is relevant. Information related to other accusations
+against him, such as those related to the Pradip Jain murder
+case, or the passport forgery case, is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>86</num>
+<title>Privatization of the Mumbai and Delhi airports</title>
+<desc>
+The Government's decision to privatize the Mumbai and Delhi
+airports and its call for tender bids in this regard.
+</desc>
+<narr>
+A relevant document should contain information about the
+decision to modernise and privatise the Mumbai and Delhi
+airports. Information about Anil Ambani-owned Reliance
+Airport Developer Ltd.'s participation in the bidding
+process for both airports is also relevant, but articles
+dealing with the subsequent court cases are not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>87</num>
+<title>Discussions between Manmohan Singh and Pervez Musharraf regarding
+the position of troops around Siachen</title>
+<desc>
+Discussions between Manmohan Singh, Prime Minister of India,
+and Pervez Musharraf, President of Pakistan, regarding the
+position of troops around Siachen.
+</desc>
+<narr>
+A relevant document should contain information about
+talks / discussions between Manmohan Singh, Prime Minister
+of India, and Pervez Musharraf, President of Pakistan,
+regarding the position of troops around Siachen.
+</narr>
+</top>
+
+<top lang='en'>
+<num>88</num>
+<title>Popular protests against the arrest of the accused in the Shankar
+Raman murder case</title>
+<desc>
+Arrests of Jayendra Saraswati, Shankaracharya of Kanchi and
+Vijayendra Saraswati, for their alleged involvement in
+the murder of Shankar Raman, and people's protests against
+these arrests. 
+</desc>
+<narr>
+Jayendra Saraswati, Shankaracharya of Kanchi, along with
+Vijayendra Saraswati, the junior Shankaracharya, were
+arrested for their alleged involvement in the murder of
+Shankar Raman. A relevant document should contain
+information about the arrests, and popular protests against
+the arrests.
+</narr>
+</top>
+
+<top lang='en'>
+<num>89</num>
+<title>Involvement of Congress ministers in the oil-for-food scam</title>
+<desc>
+Alleged involvement of the External Affairs Minister Natwar
+Singh and other Congress ministers in the Iraqi oil-for-food
+scam, and related investigations.
+</desc>
+<narr>
+A relevant document should contain information about the
+alleged involvement of K. Natwar Singh, India's External
+Affairs Minister, along with a few other Congress ministers,
+in the Iraqi oil-for-food scandal, and related investigations 
+by the Enforcement Directorate.
+</narr>
+</top>
+
+<top lang='en'>
+<num>90</num>
+<title>Indian representatives visit Bangladesh</title>
+<desc>
+A visit by a team of Indian representatives to Dhaka to
+discuss issues like sharing of water, security, and training
+camps for militants.
+</desc>
+<narr>
+A relevant document should contain information about one or
+more of the following issues in the context of a visit by
+Indian representatives to Bangladesh:
+- sharing of Teesta waters between India and Bangladesh
+- security, and training camps for militants
+- India's disappointment at Bangladesh's denial of the presence
+  of terrorist camps on its soil
+- India's apprehensions that ULFA militants are being
+  trained in Bangladesh and their activities are being
+  controlled from there.
+</narr>
+</top>
+
+<top lang='en'>
+<num>91</num>
+<title>Allegations of financial corruption against Pratibha Patil</title>
+<desc>
+Charges of financial corruption against Pratibha Patil.
+</desc>
+<narr>
+A relevant document should contain information about various
+charges of corruption levelled against Pratibha Patil,
+e.g. the embezzlement of Kargil funds, aiding relatives to
+take loans from a cooperative bank which were never repaid,
+etc. Information about protests by the NDA on such grounds
+against the nomination of Pratibha Patil for the post of
+President is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>92</num>
+<title>Activities of the Tamil Tigers of Sri Lanka</title>
+<desc>
+Insurgent activities of the Tamil Tigers of Sri Lanka.
+</desc>
+<narr>
+A relevant document should contain information about various
+destructive activities of the Tamil Tigers, such as their
+role in the civil war, attacks on Sri Lankan soldiers, etc.
+</narr>
+</top>
+
+<top lang='en'>
+<num>93</num>
+<title>Taking bribes for raising questions in parliament</title>
+<desc>
+Members of the Indian parliament caught on camera, accepting
+bribes for raising questions in Parliament.
+</desc>
+<narr>
+Some members of the Lok Sabha and Rajya Sabha were caught on
+camera, accepting bribes for raising questions in Parliament. 
+A relevant document should have information on this expose.
+</narr>
+</top>
+
+<top lang='en'>
+<num>94</num>
+<title>Indian Navy accused of leaking classified information</title>
+<desc>
+Investigations into the accusations that classified
+information has been leaked by the Indian Navy.
+</desc>
+<narr>
+The Indian navy has been accused of leaking classified
+information to foreign powers. A relevant document should
+have information about the CBI investigation into these
+allegations.
+</narr>
+</top>
+
+<top lang='en'>
+<num>95</num>
+<title>Racism row on the Big Brother show</title>
+<desc>
+The racism row on the Big Brother show involving Shilpa
+Shetty and Jade Goody.
+</desc>
+<narr>
+A relevant document should contain information about the
+racist attitude of Jade Goody towards Shilpa Shetty on the
+Celebrity Big Brother show, and Shilpa's reactions to this
+attitude.
+</narr>
+</top>
+
+<top lang='en'>
+<num>96</num>
+<title>Pramod Mahajan's killer</title>
+<desc>
+Statements made by Pramod Mahajan's killer in court, denying
+charges against him.
+</desc>
+<narr>
+The accused in the Pramod Mahajan murder trial has denied
+the charges against him. A relevant document should contain
+information about his denial.
+</narr>
+</top>
+
+<top lang='en'>
+<num>97</num>
+<title>Quarrel between the Ambani brothers regarding ownership of the
+Reliance Group</title>
+<desc>
+Feud between Mukesh Ambani and Anil Ambani regarding ownership of the
+Reliance Group.
+</desc>
+<narr>
+Information about the feud between Mukesh Ambani and Anil Ambani regarding
+ownership of the Reliance Group, and about the final report presented by
+K.V. Kamath on the valuation of assets of the Reliance Group is relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>98</num>
+<title>India dismisses China's claims on Arunachal Pradesh</title>
+<desc>
+India's dismissal of China's claims on Arunachal Pradesh.
+</desc>
+<narr>
+A relevant document should contain information about India's
+dismissal of China's claims on Arunachal Pradesh, and the
+arguments presented by India to support its position. 
+Statements made by the Arunachal Pradesh government are
+irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>99</num>
+<title>Laloo Prasad Yadav and the fodder scam</title>
+<desc>
+Evidence regarding Laloo Prasad Yadav's involvement in the
+fodder scam.
+</desc>
+<narr>
+A relevant document should contain information about
+evidence regarding Railway Minister Laloo Prasad Yadav's
+involvement in the multi-million rupee fodder scam.
+</narr>
+</top>
+
+<top lang='en'>
+<num>100</num>
+<title>Monica Bedi and the passport forgery case</title>
+<desc>
+Monica Bedi charged with obtaining forged passports at
+Hyderabad.
+</desc>
+<narr>
+A relevant document should contain information about charges
+against Monica Bedi of acquiring a forged passport under a
+false name at Hyderabad, and the investigations conducted by
+the CBI in this regard. Information about forged passports
+obtained elsewhere is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>101</num>
+<title>Drug party at Pramod Mahajan's bungalow</title>
+<desc>
+Details of the drink-and-drugs party at the late Pramod
+Mahajan's official bungalow in which Rahul (his son), Bibek
+Moitra, and possibly others were involved.
+</desc>
+<narr>
+Rahul Mahajan and Bibek Moitra were involved in a late-night
+drink-and-drugs party, held at the official residence of
+the late Pramod Mahajan, Rahul's father. A relevant document
+should provide details about what happened that night,
+e.g. who was present, what intoxicants / drugs were consumed, 
+etc. A document whose main focus is on the aftermath of the
+incident - its political implications, controversy involving
+Rahul's medical reports, police investigations, etc. is not
+relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>102</num>
+<title>Pakistani cricketers involved in a doping scandal</title>
+<desc>
+Charges of doping against Shoaib Akhtar and Mohammad Asif.
+</desc>
+<narr>
+A relevant document should contain specific information
+about the charges of doping against Shoaib Akhtar and
+Mohammad Asif, or the steps taken by CAS in this case.
+</narr>
+</top>
+
+<top lang='en'>
+<num>103</num>
+<title>Bilateral problems surrounding the Baglihar hydro-electric
+power project</title>
+<desc>
+What is India's position on the Indo-Pak conflict over the
+Baglihar hydro-electric power project?
+</desc>
+<narr>
+The Baglihar hydro-electric power project has given rise to
+tension between India and Pakistan on the issue of sharing
+the waters of the Indus and its tributaries. A relevant
+document should cover the position of the Indian government
+on this issue.
+</narr>
+</top>
+
+<top lang='en'>
+<num>104</num>
+<title>Jaya Bachchan sacked from Rajya Sabha membership</title>
+<desc>
+What legal steps has Jaya Bachchan taken on being
+disqualified from Rajya Sabha membership for holding an
+office of profit?
+</desc>
+<narr>
+Jaya Bachchan has been disqualified from Rajya Sabha
+membership for holding an office of profit. A relevant
+document should cover the legal recourse that Jaya Bachchan
+has taken to protest against this decision.
+</narr>
+</top>
+
+<top lang='en'>
+<num>105</num>
+<title>Taj heritage corridor scandal</title>
+<desc>
+CBI investigations into the alleged involvement of the Chief
+Minister and highly placed bureaucrats of Uttar Pradesh in
+the multi-crore Taj heritage corridor scandal.
+</desc>
+<narr>
+A relevant document should focus on the investigation of
+Mayavati, D.S. Bagga, and R.K. Sharma by the CBI in
+connection with the Rs. 175 crore Taj Heritage Corridor
+Scandal.
+</narr>
+</top>
+
+<top lang='en'>
+<num>106</num>
+<title>Ban on Taslima Nasreen's novel "Shame"</title>
+<desc>
+Taslima Nasreen's novel "Shame" banned for hurting Muslim
+religious sentiments.
+</desc>
+<narr>
+A relevant document should contain information about
+resentment among the Muslim population against Taslima
+Nasreen's novel Shame, or the consequent ban on the
+novel. Information about any other novel is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>107</num>
+<title>Furore over the release of a CD containing
+anti-Muslim sentiments in Uttar Pradesh</title>
+<desc>
+Accusations against the BJP of publishing a CD containing
+anti-Muslim material during the run-up to the election in
+Uttar Pradesh, India, and steps taken by the BJP in this
+regard.
+</desc>
+<narr>
+A relevant document should contain information about BJP's
+involvement in the distribution of an anti-Muslim CD in
+UP (Uttar Pradesh), or about the suspension of the party
+workers involved in the preparation / modification of the CD
+from the BJP.
+</narr>
+</top>
+
+<top lang='en'>
+<num>108</num>
+<title>Greater Nagaland</title>
+<desc>
+Demand for a Greater Nagaland made by NSCN, a Naga
+organization, and protests made by neighbouring states
+against this demand. 
+</desc>
+<narr>
+A relevant document should contain information about 
+the demand for a Greater Nagaland, and the opposition to
+this move from Assam, Manipur and Arunachal Pradesh.
+</narr>
+</top>
+
+<top lang='en'>
+<num>109</num>
+<title>New political party formed by Raj Thackeray</title>
+<desc>
+Raj Thackeray's decision to form a new political party in
+Mumbai, and his announcement about the new party.
+</desc>
+<narr>
+A relevant document should contain information about the
+continuous conflicts between Raj and his cousin Uddhav
+Thackeray (Bal Thackeray's son), and about Raj's decision to
+form a new political party in Mumbai.
+</narr>
+</top>
+
+<top lang='en'>
+<num>110</num>
+<title>Sino-Indian relations and border trade</title>
+<desc>
+Border trade through Nathu La and its impact on
+Sino-Indian relations.
+</desc>
+<narr>
+Information about the prospects of improving Sino-Indian
+relations through border trade, expectations and
+apprehensions expressed by officials from the two countries
+in this regard, potential contentious issues, etc. is
+relevant. Details about the movement of goods through Nathu
+La are irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>111</num>
+<title>Dance bars banned in Mumbai</title>
+<desc>
+Ban on Mumbai's dance bars and protests by dancers against
+the ban.
+</desc>
+<narr>
+A relevant document should contain information about the
+decision of the Maharashtra cabinet to ban dance bars in
+Mumbai, or about the protests / rallies organized by the
+dancers against the order to close down all dance bars.
+</narr>
+</top>
+
+<top lang='en'>
+<num>112</num>
+<title>Links between Gutkha manufacturers and the underworld</title>
+<desc>
+Links between the Goa and Manikchand Gutkha manufacturing
+companies and Dawood Ibrahim.
+</desc>
+<narr>
+A relevant document should contain information about the
+links between the owners of the Manikchand Gutkha and Goa
+Gutkha companies and Dawood Ibrahim, the gangster. 
+Information about links between Dawood Ibrahim and other
+companies is not relevant. 
+</narr> 
+</top>
+
+<top lang='en'>
+<num>113</num>
+<title>Political clashes in Bangladesh</title>
+<desc>
+Clashes within the BNP and between the BNP and the Awami
+League in Bangladesh.
+</desc>
+<narr>
+A relevant document should contain information on the
+clashes between existing BNP supporters and those who left
+the party, clashes between supporters of Sheikh Hasina and
+Khaleda Zia, and the number of persons killed or wounded in
+such clashes. </narr>
+</top>
+
+<top lang='en'>
+<num>114</num>
+<title>Investigation of the arms scandal in the Defence Ministry</title>
+<desc>
+Arms deal signed by George Fernandez with Denel, and demands
+made by Pranab Mukherjee for an investigation into
+irregularities in this deal.
+</desc>
+<narr>
+Information about an arms deal signed by ex-Minister George
+Fernandez with South African firm Denel is relevant. 
+Information about Defence Minister Pranab Mukherjee's demand
+for detailed information about the deal, and investigations
+into the purchase of arms is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>115</num>
+<title>Serial blasts in Varanasi</title>
+<desc>
+Casualties resulting from the serial blasts in the Sankatmochan
+temple.
+</desc>
+<narr>
+Relevant documents should contain information on the serial
+blasts in Varanasi, the first blast at the crowded
+Sankatmochan temple near Benaras Hindu University, and the
+number of persons dead / wounded, etc.
+</narr>
+</top>
+
+<top lang='en'>
+<num>116</num>
+<title>Encounter specialist Daya Nayak</title>
+<desc>
+What steps did the ACB take against Daya Nayak in the
+disproportionate assets (DA) case?
+</desc>
+<narr>
+A relevant document should contain specific information
+about the steps taken / charges framed by the
+Anti-Corruption Bureau against encounter specialist Daya
+Nayak. Information about charges against his wife and
+associates is irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>117</num>
+<title>Controversy over land at Kalinganagar</title>
+<desc>
+The offer for talks made by the tribals and the Orissa
+government's plea for central mediation in connection with
+the controversy over land acquisition at Kalinganagar.
+</desc>
+<narr>
+The tribals have requested the Orissa government to call a
+meeting to resolve the controversy over land acquisition at
+Kalinganagar. The Orissa state government has sought
+mediation by the Centre over this issue. A relevant document
+should contain information about these moves. Other details
+about the meeting are irrelevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>118</num>
+<title>Terrorist strike at Ayodhya</title>
+<desc>
+Possible involvement of Pakistani terrorist groups behind
+the Ayodhya attack, and the effect of the attack.
+</desc>
+<narr>
+A relevant document should contain information on one or
+more of the following: the casualties inflicted, political
+strikes after the attack, suspicion of the involvement
+of Pakistani terrorist groups behind the attack, BJP's
+labeling the incident as a blow on religious beliefs,
+etc.
+</narr>
+</top>
+
+<top lang='en'>
+<num>119</num>
+<title>Taj Mahal controversy</title>
+<desc>
+Controversy about Taj Mahal take over.
+</desc>
+<narr>
+Is the Taj Mahal a wakf property? What evidence is there in
+support of this claim made by the Uttar Pradesh Sunni Wakf Board?
+Information about the Archaeological Survey of India's demand
+for supporting evidence is relevant. Also relevant is any
+information on efforts to privatise the Taj Mahal.
+</narr> 
+</top>
+
+<top lang='en'>
+<num>120</num>
+<title>Sex CD scandal involving Anara Gupta</title>
+<desc>
+Charges against Anara Gupta, erstwhile Miss Jammu, for her
+involvement in the sex CD scandal, and reports from the
+Andhra Pradesh forensic laboratory in this regard.
+</desc>
+<narr>
+Anara Gupta was arrested for her alleged involvement in the sex CD
+scandal. But the report from the Andhra Pradesh forensic laboratory
+termed the charges as baseless. A relevant document should contain
+information about the charges or the forensic reports from Andhra 
+Pradesh.
+</narr>
+</top>
+
+<top lang='en'>
+<num>121</num>
+<title>Blasts on Samjhauta Express</title>
+<desc>
+Deadly explosions on the Samjhauta Express.
+</desc>
+<narr>
+A relevant document should report about the blasts on the
+Samjhauta Express, and the casualties caused by the explosions.
+</narr>
+</top>
+
+<top lang='en'>
+<num>122</num>
+<title>Sanjay Dutt's surrender</title>
+<desc>
+Surrender of Sanjay Dutt, the actor, convicted in the 1993
+Mumbai blasts case.
+</desc>
+<narr>
+A relevant document should contain information about the
+surrender of Sanjay Dutt, convicted in the 1993
+Mumbai blasts case. Information about the time limit set by
+the court for Sanjay Dutt to surrender is also relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>123</num>
+<title>Death of Yasser Arafat</title>
+<desc>
+Death of Palestinian leader Yasser Arafat.
+</desc>
+<narr>
+A relevant document should contain information about the
+death of Palestinian leader Yasser Arafat. Information
+regarding the political uncertainty or instability in
+Palestine is not relevant.
+</narr>
+</top>
+
+<top lang='en'>
+<num>124</num>
+<title>Sale of illegal drugs in various Indian states</title>
+<desc>
+Trade in illegal drugs in various states of India.
+</desc>
+<narr>
+A relevant document should mention the various places in
+India where illegal drugs are sold. The names of specific
+states are of particular interest.
+</narr>
+</top>
+
+<top lang='en'>
+<num>125</num>
+<title>Attack on the Lal Masjid</title>
+<desc>
+Siege of the Lal Masjid in Islamabad by fundamentalist students.
+</desc>
+<narr>
+A relevant document should contain information about one or more of
+the following: the arrest of the chief Imam of the Lal Masjid, gherao
+of the Lal Masjid by fundamentalist students in order to set him
+free, and clashes between the students and the police.
+</narr>
+</top>
+
+</topics>
+<topics>
+
+<top lang='en'>
+<num>126</num>
+<title>Swine flu vaccine</title>
+<desc>Indigenous vaccine made in India for swine flu prevention</desc>
+<narr>Relevant documents should contain information related to making indigenous swine flu vaccines in India, the vaccine's use on humans and animals, arrangements that are in place to prevent scarcity / unavailability of the vaccine, and the vaccine's role in saving lives.</narr>
+</top>
+
+<top lang='en'>
+<num>127</num>
+<title>Rare cosmic events</title>
+<desc>Information about rare solar eclipses, lunar eclipses, meteor showers, changes in position of stellar bodies with respect to Earth</desc>
+<narr>Relevant documents should describe the reactions from people interested in these events. Reasons why the events are rare, and the difference in opinion of astrologers and scientists, is relevant. Space crafts, existence of extra-terrestrial life are irrelevant and information on space research is irrelevant. Events that are not designated as rare are not of interest.</narr>
+</top>
+
+<top lang='en'>
+<num>128</num>
+<title>Godhra train attack</title>
+<desc>Number of casualties in the fire aboard Sabarmati Express at Godhra</desc>
+<narr>Relevant documents should contain information related to the number of persons dead or injured in the attack on the train at Godhra, and the related controversies about the reported figures.</narr>
+</top>
+
+<top lang='en'>
+<num>129</num>
+<title>Michael Jackson's untimely death</title>
+<desc>Mystery surrounding Michael Jackson's untimely death</desc>
+<narr>Relevant documents should discuss the possible reasons for Michael Jackson's death. Documents that only report Jackson's death, or describe the reactions of his fans after his death will be regarded as irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>130</num>
+<title>Price hike of petroleum products</title>
+<desc>Controversies surrounding price rise of petroleum products</desc>
+<narr>Relevant documents should contain the government's arguments in favour of the price hike and the criticisms of this decision taken by the government.</narr>
+</top>
+
+<top lang='en'>
+<num>131</num>
+<title>Abduction and murder of journalists</title>
+<desc>Murder and abduction as professional hazards for journalists</desc>
+<narr>Relevant documents should contain information about the murder or abduction of journalists and the reasons for abduction. Information about abductors, the roles of the people related to such crimes, and the involvement of terrorist organisations is important. Investigations of these incidents and the punishment meted out to the guilty are also relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>132</num>
+<title>Barack Obama's victory</title>
+<desc>Barack Obama's victory in the Presidential elections in the United States of America</desc>
+<narr>Relevant documents should contain information about the pre-election scenario, Barack Obama's run to the Presidential polls, the electoral leads he enjoyed in the various states in America and ultimately his victory.</narr>
+</top>
+
+<top lang='en'>
+<num>133</num>
+<title>Torture at the Abu Ghraib prison</title>
+<desc>What steps have been taken by the American government against the American military officers involved in the inhuman torture of prisoners at Abu Ghraib?</desc>
+<narr>Relevant documents should contain information about the administrative steps that have been taken against the people involved in the inhuman torture meted out to the prisoners at the Abu Ghraib prison.</narr>
+</top>
+
+<top lang='en'>
+<num>134</num>
+<title>Ban slapped on SIMI</title>
+<desc>Banning of the Muslim students' organisation SIMI</desc>
+<narr>Relevant documents should contain information about the Central Government's decision to ban the organisation called SIMI.</narr>
+</top>
+
+<top lang='en'>
+<num>135</num>
+<title>India's agriculture-friendly central budget</title>
+<desc>Special benefits to the agriculture sector in the budget presented by P. Chidambaram</desc>
+<narr>Relevant documents should contain information about the allocation of funds for the development of agriculture in the budget presented by the Union Finance Minister P. Chidambaram. Information about farm loan waivers is relevant too.</narr>
+</top>
+
+<top lang='en'>
+<num>136</num>
+<title>Piracy in the world of entertainment</title>
+<desc>Financial losses due to piracy and ways to curb it</desc>
+<narr>Relevant documents should contain information about the quantum of financial losses due to piracy and measures taken by the government and private bodies to prevent piracy.</narr>
+</top>
+
+<top lang='en'>
+<num>137</num>
+<title>The death of LTTE head</title>
+<desc>The death of Velupillai Prabhakaran, the head of LTTE</desc>
+<narr>Relevant documents should contain information about the death of Velupillai Prabhakaran, the head of LTTE, in his final encounter with the Sri Lankan armed forces.</narr>
+</top>
+
+<top lang='en'>
+<num>138</num>
+<title>India's Women's Reservation Bill</title>
+<desc>Passage of the Women's Reservation Bill by the Indian Parliament</desc>
+<narr>Relevant documents should contain information about how the Women's Reservation Bill was passed in the Lok Sabha and Rajya Sabha amidst vehement opposition.</narr>
+</top>
+
+<top lang='en'>
+<num>139</num>
+<title>Vanquishing the Somali pirates</title>
+<desc>The operations embarked upon by various countries to defeat the Somali pirates</desc>
+<narr>The infamous Somali pirates intercept, abduct and hijack ships and other vessels belonging to various countries, and hold the crew to ransom. Relevant documents should contain information about the steps taken by these countries to vanquish the pirates and stories of the rescue operations to free the hostages.</narr>
+</top>
+
+<top lang='en'>
+<num>140</num>
+<title>Search for life and water in space</title>
+<desc>Research on the existence of life or water in space</desc>
+<narr>Relevant documents should contain information about searching for the existence of life or traces of water in space. The debates and arguments emanating from scientific circles and researchers on this issue are of relevance too.</narr>
+</top>
+
+<top lang='en'>
+<num>141</num>
+<title>Birth of cloned human babies</title>
+<desc>News or claims about the birth of human babies created through cloning</desc>
+<narr>A relevant document should contain news about the birth of a human baby created through human cloning. Information about the application of cloning in the treatment of disorders / illnesses is not relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>142</num>
+<title>Illegal felling of trees</title>
+<desc>Illegal felling of trees in metropolitan cities and steps taken by the administration</desc>
+<narr>Relevant documents should contain reports of illegal felling of trees in metropolitan cities, the reactions of the residents and local people, and the steps taken by the administration to prevent this activity.</narr>
+</top>
+
+<top lang='en'>
+<num>143</num>
+<title>TATA's car, Nano</title>
+<desc>One of the world's cheapest cars, the TATA Nano, unveiled</desc>
+<narr>Information about the unveiling of the Nano at various auto expos and the interest generated about the Nano in the international car market is relevant. The controversy regarding land-use at the Nano's manufacturing plant is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>144</num>
+<title>Bhopal gas tragedy</title>
+<desc>Controversy surrounding the verdict in the Bhopal gas leak case</desc>
+<narr>Relevant documents should contain information about the controversies ensuing after the verdict was passed on the long drawn legal tussle related to the Bhopal gas tragedy. The people's response to the verdict is valuable information too.</narr>
+</top>
+
+<top lang='en'>
+<num>145</num>
+<title>Assassination of Benazir Bhutto</title>
+<desc>Investigation of the assassination of Benazir Bhutto</desc>
+<narr>The investigation of the assassination of Benazir Bhutto and the views and opinions of different people, groups and organisations about the investigation procedure.</narr>
+</top>
+
+<top lang='en'>
+<num>146</num>
+<title>Ram Janmabhoomi verdict</title>
+<desc>The courts' verdicts on the Ram Janmabhoomi case in Ayodhya</desc>
+<narr>A relevant document should contain information about the verdicts passed by various courts in the Ayodhya Ram Janmabhoomi case.</narr>
+</top>
+
+<top lang='en'>
+<num>147</num>
+<title>Cyber crime in India</title>
+<desc>Rampant cyber crime in India</desc>
+<narr>Relevant documents should contain information about cyber crimes perpetrated in India. Information about steps taken to prevent cyber-crime is, by itself, irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>148</num>
+<title>Popularity of social networking sites</title>
+<desc>Worldwide popularity of social networking sites</desc>
+<narr>The popularity of the social networking sites the world over and the reasons for their gathering such large fan following.</narr>
+</top>
+
+<top lang='en'>
+<num>149</num>
+<title>Commonwealth Games in Delhi</title>
+<desc>India's successful run at the Commonwealth Games held in Delhi</desc>
+<narr>Relevant is the information about the successful performances of Indian sportspersons at the Commonwealth Games. Information about the scam / scandals associated with the Games is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>150</num>
+<title>Bill Gates' philanthropic endeavours</title>
+<desc>Bill Gates' decision to retire from Microsoft to pursue philanthropy</desc>
+<narr>Microsoft chief Bill Gates decided to retire from his post to take up philanthropy and social work. Relevant documents will contain descriptions and details of this decision of his.</narr>
+</top>
+
+<top lang='en'>
+<num>151</num>
+<title>An Indian wins the Nobel Prize for Chemistry</title>
+<desc>A scientist of Indian origin who won the Nobel prize for Chemistry and all about his research</desc>
+<narr>Information about the scientist of Indian origin who won the Nobel Prize for Chemistry and his topic of research is relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>152</num>
+<title>Successful missile test in India</title>
+<desc>Successful missile tests in India and contemporaneous response</desc>
+<narr>The details of successful missile tests in India, and contemporaneous reactions to these tests, are relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>153</num>
+<title>Structure of the Solar System</title>
+<desc>The discovery of a new planet in the Solar System and the debates amongst astronomers about the structure of the Solar System</desc>
+<narr>A relevant document should contain information about the discovery of a new planet, the debates among astronomers over this discovery, and opinions about whether Pluto should be regarded as a planet.</narr>
+</top>
+
+<top lang='en'>
+<num>154</num>
+<title>A. Raja and the 2G Spectrum scam</title>
+<desc>Accusations against A. Raja regarding the 2G Spectrum scam and related investigations</desc>
+<narr>Documents retrieved should contain information about the accusations against A. Raja in the 2G Spectrum scam, the investigations that were started and the eventual resignation of A. Raja from his post.</narr>
+</top>
+
+<top lang='en'>
+<num>155</num>
+<title>Attack on the Taj in Mumbai</title>
+<desc>The terrorist attack on the Taj Hotel in Mumbai in 2008</desc>
+<narr>Only detailed descriptions of the terrorist attack on the Taj Hotel in Mumbai are relevant. The attacks on the other sites (such as the railway station, Oberoi Trident, Leopold Cafe, Nariman House etc.) are irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>156</num>
+<title>Shashi Tharoor in the IPL controversy</title>
+<desc>Shashi Tharoor's involvement in the IPL controversy and his stand</desc>
+<narr>Shashi Tharoor's involvement in the IPL controversy, arguments presented for and against him, and how these events lead up to his resignation as a Minister of Parliament.</narr>
+</top>
+
+<top lang='en'>
+<num>157</num>
+<title>Successful Indian films</title>
+<desc>Commercial success of Indian cinema and awards received</desc>
+<narr>The commercial success of Indian cinema, and awards and accolades received, in India and abroad.</narr>
+</top>
+
+<top lang='en'>
+<num>158</num>
+<title>America's attack on Afghanistan</title>
+<desc>Reactions of Islamic countries to America's invasion of Afghanistan</desc>
+<narr>America's attacks on Afghanistan have been interpreted by some politicians as an attack on Islam. Relevant documents should report the reactions and opinions of Muslims across the world regarding this attack.</narr>
+</top>
+
+<top lang='en'>
+<num>159</num>
+<title>Sheikh Hasina in the 2008 elections</title>
+<desc>Sheikh Hasina's victory in the 9th national elections of Bangladesh held in 2008</desc>
+<narr>Information about Sheikh Hasina's victory in the 9th national elections of Bangladesh held in 2008, and the good wishes conveyed to her by the other countries is relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>160</num>
+<title>Iraq War 2003</title>
+<desc>Criticism of USA's role in the Iraq War of 2003</desc>
+<narr>Documents which describe the international censure and opposition faced by America for attacking Iraq in 2003 are relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>161</num>
+<title>George Bush's anti-terrorism operations</title>
+<desc>Role of George Bush in tackling terrorism worldwide through legislation</desc>
+<narr>In his attempt to deal firmly with terrorism, George Bush suggested to various countries that they formulate anti-terrorist laws, or make existing laws more stringent. Relevant documents should contain information about such diplomatic endeavours.</narr>
+</top>
+
+<top lang='en'>
+<num>162</num>
+<title>Catastrophic tornadoes</title>
+<desc>Extensive damage caused by tornadoes in many parts of the world</desc>
+<narr>Over the past few years, hurricanes and tornadoes like Aila, Katrina and Laila have caused major devastation and loss of life. Relevant documents should contain details of the carnage, the rehabilitation of imperiled people and the aid sent to them. Isolated incidents where just a few people were affected are unimportant.</narr>
+</top>
+
+<top lang='en'>
+<num>163</num>
+<title>Tiger conservation in India</title>
+<desc>Indian Tiger conservation laws and Tiger conservation projects</desc>
+<narr>India's Tiger conservation laws and projects are relevant, as are the government's efforts with respect to tiger conservation, as well as the reasons for the disappearance of tigers from animal sanctuaries and protected forests. News about the killing of a tiger by humans in self defense is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>164</num>
+<title>Michael Jackson and child abuse</title>
+<desc>Michael Jackson being accused of child abuse and the ensuing investigations</desc>
+<narr>Documents which are relevant should contain information about the accusations against Michael Jackson related to child abuse, the investigations initiated based on these accusations and his repudiation of the allegations.</narr>
+</top>
+
+<top lang='en'>
+<num>165</num>
+<title>Marriage or divorce laws</title>
+<desc>Enactment of new marriage and divorce laws and amendments to the older ones</desc>
+<narr>Relevant information includes the enactment of fresh marriage and divorce laws, amendments of existing laws, and the voices raised against these changes. Also of importance is the effect of these laws on women's development.</narr>
+</top>
+
+<top lang='en'>
+<num>166</num>
+<title>The Kanishka air disaster</title>
+<desc>The bomb explosion in Air India's aircraft, Kanishka, in 1985</desc>
+<narr>Relevant documents should contain the story of the bomb explosion aboard the Air India flight named Kanishka in 1985 and the death toll.</narr>
+</top>
+
+<top lang='en'>
+<num>167</num>
+<title>Chechen rebels and the government</title>
+<desc>Demands of Chechen rebels and their anti-government activities; retaliatory steps taken by the Russian government and the military</desc>
+<narr>Relevant information includes the demands made by the Chechen rebels, anti-government activities perpetrated by them, the casualty count in such carnage, and the steps taken by the Russian government and army to curb the rebels.</narr>
+</top>
+
+<top lang='en'>
+<num>168</num>
+<title>Suu Kyi under house arrest</title>
+<desc>Social and political reactions across the world against pro-democracy leader Suu Kyi's house arrest</desc>
+<narr>Relevant documents should describe the reactions of the rest of the world to the news of pro-democracy leader Suu Kyi's house arrest. Information about her release from captivity is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>169</num>
+<title>Naxalite attacks</title>
+<desc>Naxalite attacks in Chattisgarh and Jharkhand and operations done to contain them</desc>
+<narr>Relevant documents should contain descriptions of Naxalite attacks in the states of Jharkhand and Chattisgarh. The way the police and state administration is dealing with this is also relevant information. What is unimportant is the Naxalites' internal skirmishes and their group politics.</narr>
+</top>
+
+<top lang='en'>
+<num>170</num>
+<title>Development of Indian Hockey</title>
+<desc>Efforts to revive Indian Hockey and India's victories in international tournaments</desc>
+<narr>Relevant documents should be about the efforts made to improve and revive Indian Hockey, the victories won by the Indian men's and women's Hockey teams in international tournaments. There may also be some information about the increase in the popularity of Indian Hockey.</narr>
+</top>
+
+<top lang='en'>
+<num>171</num>
+<title>Prime witness in the Best Bakery case</title>
+<desc>The prime witness in the Best Bakery case, Zaheera Sheikh's perjurious withdrawal of her previous statements and the punishment she received</desc>
+<narr>Relevant documents should discuss Zaheera Sheikh's (the prime witness of the Best Bakery case) perjurious withdrawal of past statements, and the punishment given to her by the court as a consequence.</narr>
+</top>
+
+<top lang='en'>
+<num>172</num>
+<title>Female foeticide in India</title>
+<desc>Female foeticide in India and legal and social steps taken to prevent female foeticide and to protect female foetuses</desc>
+<narr>Relevant documents should contain information about female foeticide in India, the reasons for destroying female foetuses and ways to prevent this practice. Information about social and legal initiatives intended to increase awareness among people is also relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>173</num>
+<title>2008 Olympics</title>
+<desc>Controversies around the 2008 Olympic Torch Relay</desc>
+<narr>Information about the protests and controversies surrounding the Torch Relay in the run-up to the 2008 Olympic Games held in Beijing is relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>174</num>
+<title>International economic slump</title>
+<desc>The effect of the international economic crisis on the Indian economy</desc>
+<narr>Around 2008 the international stock markets crashed. Relevant documents should explain the effect of this crisis on the Indian economy.</narr>
+</top>
+
+<top lang='en'>
+<num>175</num>
+<title>Sachin Tendulkar's record of runs in Test Cricket</title>
+<desc>Sachin Tendulkar's record of runs in Test Cricket</desc>
+<narr>Relevant documents should contain information about the records Sachin Tendulkar has broken including his own, in Test Cricket. Recent, new records he has created are also relevant. One-day Cricket and T-20 cricket are not relevant in this context.</narr>
+</top>
+
+</topics>
+<topics>
+
+<top lang='en'>
+<num>176</num>
+<title>YSR Reddy death</title>
+<desc>Death of Andhra Pradesh Chief Minister YSR Reddy</desc>
+<narr>Relevant documents should contain information about Andhra Pradesh Chief Minister YSR Reddy's death in a helicopter crash.</narr>
+</top>
+
+<top lang='en'>
+<num>177</num>
+<title>Musicians Bharat Ratna</title>
+<desc>Information about the Bharat Ratna being awarded to musicians</desc>
+<narr>Relevant documents should contain information related to famous musicians (including both vocalists and instrumentalists such as Ravi Shankar, M.S. Subbalakshmi and Lata Mangeshkar) being awarded the Bharat Ratna. Articles about these musicians (e.g. brief biographies, concert reviews) are not relevant unless they specifically mention that the musician received (or will be receiving) the Bharat Ratna.</narr>
+</top>
+
+<top lang='en'>
+<num>178</num>
+<title>MGNREGA Scheme</title>
+<desc>Main schemes under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)</desc>
+<narr>Relevant documents should contain information related to the implementation of MGNREGA and its main scheme, the 100 days' work guarantee. A document is irrelevant if it merely discusses corruption related to MGNREGA without giving details of actual schemes implemented.</narr>
+</top>
+
+<top lang='en'>
+<num>179</num>
+<title>Australian embassy bombing</title>
+<desc>Bombing in front of Australian embassy in Jakarta</desc>
+<narr>Relevant documents should contain information related to the bombing in front of the Australian embassy in Jakarta. Information about subsequent investigations into this bombing is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>180</num>
+<title>Countries adopting EURO</title>
+<desc>Adoption of the Euro as currency by different European countries</desc>
+<narr>Relevant documents should contain information about countries across Europe adopting the Euro as their currency. Information about countries and colonies outside Europe is not relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>181</num>
+<title>First cricketer to take 700 test wickets</title>
+<desc>First cricketer to take 700 test wickets</desc>
+<narr>Relevant documents should contain information about the record created by Shane Warne when he became the first bowler to take 700 test wickets.</narr>
+</top>
+
+<top lang='en'>
+<num>182</num>
+<title>Steve Irwin death</title>
+<desc>Death of crocodile hunter Steve Irwin</desc>
+<narr>Relevant documents should contain details about the tragic death of crocodile hunter Steve Irwin.</narr>
+</top>
+
+<top lang='en'>
+<num>183</num>
+<title>Guwahati 2008 bombing damage</title>
+<desc>Casualties / damage to property resulting from the 2008 serial bomb blasts in Guwahati</desc>
+<narr>Relevant documents should contain information related to injuries, loss of life, and damage to property that resulted from serial bomb blasts that took place in Guwahati on 30 October, 2008. Information about the blasts that occurred elsewhere in Assam on the same day is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>184</num>
+<title>Chamunda Temple stampede</title>
+<desc>Casualties in a stampede at Jodhpur's Chamunda Devi temple</desc>
+<narr>Relevant documents should contain information about the casualties in a stampede in Jodhpur's Chamunda Devi temple.</narr>
+</top>
+
+<top lang='en'>
+<num>185</num>
+<title>Adarsh Housing Society scam resignation</title>
+<desc>Resignation of the Chief Minister following the Adarsh Housing Society scam</desc>
+<narr>Relevant documents should contain information related to the resignation of Maharashtra Chief Minister Ashok Chavan because of his involvement in the Adarsh Housing Society scandal. News articles that deal with other aspects of the scam (including other arrests / resignations) are irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>186</num>
+<title>Attacks on Indian students in Australia</title>
+<desc>Attacks on Indian students in Australia</desc>
+<narr>Relevant documents should contain information related to cases in which Indian students were attacked in Australia. Documents that discuss these attacks in general without mentioning specific cases are also relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>187</num>
+<title>Beginning of Delhi Metro services</title>
+<desc>Beginning of Metro Rail service in Delhi</desc>
+<narr>Relevant documents should contain information related to the inauguration of Delhi Metro services by Atal Bihari Vajpayee. Information about the foundation-stone laying ceremony is not relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>188</num>
+<title>Indian citizen Pakistani spy</title>
+<desc>Indian citizens accused of spying for Pakistan</desc>
+<narr>Madhuri Gupta, an Indian diplomat, was accused of spying for Pakistan. Relevant documents should contain information about such persons who are Indian citizens and have been accused of, or arrested / punished for, spying for Pakistan.</narr>
+</top>
+
+<top lang='en'>
+<num>189</num>
+<title>Right to Education Act</title>
+<desc>Passing of the Right to Education Bill in India</desc>
+<narr>Relevant documents should contain information about the passing of the Right to Education Bill in the Lok Sabha and the Rajya Sabha, as well as the benefits the student community is likely to incur from this Act.</narr>
+</top>
+
+<top lang='en'>
+<num>190</num>
+<title>Jaswant Singh BJP sacking</title>
+<desc>Sacking of Jaswant Singh from the BJP for the controversy around his book</desc>
+<narr>Relevant documents should contain information related to the sacking of Jaswant Singh from the BJP because of his controversial book on Muhammad Ali Jinnah.</narr>
+</top>
+
+<top lang='en'>
+<num>191</num>
+<title>Gorkhaland demand</title>
+<desc>Demand for Gorkhaland by the GJM chief Bimal Gurung</desc>
+<narr>Relevant documents should contain information about the demands for Gorkhaland voiced by Bimal Gurung at various places, occasions and in several ways.</narr>
+</top>
+
+<top lang='en'>
+<num>192</num>
+<title>Attack on Sri Lankan national cricket team</title>
+<desc>Attack on Sri Lankan national cricket team in Pakistan</desc>
+<narr>Relevant documents should contain information related to the terrorist attack on the Sri Lankan cricket team in Pakistan. Documents that discuss reactions to / repercussions of this attack without providing details about the actual attack are irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>193</num>
+<title>India's first female Speaker</title>
+<desc>Information about the appointment of the first female Speaker in the Indian Lok Sabha</desc>
+<narr>Relevant documents should contain information about Meira Kumar's appointment as the first female Speaker of the Lok Sabha. Articles describing her oath-taking ceremony are also relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>194</num>
+<title>2001 Nobel Prize winner for Literature</title>
+<desc>V.S. Naipaul, winner of the Nobel Prize for Literature in 2001</desc>
+<narr>Relevant documents should contain information related to V.S. Naipaul's winning the Nobel Prize for Literature in the year 2001. Articles about Naipaul that do not mention the prize are not relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>195</num>
+<title>2003 ASEAN Cup winner</title>
+<desc>Which Indian team won the ASEAN Cup in Jakarta in 2003?</desc>
+<narr>Relevant documents should contain information related to the historic win of the East Bengal Club at the ASEAN Cup tournament held in Jakarta in 2003.</narr>
+</top>
+
+<top lang='en'>
+<num>196</num>
+<title>2001 census India</title>
+<desc>2001 census in India</desc>
+<narr>Relevant documents should contain information related to the census conducted in India in 2001. Information about its commencement, progress and findings (including those related to the sex ratio and religion) is relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>197</num>
+<title>Bhuj earthquake</title>
+<desc>2001 Bhuj earthquake and the damage caused by it</desc>
+<narr>Relevant documents should contain information related to the earthquake in Bhuj, Gujarat and the damage caused by it.</narr>
+</top>
+
+<top lang='en'>
+<num>198</num>
+<title>Dhoni captain Indian team</title>
+<desc>Mahendra Singh Dhoni's appointment as captain of the Indian cricket team</desc>
+<narr>Relevant documents should contain information related to the selection of Mahendra Singh Dhoni as the captain of the Indian cricket team.</narr>
+</top>
+
+<top lang='en'>
+<num>199</num>
+<title>Prophet Muhammad cartoon agitation</title>
+<desc>Agitation / protests by Muslims regarding a cartoon of Prophet Muhammad</desc>
+<narr>Relevant documents should contain information related to protests by Muslims against the publication of a cartoon depicting Prophet Muhammad.</narr>
+</top>
+
+<top lang='en'>
+<num>200</num>
+<title>NatWest Series 2002 result</title>
+<desc>India's victory in the NatWest Series (2002) played in England</desc>
+<narr>Relevant documents should contain information related to India's victory in the NatWest series in 2002.</narr>
+</top>
+
+<top lang='en'>
+<num>201</num>
+<title>First Iraqi election</title>
+<desc>The first general elections held in Iraq in 2005</desc>
+<narr>Relevant documents should contain information related to the first general elections held in Iraq in 2005, and their peaceful conclusion.</narr>
+</top>
+
+<top lang='en'>
+<num>202</num>
+<title>Shoe throwing at persons of eminence</title>
+<desc>Incidents involving throwing of shoes at persons of eminence</desc>
+<narr>In the recent past, an Iraqi journalist threw a shoe at the American President George W. Bush. In a similar incident, Jarnail Singh, a journalist, threw a shoe at the Indian Home Minister, P. Chidambaram. Relevant documents should contain information about such incidents in which a shoe was thrown at some well-known person. Information about legal steps taken against the offenders is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>203</num>
+<title>India's first unmanned Moon mission</title>
+<desc>Construction and successful launch of Chandrayaan-1, India's first unmanned Moon mission</desc>
+<narr>Relevant documents should contain information related to the construction and successful launch of Chandrayaan-1, India's first unmanned Moon mission.</narr>
+</top>
+
+<top lang='en'>
+<num>204</num>
+<title>Terrorist attack Indian Parliament</title>
+<desc>Terrorist attack on the Indian Parliament in 2001</desc>
+<narr>Relevant documents should contain information related to the terrorist attack on the Indian Parliament and the terrorist group(s) linked to this attack. Documents that report people's reactions to this attack without providing details about the actual attack are irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>205</num>
+<title>Polio eradication mission</title>
+<desc>UNICEF's polio eradication mission in India</desc>
+<narr>Relevant documents should contain information related to UNICEF's polio eradication mission in India.</narr>
+</top>
+
+<top lang='en'>
+<num>206</num>
+<title>Accused Ajmal Kasab</title>
+<desc>Allegations against Ajmal Kasab, accused in the Mumbai terrorist attacks case</desc>
+<narr>Relevant documents should contain information related to the many allegations made against Ajmal Kasab, the main accused in the Mumbai terrorist attack.</narr>
+</top>
+
+<top lang='en'>
+<num>207</num>
+<title>Marriage of Sania Mirza</title>
+<desc>Marriage of tennis star Sania Mirza</desc>
+<narr>Relevant documents should contain information related to the marriage of tennis star Sania Mirza to Pakistani cricketer Shoaib Malik.</narr>
+</top>
+
+<top lang='en'>
+<num>208</num>
+<title>Mahendra Singh Dhoni national award</title>
+<desc>Award of Padma Shri to Mahendra Singh Dhoni</desc>
+<narr>Relevant documents should contain information about Mahendra Singh Dhoni receiving the Padma Shri.</narr>
+</top>
+
+<top lang='en'>
+<num>209</num>
+<title>Left Front withdrawal of support from UPA</title>
+<desc>Left Front's withdrawal of support from the UPA Government due to differences over the nuclear deal</desc>
+<narr>Relevant documents should contain information related to the withdrawal of support from UPA-1 by the Left Front over issues related to the nuclear deal.</narr>
+</top>
+
+<top lang='en'>
+<num>210</num>
+<title>MIG crash West Bengal</title>
+<desc>MIG aircraft crashes in West Bengal</desc>
+<narr>Relevant documents should contain information related to the crashes of MIG aircrafts in West Bengal during 2001 to 2010.</narr>
+</top>
+
+<top lang='en'>
+<num>211</num>
+<title>World Non-Violence Day</title>
+<desc>Declaration of World Non-Violence Day by UNO</desc>
+<narr>UNO has declared that 2nd October will be observed as World Non-Violence Day. Relevant documents should contain information related to this declaration.</narr>
+</top>
+
+<top lang='en'>
+<num>212</num>
+<title>Film Censor Board woman Chairperson</title>
+<desc>Women serving as Chairperson of the Film Censor Board</desc>
+<narr>Relevant documents should contain information related to the appointment of any woman as the Chairperson of the Film Censor Board. Information about important steps taken by the woman Chairperson is also relevant.</narr>
+</top>
+
+<top lang='en'>
+<num>213</num>
+<title>2010 Auto Expo Delhi</title>
+<desc>2010 Auto Expo held in Pragati Maidan, Delhi</desc>
+<narr>Relevant documents should contain information related to the 2010 Auto Expo which was held in Pragati Maidan, Delhi.</narr>
+</top>
+
+<top lang='en'>
+<num>214</num>
+<title>Harbhajan Singh slapping Sreesanth</title>
+<desc>Incident in which Harbhajan Singh slapped Sreesanth during an IPL match, and subsequent disciplinary action</desc>
+<narr>Relevant documents should contain information related to the incident in which Harbhajan Singh slapped Sreesanth during an IPL match. Also relevant is information about the punishment Harbhajan Singh received for this offence.</narr>
+</top>
+
+<top lang='en'>
+<num>215</num>
+<title>Indian animation industry films</title>
+<desc>The emerging animation industry in India and the animated films created by Indian studios</desc>
+<narr>Relevant topics include: the growing animation industry in India, the economics of the industry, new animated films and shorts being made in studios in India and the techniques and technology being used. Information related to animation courses, syllabi, teaching institutes and training centres is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>216</num>
+<title>Gramin Bank Muhammad Yunus dispute</title>
+<desc>Gramin Bank implementations and related disputes between Muhammad Yunus and the Bangladeshi Government</desc>
+<narr>Relevant topics include: the concept of Gramin Bank; its implementations; how its founder, Muhammad Yunus, got embroiled in a dispute with the Bangladeshi Government; where and how Gramin Banks are functioning today; what Yunus has to say and why the Bangladesh Government rebuked him. Information about Yunus winning the Nobel Prize is, by itself, irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>217</num>
+<title>Da Vinci Code India release controversy</title>
+<desc>The release of the film "The Da Vinci Code" in India and the ensuing protests staged by religious factions</desc>
+<narr>Relevant topics include: hurdles faced by the film "The Da Vinci Code" when it was released in India, the religious groups opposing the release, the grounds on which they argued, the issue of Christianity being portrayed in a negative light in the film. Film reviews, information on the author Dan Brown, or the novel "The Da Vinci Code" on which the film is based, are all irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>218</num>
+<title>Cervical cancer awareness treatment vaccine</title>
+<desc>Cervical cancer awareness, treatment and research; the use of the new cervical cancer vaccine.</desc>
+<narr>Relevant documents should contain information related to cervical cancer and its treatment. Recent reports about the state of cervical cancer research, and the cervical cancer vaccine that has been approved for use are also relevant. However, news about other cancers, or content that talks about stars, public figures and important people being affected with this particular type of cancer is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>219</num>
+<title>First F1 circuit India</title>
+<desc>First F1 circuit in India</desc>
+<narr>Relevant documents should contain information related to the planning and construction of the first F1 circuit in India. Information about organisers, possible locations, opinions of Indian drivers, and the role / opinion of the Indian Government is relevant. Documents about Indian F1 drivers' careers, records, recent achievements are all irrelevant, as is anything about the Indian F1 team that competes in Grand Prix events.</narr>
+</top>
+
+<top lang='en'>
+<num>220</num>
+<title>Steve Waugh international cricket retirement</title>
+<desc>The retirement of Australian captain, Steve Waugh from international cricket</desc>
+<narr>Relevant documents should contain information related to the retirement of Australian cricket captain Steve Waugh. Documents describing the last test match played by Waugh and the ovation given to him at the end of the match are relevant. An article about his test record as a batsman and as a captain is relevant only if it reports these figures for his complete career. Articles about Steve Waugh being dropped from the one-day side before the cricket World Cup and related arguments, opinions and comments are irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>221</num>
+<title>Bill and Melinda Gates Foundation philanthropic activities India</title>
+<desc>Plans / initiatives of the Bill and Melinda Gates Foundation to fight poverty, AIDS, Malaria and Polio in India</desc>
+<narr>Relevant documents should contain information related to the proposed plans of the Bill and Melinda Gates Foundation in India to fight poverty, AIDS, Malaria and Polio. Information about funds pledged in various projects, NGOs involved, and locations in India that the Foundation is targeting is relevant. Information about the Foundation's activities elsewhere in the world is not relevant, nor is anything about Bill Gates and Melinda Gates as individuals.</narr>
+</top>
+
+<top lang='en'>
+<num>222</num>
+<title>Greece Euro Cup 2004 victory</title>
+<desc>Greece's performance and eventual victory in the Euro Cup in 2004</desc>
+<narr>Greece surprised all by winning the Euro Cup football tournament in 2004. Relevant documents should describe the entire run up to the finals, the matches played by Greece, highlights, or the goal scorers and key players of Greece instrumental in achieving this triumph. Information about Greece's performance in any other football tournaments or in the Euro Cup in any other year is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>223</num>
+<title>Imran Khan cancer hospital Pakistan</title>
+<desc>The Shaukat Khanum Memorial Cancer Hospital and Research Centre in Pakistan founded by cricketer Imran Khan</desc>
+<narr>Relevant documents should contain information related to the Shaukat Khanum Memorial Cancer Hospital and Research Centre in Pakistan founded by cricketer Imran Khan. The inauguration of the hospital, people pledging funds, celebrities visiting it and the hospital's plans, treatment and research facilities are all relevant. Also relevant is news about the hospital being embroiled in disputes and eventually being shut down. Anything about Imran Khan as a politician or a cricketer is irrelevant.</narr>
+</top>
+
+<top lang='en'>
+<num>224</num>
+<title>iPhone iPad launch design popularity</title>
+<desc>Apple's new products, iPhone and iPad -- launch, design, popularity</desc>
+<narr>Relevant documents should contain information related to the launch, design and popularity of the iPhone and iPad, the new Apple products that have brought about another revolution. Articles about the highly popular keynote by Steve Jobs and the presentation accompanying his talk are relevant, as are articles describing the products, their design / features. Business news involving Apple, its strategy, revenues and staff is not important. News of Steve Jobs relinquishing his post of CEO to Timothy Cook is not relevant either.</narr>
+</top>
+
+<top lang='en'>
+<num>225</num>
+<title>Satanic Verses controversy</title>
+<desc>Controversy surrounding 'The Satanic Verses', including the fatwa issued on Salman Rushdie for voicing his opinions on Islam in this novel, the furore, Rushdie's reaction and banning of the book</desc>
+<narr>Relevant documents should contain information related to the fatwa issued on Salman Rushdie for the opinions he expressed in his novel The Satanic Verses, published in 1989. What the issues are that enraged the Islamic states, what the conditions of the fatwa are, Rushdie's comments, the book being banned in countries like India, all are relevant topics. Awards won by Rushdie, his other popular books, essays and writings, his personal life, and marriage to Padma Lakshmi, are irrelevant.</narr>
+</top>
+</topics>

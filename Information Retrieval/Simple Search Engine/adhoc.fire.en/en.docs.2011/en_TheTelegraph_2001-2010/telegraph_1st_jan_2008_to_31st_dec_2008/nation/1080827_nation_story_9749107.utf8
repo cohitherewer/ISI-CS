@@ -1,0 +1,20 @@
+<DOC> 
+<DOCNO>1080827_nation_story_9749107.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Nation | Net monitor for asthma 
+                                                                                                                                                                                                                                                                                                                                                                     Net monitor for asthma 
+          G.S. MUDUR                               
+	New Delhi, Aug. 26: A student project at the Indian Institute of Technology, Bombay, has generated a low-cost Internet-based asthma monitoring system that would allow doctors to remotely monitor a patients lung functions.         
+	While the technology is yet to be standardised for human use, it is designed to enable a patient to blow into a spirometer  an instrument used to evaluate lung functions  and send the readings to a distant doctor via the Internet, project scientists said.         
+	We want to turn the spirometer into an instrument as common among asthma patients as the thermometer is among households, said Nallan Chakravartula S. Ramachandran, a design engineer at the Bangalore-based Texas Instruments, who worked on the project as part of his MTech course work at IIT Bombay.         
+	Spirometers allow doctors to make an accurate assessment of the severity of symptoms of asthma  wheezing, cough and breathing difficulty. Physicians can also use spirometer readings to determine whether a medication is effective or needs to be changed.         
+	Telemedicine involves remote monitoring of a number of health parameters such as heart functions, blood pressure or X-ray data, but we havent seen a technology in the market yet for the web-based evaluation of lung functions, said Vivek Agarwal, professor of electrical engineering at the IIT.         
+	The student-professor team integrated readily available hardware components and wrote special software to create a spirometer with an embedded web server. The engineers have described their web-enabled spirometer in the current issue of the International Journal of Biomedical Engineering and Technology.         
+	The unique thing about this is its simplicity and low cost, Agarwal said.         
+	The laboratory prototype costs about Rs 4,500, but large volumes of production are expected to reduce the cost, he said.         
+	The spirometer the engineers have used has a special pressure sensor that measures three key lung function values.         
+	The pressure sensor reads air flow rate, the volume of air flow and the pressure available from the lungs, said Ramachandran. We used a pressure sensor based on microelectromechanical systems to reduce costs, he said.         
+	He said the performance of the device would need to be analysed in greater detail and then standardised so that it delivers consistent and reliable readings. Only then would it be ready for medical studies or applications in humans.                                                                                                                                                                         
+</TEXT> 
+</DOC>

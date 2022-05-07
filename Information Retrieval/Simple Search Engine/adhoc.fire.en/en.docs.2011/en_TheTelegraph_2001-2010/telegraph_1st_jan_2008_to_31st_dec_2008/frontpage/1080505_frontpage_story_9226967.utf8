@@ -1,0 +1,24 @@
+<DOC> 
+<DOCNO>1080505_frontpage_story_9226967.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Frontpage | Peeping tomcat sets off govt hacking alarm 
+                                                                                                                                                                                                                                                                                                                                                                   Peeping tomcat sets off govt hacking alarm 
+          NISHIT DHOLABHAI                                              
+	New Delhi, May 4: The cabinet secretariats website was showing the homepage of a private software company this afternoon, raising fears that the site had been hacked into.        
+	The cabinet secretariat is the nerve centre of the countrys administration and also looks after security with spy agency RAW reporting to it.        
+	When The Telegraph logged into www.cabsec.gov.in around 3.30pm, it showed the software companys default homepage with the cartoon of a tomcat (in picture) on top left.        
+	A well-designed header in red and black said The Apache Jakarta Project. When you clicked near the cat, this message appeared: The mighty tomcat  MEOW!        
+	Further examination revealed that the company had named its server after the cabinet secretariats website. An attempt to enter the Tomcat managers area was countered with the message: The server cabsec.gov.in at Tomcat Manager Application requires a username and password.        
+	The anomaly was corrected only around 7pm after this newspaper called up top officials of the National Informatics Centre (NIC), the governments nodal agency for computerisation and networking. Till then, government officials seemed in the dark.        
+	The use of the gov.in domain is restricted to the constituents of the Indian government at various levels  central, state, Union territory, district and sub-district. The NIC is the exclusive registrar for gov.in domain names. The national portal is india.gov.in.        
+	The following zones are reserved for use by qualified organisations in India: ac.in (academic institutions), res.in (research institutes), edu.in (colleges and universities), gov.in (government) and mil.in (military).        
+	A private companys use of gov.in therefore suggests chinks in the NICs armour.        
+	Dr B.K. Gairola, NIC director-general, said the websites may have got linked during the backup exercise by engineers since the companys software is used as a tool.        
+	Gairola conceded that no other webpage should appear on a government website even by default. Well see what went wrong, he said.        
+	Software experts said there could be a host of reasons for the snag, hacking being one.        
+	Attempts at logging into the cabinet secretariat website at its cabsec.nic.in address were successful.        
+	Whereas state government websites are mostly meant for public use, those of the home ministry and cabinet secretariat also provide government officials with restricted access to information. Intelligence agencies feared the main server may have been hacked into.        
+	Last year, hackers put up a message on the Maharashtra government website that said: Welcome to the hackers world. In recent months, there have been allegations of some Chinese companies hacking into Indian sites.                                                                                                                                           
+</TEXT> 
+</DOC>

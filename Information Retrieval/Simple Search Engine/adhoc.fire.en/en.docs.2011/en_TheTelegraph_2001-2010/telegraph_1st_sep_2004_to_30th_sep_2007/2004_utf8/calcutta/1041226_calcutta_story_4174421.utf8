@@ -1,0 +1,176 @@
+<DOC>
+<DOCNO>1041226_calcutta_story_4174421.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+Quick cures for desktop blues
+
+Tech Talk Q amp;A
+
+SHINE 
+
+ON YOU CRAZY BOT
+
+Sanyo?s glowing home robot 
+
+Roborior, unveiled recently, is equipped with sensors and camera. It can detect 
+
+intruders, noise, odour and temperature and alert the owner via mobile phone. 
+
+(AFP) 
+
+Thanks for writing in. Some more solutions to your 
+
+queries on memory matters, Linux links, floppy foul-ups and email errors.
+
+Partha Daskhan: I have a PC with Pentium III 
+
+733 MHz processor, 192 MB SDRAM, 20 GB HDD and 810e Kranion motherboard. My computer 
+
+hangs frequently when I try to minimise any window. The problem arises when the 
+
+PC has run for some time. I was told that the bus speed of RAM is not matching 
+
+the processor.
+
+TechTalk: The causes may be bus-speed mismatch, 
+
+faulty memory module, CPU over-heating etc. Since you have 192 MB of RAM, the 
+
+trouble could be due to memory module(s). You have one 64 MB and one 128 MB memory 
+
+module. Either they run at different bus speeds or one of them is faulty. Power 
+
+off the PC, open the cabinet and carefully remove one module from the motherboards 
+
+memory slot. Switch on the computer and see if it runs without hiccups. Repeat 
+
+the process with the other memory module. You can also exchange the slots. The 
+
+128 MB stick should be installed in Bank 0 and the 64 MB in Bank 1. If that does 
+
+not solve your problem, check the CPU fan. Observe if it is running with occasional 
+
+increase or decrease in speed. If so, change the CPU fan.
+
+As for your query concerning RAM speed, the only way 
+
+to ascertain the memory speed is to cross-reference the memory part number with 
+
+the manufacturer?s catalogue.
+
+Sujit Roy: I am planning to instal Fedora Core 
+
+release 1. Is it as versatile as Windows 98? What are its drawbacks?
+
+TechTalk: The Fedora Project is a community-supported 
+
+Open Source project sponsored by Red Hat. Development is open to anyone, although 
+
+the Red Hat engineering team oversees the development. The goal is to work with 
+
+the Linux community to build a complete, general purpose OS exclusively from free 
+
+software. It is not a Red Hat supported product, but acts as a test bed for new 
+
+features that may be integrated into Red Hat Enterprise Linux.
+
+The Fedora Project officially ended support for Fedora 
+
+Core 1 (FC1) on September 20, 2004. Fedora Legacy has now picked up support for 
+
+FC1.
+
+The latest version is Fedora Core 3 (FC3). As for 
+
+versatility, you can perform most tasks with the ease of Windows. But, if you 
+
+want a Linux solution for a robust and stable OS, go for a distribution that is 
+
+vendor-supported. Fedora is a development platform and a public forum. So, users 
+
+are encouraged to participate in the process of overcoming the drawbacks and not 
+
+complain about them! 
+
+PC 
+
+PRESCRIPTION
+
+The Journey into the 
+
+Wild Divine, a PC game, helps patients relax. Unless the sensors pick up a 
+
+level of tranquillity, the player doesn?t progress. (AFP) 
+
+Nilanjan Bhattacharya: My Yahoo! mail cannot 
+
+retain the password or user ID even though I ticked the ?Remember my ID on this 
+
+computer? box. I use Windows XP Professional. Also, does defragmenting off and 
+
+on adversely affect the longevity of the hard disk?
+
+TechTalk: When you sign into your Yahoo! mail 
+
+account, your browser can remember your ID and password if you check the ?Remember 
+
+my ID on this computer? box. But if you sign out of Yahoo!?s personalised account 
+
+by clicking the ?Sign Out? link, you have to re-enter your ID and password the 
+
+next time you access mail. This is done for security reasons and there is nothing 
+
+wrong with your PC. Your browser?s security level should be set to ?Medium-High? 
+
+off and on doesnt affect the health or longevity of the hard disk. In fact, 
+
+regular defragmenting boosts system performance.
+
+Dibendu Dutta: I bought a PC recently with 
+
+Celeron 2 GHz processor, 40 GB HDD, 128 MB DDR RAM, Windows 98 and Sony floppy 
+
+drive. Since last week the floppy drive is not reading any floppy. It says the 
+
+floppy is unusable even in case of new disks.
+
+TechTalk: Check your computer for virus. Some, 
+
+such as Stealth_C or Form virus can cause read/write problems on your floppy drive. 
+
+If your computer is virus-free, the floppy drive may be malfunctioning. Use a 
+
+head cleaning diskette (60 per cent of all floppy drive problems are caused by 
+
+dirty heads) for a thorough cleanup of read/write heads. Caution: don?t run the 
+
+drive with a head-cleaning disk inserted for more than 30 second at a time, or 
+
+you risk damaging the heads. Another cause may be misalignment. If the drive gets 
+
+tilted even slightly, the read/Write heads go out of alignment from the tracks. 
+
+To check this, you have to open the cabinet and readjust the floppy drive by loosening 
+
+and tightening the screws. 
+
+There may also be broken parts or obstructions jamming 
+
+the heads, and finally the drive might have gone kaput. But don?t try to verify 
+
+these yourself. Sony has one year warranty on floppy drives. Contact the nearest 
+
+Sony service centre.
+
+Write in with your computer-related problems to TechTalk. Be sure to include 
+
+the configuration of your PC and be specific about the problem. Write to techtalkabpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

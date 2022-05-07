@@ -1,0 +1,168 @@
+<DOC>
+<DOCNO>1050109_calcutta_story_4230334.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+Easy ways out of everyday errors
+
+Tech Talk Q amp;A
+
+Thanks for writing in with your queries to TechTalk. 
+
+Due to the volume of mails we receive, it takes a little time to provide solutions 
+
+to all of them. Please be patient and keep emailing.
+
+HELP 
+
+AT HAND
+
+ The 911 Guardian Phone unveiled 
+
+at 2005 International Consumer Electronics Show has an 800-ft range from the base 
+
+station and no monitoring fee, allowing the user to access the 911 (emergency) 
+
+operator directly. Available in the US in April 2005 for $139. (Reuters)
+
+Somsubhra Barik: My PC configuration is Intel 
+
+Pentium IV 2.8 GHz, 512 MB DDR RAM, 80 GB HDD, Intel Original 845 motherboard, 
+
+ATX cabinet with SMPS, D-Link Data/Fax/Voice 56 kbps external modem (DFM-560ES), 
+
+Windows XP Professional. I generally keep the modem switched off unless I use 
+
+the Internet. If I do not switch the modem on during the booting process, it is 
+
+not detected by the system. I have to switch the modem on and detect it every 
+
+time I want to access the Internet. I?m told it is a common problem with Windows 
+
+XP.
+
+TechTalk: Unlike Windows 98/ME, you have to 
+
+switch the modem on when Windows XP loads. This is a problem with Windows 2000 
+
+as well. The stop-gap solution is to switch on the modem, right-click on My Computer 
+
+menu, select ?Scan for Hardware Changes?. The PC will detect the modem.
+
+The other solution is to start Windows with the modem 
+
+switched off and go to the Control Panel. Switch to Classic View. From Phone and 
+
+be able to detect it and will automatically accept your previous modem as currently 
+
+installed. 
+
+Alternatively, remove any installed modem from Device 
+
+Manager, switch off the modem and then click on the Add button. Select the checkbox 
+
+?Don?t detect my modem; I will select it from a list? and click Next. From the 
+
+Model list select ?Standard 56000 bps Modem?. (You can also click Have Disk and 
+
+instal your modem from the driver CD that came with your modem, though ?Standard 
+
+56000 bps Modem? works fine). Click Next. Select the port where your modem is 
+
+attached (COM1 or COM2) and click Finish. 
+
+SUPER 
+
+STORE
+
+ A one-inch hard drive with an 
+
+8 GB capacity from Hitachi on display at the Las Vegas show. (AFP)
+
+Rahul Gupta: I have a Pentium IV PC with 80 
+
+GB HDD and Windows 98 and XP. I want to instal Red Hat Linux. I have the Linux 
+
+CD but don?t know the installation process. Also, is it true that Linux doesn?t 
+
+support FAT32?
+
+TechTalk: Installing latest Linux distributions 
+
+has become as easy as installing Windows. Boot your PC from the Red Hat CD or 
+
+an installation boot floppy disk. Select your package by choosing Personal Desktop, 
+
+Workstation, Server or Custom. Since you are running multiple operating systems, 
+
+you should be especially careful in partitioning and formatting your hard disk. 
+
+You will be asked to choose between automatic and manual partitioning, using Disk 
+
+Druid. Select manual partitioning. You will have to delete an existing Windows 
+
+partition to make room for different Linux partitions. For more on disk partition, 
+
+visit http://www.redhat.com/docs/manuals/enterprise/RHEL-3-Manual/x8664-multi-install-guide/ap-partitions.html. 
+
+The rest of the installation process is similar to Windows. 
+
+MAXIMUM 
+
+OVERDRIVE
+
+ A man checks out the interior 
+
+of a car surrounded with the latest video and audio equipment from Jensen, on 
+
+display at the mobile electronics section of 2005 International Consumer Electronics 
+
+Show 
+
+in Las Vegas. (Reuters)
+
+Finally, you?ll have Grub or Lilo as the bootstrap 
+
+loader to choose between your operating systems. FAT32 is a file system on which 
+
+Windows operating systems are based. Linux uses a different set of file systems 
+
+(ext2, ext3, etc). But the latest Linux distributions can share many Windows (FAT 
+
+or NTFS) files. 
+
+Anindya Kar: My PC is has Celeron 1.1 GHz processor, 
+
+256 MB SD RAM, 80 GB HDD, 52X CDROM drive, Mercury 810e motherboard with no AGP 
+
+slots. I have 230V power supply. Can you suggest a good PCI graphics card within 
+
+Rs 5,000?
+
+TechTalk: Motherboards without AGP slots are 
+
+not able to provide good graphics performance. You can opt for a system upgrade, 
+
+rather than spending Rs 5,000 on a PCI graphics card. There are some budget PCI 
+
+graphics cards available for Rs 500-700, but they offer little performance improvement. 
+
+The 32 MB Matrox G450 PCI is the best option (provided 
+
+you can lay your hands on one). The card costs around Rs 3,500 and is manufactured 
+
+specifically for the Intel i810-based systems. It has features like third-generation 
+
+DualHead technology and can be optimised for resolutions up to 1600x1200.
+
+Write in with your computer-related problems to TechTalk. Be sure to include 
+
+the configuration of your PC and be specific about the problem. Write to techtalk@abpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

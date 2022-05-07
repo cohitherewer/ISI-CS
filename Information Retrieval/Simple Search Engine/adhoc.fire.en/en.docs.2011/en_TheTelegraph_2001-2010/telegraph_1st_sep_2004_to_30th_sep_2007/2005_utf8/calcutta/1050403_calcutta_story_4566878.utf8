@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO>1050403_calcutta_story_4566878.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Memory game and power trip
+
+ Q amp; A 
+
+ Thanks for writing in. Keep the emails coming!
+
+ Sandip Karmakar: My configuration 
+
+ is AMD Athlon 2400XP+ processor, Asrock K7VM2 motherboard 
+
+ and 256 MB DDR RAM. From the day of purchase, my Unitron 
+
+ UPS isn?t working properly. When the power supply is disconnected, 
+
+ my computer trips and restarts, which results in improper 
+
+ shutdown. I informed the UPS manufacturer and they replaced 
+
+ my set. But the problem persists. Now, the UPS manufacturers 
+
+ are saying that my BIOS setting is incorrect. I have not 
+
+ found any relevant option in the BIOS except ?Over Vcore 
+
+ Voltage?, which is disabled. Will enabling it solve the 
+
+ problem? 
+
+ TechTalk: There isn?t any 
+
+ relevant BIOS setting that can solve your problem. The UPS 
+
+ seems to be faulty. Assuming you have a generic 17? monitor, 
+
+ a single hard-drive and a single CDROM/DVD-ROM drive with 
+
+ the rest of the configuration provided, your system consumes 
+
+ close to 400W or 560VA (Voltamps) of power without a printer 
+
+ or other power-consuming equipment connected to the UPS. 
+
+ Check it with a good UPS of 600VA rating.
+
+ Swarnava Seal: I have an 
+
+ Intel Pentium IV processor, 256 MB RAM and Windows 98 and 
+
+ Windows XP. While playing some games, I got an alert that 
+
+ the temperature in System Zone 2 of the CPU had risen.
+
+ TechTalk: To play latest 
+
+ games like Doom 3 or Half Life 2, you need 
+
+ high-end graphics cards that have their own faster graphics 
+
+ memory (VRAM) and separate graphics data processing unit 
+
+ (GPU). You need not worry about the temperature warning 
+
+ as long as there is no crash. System Zone 2 refers to the 
+
+ area where the system RAM is located. Intel Active Monitor 
+
+ sends the alert because the warning temperature has been 
+
+ set too low for your system.
+
+ Write in with your computer- related problems to TechTalk. 
+
+ Be sure to include the configuration of your PC and be specific 
+
+ about the problem. Write to techtalkabpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

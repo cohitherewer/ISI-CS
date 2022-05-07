@@ -1,0 +1,168 @@
+<DOC>
+<DOCNO>1050102_calcutta_story_4201604.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Speedway in cyberspace
+
+ - Internet2: Tomorrow?s net gain today
+
+ (from top) I, Robot: 
+
+ QRIO, Sony Corp?s humanoid robot, demonstrates putting 
+
+ skills, performs tai chi, an ancient Chinese martial 
+
+ art, and does a jig, during a demonstration in Tokyo 
+
+ recently. QRIO can recognise its environment in 3D perspective. 
+
+ (AFP) 
+
+ Billions of webpages, site addresses and users later, the Internet, as we know it, is buckling under the burden. As the volume of traffic continues to increase, things might actually come to a crawl if alternatives are not explored. This concern has steered several efforts over the past few years to develop a faster version of the Internet. Foremost among the initiatives is Internet2.
+
+ ?Internet2 is a not-for-profit consortium, led by over 200 US universities, developing and deploying advanced network applications and technology, accelerating the creation of tomorrow?s Internet,? reads www.internet2.edu, home of the Internet2 project.
+
+ ?With participation by over 60 leading companies, Internet2 recreates the partnership of academia, industry and government that helped foster today?s Internet in its infancy,? the site explains.
+
+ Internet2 is neither a separate network nor one that will replace the existing Internet weve grown so accustomed to. Instead, institutions and resources from these areas are working together to develop new technologies and capabilities that can then be deployed in the global Internet. The project, established in 1996, has the Abilene advanced backbone network as its foundation. Already, data transmission speed records are being set.
+
+ In April 2004, researchers from the California Institute of Technology in Pasadena and Geneva-based CERN, transferred data across nearly 11,000 km at an average speed of 6.25 gigabits per second. The achieved speed was about 10,000 times faster than a typical home-broadband connection, according to CERN. This was recorded in an Internet2 Land Speed Record competition.
+
+ New technologies, such as IPv6, multicasting and quality of service are some of the things that Internet2 and its members are developing and testing. Among these, IPv6 (Internet Protocol Version 6) aims at solving the problem of limited number of Internet addresses. Most of today?s Internet uses IP4, a 20-year-old system that, though resilient, is starting to develop problems, starting with the growing shortage of IP4 addresses required by all new machines added to the Internet.
+
+ IP6 also tries to improve on the existing system in areas like routing and network auto-configuration. It is expected to gradually replace IP4, with the two systems coexisting for some time during the transition period.
+
+ As far as uses are concerned, ?more than a faster Web or email, the new technologies will enable completely new applications such as digital libraries, virtual laboratories, distance-independent learning and tele-immersion?, reads the Internet2 website. The campuses involved in the project are receiving help from the US government and networking industry giants such as Cisco, Nortel and Qwest.
+
+ Besides Internet2, the other project 
+
+ to speed up the existing Internet is the US government funded 
+
+ Next Generation Internet (NGI). Initiated under President 
+
+ Bill Clinton in 1996, reasons offered for the project were: 
+
+ ?US research community and government agencies have requirements 
+
+ that cannot be met on today?s public Internet... Scientists 
+
+ and engineers at universities and national labs need reliable 
+
+ and secure access to remote supercomputers, scientific facilities, 
+
+ and other researchers interacting in virtual environments.?
+
+ Tech Talk Q amp;A
+
+ Ajith Paul: I have a Compaq 
+
+ Presario with Windows ME, Intel Pentium III 1.0 GHz processor, 
+
+ 20 GB HDD and 64 MB RAM. When I try to publish a website 
+
+ (created using MS FrontPage) through Web Publishing Wizard, 
+
+ it asks for my server name and URL or Internet address. 
+
+ I do not know my server name. I use BSNLs Internet 
+
+ connection. What should I type?
+
+ TechTalk: To publish a website, 
+
+ first you need a domain name. This is your unique post-box 
+
+ on the web. Assuming that you are a newcomer, you should 
+
+ register for your domain name with one of the free website 
+
+ hosters like Yahoo! Geocities (http://geocities.yahoo.com), 
+
+ www.fortunecity.com, or www.50megs.com. After registration, 
+
+ you will get a unique URL (http://www.dreamwater.org/biz/pcnet, 
+
+ for instance).
+
+ Microsoft Web Publishing Wizard 
+
+ provides an easy way to transfer web files from your computer 
+
+ to your Web Hosting Server. While using Web Publishing Wizard, 
+
+ you are asked for your Server Name (Name the Web Server). 
+
+ Type a name thats easy to remember, like My 
+
+ Web Site. Next, youll be prompted to give the 
+
+ URL or Internet Address of your Web Host Server and your 
+
+ user name and password given to you by your Web Hosting 
+
+ Company.
+
+ R.K.Trivedi: I have a PC with Intel Pentium III 
+
+ processor and 128 MB RAM with Win 98. Recently, Win XP was 
+
+ installed with dual booting option. Now, whenever I boot 
+
+ through 98, it hangs and on rebooting goes into safe mode. 
+
+ But booting through XP, restarting and rebooting through 
+
+ 98, it works fine. Running Scandisk and sfc 
+
+ has not helped. I also find the send/receive function of 
+
+ Outlook Express better than Microsoft Outlook.
+
+ TechTalk: To solve dual boot problems, try these:
+
+ 1) The two operating systems must be installed on separate 
+
+ partitions.
+
+ 2) Windows 98/ME must be installed first on Drive C: (or 
+
+ first partition of hard drive) with all driver files and 
+
+ system utilities.
+
+ 3) While installing XP, do not use the default choice of 
+
+ Upgrade (Recommended). 
+
+ nstead, choose New Installation (Advanced). 
+
+ If you have more than two partitions, select your choice 
+
+ of partition in the advanced setting. In case of two partitions, 
+
+ XP will be automatically installed in the empty partition. 
+
+ Dont forget to instal the separate driver files and 
+
+ system utilities. 
+
+ Dual-boot systems might also hang due to drive conflicts, 
+
+ terminated-and stay-esidents (TSRs), and corrupted system 
+
+ files.Your safest bet is to reinstal Windows 98.
+
+ Write in with your computer-related problems to TechTalk. 
+
+ Be sure to include the configuration of your PC and be specific 
+
+ about the problem. Write to techtalk@abpmail.com
+
+
+
+
+</TEXT>
+</DOC>

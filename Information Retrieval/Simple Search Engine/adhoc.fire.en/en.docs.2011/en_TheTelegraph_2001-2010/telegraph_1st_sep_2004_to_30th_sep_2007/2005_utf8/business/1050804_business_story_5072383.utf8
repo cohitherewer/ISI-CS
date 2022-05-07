@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO>1050804_business_story_5072383.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Business
+
+ Sinking ship cuts off data link
+
+ M. RAJENDRAN
+
+ The web breaks
+
+ New Delhi, Aug. 3: The Internet, broadband and voice call services remained affected in more than 700-800 companies, including business process outsourcing (BPO) units, following the severance of two major undersea cables by ONGC vessel Samudra Suraksha, which sank on Tuesday.
+
+ Sea-Me-We 3 and Flag ? the two undersea cables operated by Tata and Reliance Infocomm respectively ? were cut by the multi-purpose support vessel of ONGC. Both undersea cables provide a crucial link between BPO companies in India and the US. 
+
+ More than 50 synchronous transport modules (STM) were destroyed by the vessel. STM is a data transport and switching system that can provide a speed of 50 million bits per second regardless of the number of users.
+
+ VSNL sources said, ?About 23 STMs in the Sea-Me-We 3 have been destroyed near Mumbai. About 27 STMs of Flag were also hit. We have diverted the traffic to the back-up systems, but the pressure will be felt since we have to route the calls through Singapore and Europe.?
+
+ The traffic has been routed through Cape of Good Hope using the SAFE ? another undersea cable system connecting the US through South Africa and the Far East, sources said.
+
+ BPO companies like HCL, HP, Infosys, GE and Efund in Delhi, Mumbai and Bangalore have denied any adverse impact of the cable cut on their networks. 
+
+ However, executives working in these firms have complained of latency and echo in calls.
+
+ If a call is delayed by 400 milliseconds, persons on either side experience a delay in the words spoken. This is described as latency. ?Yesterday the latency went down to 150-200 milliseconds at many BPOs. We too experienced it for a few hours,? said a technical executive at HCL.
+
+ The VSNL spokesperson, while acknowledging that the ship has cut the undersea cable, said the impact was minimal and full capacity will be restored soon.
+
+ A Reliance Infocomm spokesperson has also acknowledged that Flag has been hit. ?It is too early to state the extent of the damage, but we can confirm there is a cut some 31 km off Mumbai, which we will repair as quickly as possible.?
+
+ The cable cut has affected Flag customer traffic heading East between Mumbai and Satun/Penang. ?Our main priority is now to support our customers,? said the company spokesperson. ?Pre-booked restoration for all Flag customers has been implemented. The company is also working with the VSNL Mumbai landing station party colleagues to provide ad-hoc restoration to customers without pre-planned restoration,? he added.
+
+ The company also said Flags marine contractor for this cable segment has been mobilised and it would not be possible to assess the exact cause of the damage until the cable repair is undertaken. 
+
+
+
+
+</TEXT>
+</DOC>

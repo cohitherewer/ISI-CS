@@ -1,0 +1,158 @@
+<DOC>
+<DOCNO>1050213_calcutta_story_4371895.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Cures for PC blues
+
+ Ayan Mukherjee: I have 
+
+ a PC with VIA Motherboard, Cyrix MII Processor and 20 GB 
+
+ HDD. It has Trident 968x PCI Display Adapter card and XWAVE 
+
+ PCI Sound (QS300A Rel 1.05) card. I have Windows 98SE and 
+
+ Windows 2000 Server as operating systems. The sound card 
+
+ works fine under Win98SE, but is not configured or installed 
+
+ under Win2K Server.
+
+ TechTalk: Since your sound card is working fine under Win98SE, the problem is not hardware-related. Instal the Windows 2000 Server sound driver properly. You can also download the Yamaha Xwave QS3000A PCI Sound Card driver from www.driverguide.com.
+
+ Samrat Datta: I have a 
+
+ PC with AMD Athlon XP 2000 processor, 512 MB RAM and 40 
+
+ GB HDD. I live in Champahati, South 24-Parganas, where the 
+
+ voltage drops as low as 120V. As a result, my 725VA UPS 
+
+ doesn?t operate. Is it possible to increase the voltage 
+
+ by a 1KVA voltage stabiliser?
+
+ TechTalk: You can try a servo-controlled voltage stabiliser. The cost is prohibitive for home-users. The alternative is an automatic voltage stabiliser with over 500VA rating, preferably 1KVA, if you plan to add more devices.
+
+ Check the input voltage range before you buy. Most automatic stabilisers have a range of 130VAC-300VAC, which will not serve your purpose. Check whether the lower range is below 110. Locally manufactured stabilisers cost around Rs 900.
+
+ Kaushik Mukherjee: I have 
+
+ a Pentium III 850 MHz processor, 40 GB HDD, Mercury 810e 
+
+ Intel Chipset motherboard and 128 MB SD RAM. I?d like to 
+
+ know why my PC automatically restarts and how to share my 
+
+ Internet connection among three machines.
+
+ TechTalk: A PC may restart automatically for various reasons. Critical power supply failures, faulty or failing memory module, CPU overheating or overclocking, damaged or conflicting device driver and corrupt system files are some of them. You have to monitor the symptoms closely to pinpoint the problem. 
+
+ To share an Internet connection you must set up a network first. Network Interface Cards need to be installed in each PC and interconnected via cables and hubs. On the software side, the operating system and Internet browsers have to be configured with certain protocols.
+
+ Suvojit Sengupta: I have 
+
+ a Pentium IV 1.5 GHz processor, Intel D845HV motherboard, 
+
+ 52X CDROM drive and 128MB SD RAM. After it is switched on, 
+
+ my PC runs for a few minutes and then stops responding. 
+
+ The monitor, keyboard and mouse are locked and the HDD stops 
+
+ working, but the CD drive functions normally.
+
+ If I try to restart immediately, the Power LED does not glow and the HDD LED stops glowing after a few seconds. The HDD stops working, the monitor turns blank and other input devices don?t respond. If I restart after some time, the computer boots but the problems recur.
+
+ TechTalk: Check the power supply (SMPS) and its various output voltages. Try installing a new SMPS of at least 300W. Check all wires and cables. Make sure your PC?s memory module is working and try changing the RAM slot.
+
+ If the problem persists, try another 
+
+ SD RAM module. If the computer boots, enter the BIOS and 
+
+ check the hardware configuration.
+
+ pune, red hot
+
+ Stealing a software march over 
+
+ Bangalore, Hyderabad and Calcutta, Pune scored big recently 
+
+ with global Linux giant Red Hat opening its Global Engineering 
+
+ and Support Centre.
+
+ This is Red Hats first such 
+
+ centre in Asia, the others being in North America, UK and 
+
+ Australia. Matthew Szulik, chairman amp; CEO, Red Hat, 
+
+ inaugurated the 15,000 sq ft address at Punes Kalyani 
+
+ Nagar.
+
+ The support centre will cater 
+
+ to Red Hats growing customer base in India, providing 
+
+ services like web ticketing and knowledge management besides 
+
+ providing all three levels of support for Linux. A test 
+
+ lab for hardware and software certification and a unit for 
+
+ localisation of Red Hat Enterprise Linux in Indian languages 
+
+ will also be housed in it.
+
+ Last year, during my visit to India, we looked at 
+
+ several locations, said Szulik, based at the companys 
+
+ headquarters in Raleigh, USA. We settled on Pune because 
+
+ of a vibrant Linux user group, an energetic and qualified 
+
+ workforce, good roadways and bandwidth availability that 
+
+ we found here.
+
+ Red Hat has invested around $3 
+
+ million on the centre, and plans to gradually increase the 
+
+ current staff strength of 30 to the capacity of 150. The 
+
+ centre also brings us closer to our plan of a government, 
+
+ education and industry partnership, Szulik added.
+
+ Red Hat is in talks with the Centre 
+
+ and several state governments, including West Bengal, Maharashtra 
+
+ and Andhra Pradesh, on implementing open-source models for 
+
+ e-governance and computer-aided education in schools.
+
+ The West Bengal government, 
+
+ particularly, has expressed keen interest in open-source 
+
+ software, said Javed Tapia, director, Red Hat India.
+
+ Write in with your computer-related problems to TechTalk. 
+
+ Be sure to include the configuration of your PC and be specific 
+
+ about the problem. Write to techtalkabpmail.com 
+
+
+
+
+</TEXT>
+</DOC>

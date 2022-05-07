@@ -1,0 +1,25 @@
+<DOC> 
+<DOCNO>1090330_nation_story_10744651.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Nation | China hackers spark global spying fear 
+                                                                                                               China hackers spark global spying fear 
+                              Dalai Lama                            
+	Toronto, March 29: The discovery of how a vast, China-based hacking network infiltrated the Dalai Lamas computers in Dharamsala has raised the spectre of widespread electronic spying by world governments and terrorists in the near future.        
+	The Canadian researchers who unearthed the ring operating almost exclusively from China  it isnt clear if the Chinese government is involved  found that the network had infiltrated at least 1,295 computers in 103 countries in less than two years. The hacked computers include those of the Indian embassy in Washington.        
+	The researchers said the spying system, which they have named GhostNet, has had at least some real-world impact. For example, they said, after the Dalai Lamas office sent an email invitation to a foreign diplomat, the Chinese government rang up the diplomat to discourage a visit.        
+	Also, a woman working for a group making Internet contacts between Tibetan exiles and Chinese citizens was stopped by Chinese intelligence officers on her way back to Tibet. She was shown transcripts of her online conversations.        
+	The researchers, based at the Munk Center for International Studies at the University of Toronto, have published their findings in Tracking GhostNet: Investigating a Cyber Espionage Network.        
+	Two computer researchers at Britains Cambridge University who worked on part of the probe have warned that other hackers could adopt these tactics  a possibility with implications for geopolitics and terrorism.        
+	What Chinese spooks did in 2008, Russian crooks will do in 2010 and even low-budget criminals from less developed countries will follow, Shishir Nagaraja and Ross Anderson wrote in their report, The Snooping Dragon: Social Malware Surveillance of the Tibetan Movement.        
+	Analysts say many governments and others use sophisticated computer programs to covertly gather information, but Ghostnet is by far the largest to have come to light.        
+	The lid was blown off last summer when the office of the Dalai Lama invited two specialists to India to audit its computers. The specialists were Greg Walton, editor of Information Warfare Monitor, an online publication associated with the Munk Center, and Nagaraja, a network security expert, who found the computers had been infected.        
+	Back in Toronto, Walton shared data with colleagues at Munks computer lab. One of them was Nart Villeneuve, 34, a graduate student with dazzling technical skills. Last year, Villeneuve linked the Chinese version of the Skype communications service to a Chinese government operation that was systematically eavesdropping on users instant-messaging sessions.        
+	Early this month, Villeneuve noticed an odd string of 22 characters embedded in files created by the malicious software and ran a Google search. It led him to a group of computers on Hainan Island, off China, and to a website that would prove critically important.         
+	In a puzzling security lapse, the webpage that he found was not protected by a password while much of the rest of the system uses encryption.        
+	Villeneuve and his colleagues commanded the spy network to infect a system in their Toronto computer lab. On March 12, the spies took the bait. Villeneuve watched a brief series of commands flicker on his computer as someone  presumably in China  rummaged through the files. Finding nothing of interest, the intruder soon disappeared.        
+	The researchers learned to use the systems Chinese-language dashboard  a control panel reachable with a standard web browser  by which one can manipulate the more than 1,200 infected computers worldwide.        
+	Infection happens two ways. In one method, a users clicking on a document attached to an email message lets the system covertly install software deep in the target operating system. Alternatively, a user clicks on a web link in an email message and is taken to a poisoned website.         
+	A Chinese consulate spokesperson denied Beijings involvement.                     WRITTEN WITH A NEW YORK TIMES REPORT                                                                                                                                                                    
+</TEXT> 
+</DOC>

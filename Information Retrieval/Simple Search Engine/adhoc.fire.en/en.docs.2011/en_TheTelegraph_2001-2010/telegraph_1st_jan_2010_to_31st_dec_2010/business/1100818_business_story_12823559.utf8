@@ -1,0 +1,20 @@
+<DOC> 
+<DOCNO>1100818_business_story_12823559.utf8</DOCNO> 
+<TEXT> 
+         
+The Telegraph - Calcutta (Kolkata) | Business | BlackBerry offers decode solution
+                                                                                                                           6                                                                                      BlackBerry offers decode solution
+          OUR SPECIAL CORRESPONDENT                          Connecting call                                  
+	New Delhi, Aug. 17: Research in Motion  makers of the BlackBerry smartphone  today shared a monitoring method with officials of the home ministry and intelligence agencies.        
+	This is expected to satisfy Indian regulators who had threatened a ban on BlackBerry services from September.         
+	The feasibility of the method, however, needs to be verified by the home ministry, before RIM gets a clean chit on security issues, officials said.        
+	The move comes a few days after the department of telecom (DoT) directed telecom operators providing BlackBerry services to arrange for interception and monitoring of messenger and corporate email services in readable format by September 1 or block these services.         
+	RIM officials made a presentation today of a decompression method, which would allow emails and chats shared between two BlackBerry devices to be intercepted and read, said officials present at the meeting between RIM executives and home ministry officials.        
+	Technology experts from the DoT and officials from the National Security Advisor (NSA) and the National Test Research Organisation (NTRO) attended the meet.        
+	Officials said the monitoring method needed to be verified by the NTRO, which is under the home ministry, before RIM gets a clean chit.        
+	India wants RIM to allow security agencies to monitor the encrypted information flowing through its server. Emails and messages sent between two BlackBerry devices are sent in a code format, making it difficult for Indian security agencies to keep a watch on the content being transmitted.        
+	When someone sends an email message to a BlackBerry device, the BlackBerry Enterprise Server compresses the message and sends it along with a message key and a device transport key.        
+	When the recipient clicks on the message, the BlackBerry device decrypts the message and displays the email.        
+	Some method to intercept and decompress the email while it is travelling between the server and the device has been suggested, said officials.                                                                                                                                       
+</TEXT> 
+</DOC>

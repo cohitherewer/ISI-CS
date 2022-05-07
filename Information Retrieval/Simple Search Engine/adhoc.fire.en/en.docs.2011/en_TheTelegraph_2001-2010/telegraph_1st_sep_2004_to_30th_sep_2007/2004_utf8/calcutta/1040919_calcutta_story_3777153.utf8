@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO>1040919_calcutta_story_3777153.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ Log out of boot blues amp; disk devils
+
+Along with questions, comments and suggestions, you 
+
+can now write in with your computer-related problems to TechTalk. Be sure to include 
+
+the configuration of your PC and be specific about the problem. Write to techtalkabpmail.com
+
+ Thank you for the great response to TechTalk Q amp;A. Do keep writing in.
+
+Somnath Chakraborty: I have a PC with A7S266-VM/U2 
+
+ASUS motherboard, Athlon XP 1800+ processor, 256MB RAM, 40GB hard disk on which 
+
+WIN 98, WIN 2000 Professional and WIN XP Professional are installed. Among the 
+
+five partitions, two are NTFS and rest are FAT32. For the past three months, the 
+
+following message appears at the BIOS check-up whenever the machine starts: ?SMART 
+
+Failure Predicted on Primary Master: Samsung SP0411N WARNING: Immediately back-up 
+
+your data and replace your hard disk drive. A failure may be imminent. Press F1 
+
+to continue.? Although the PC is working properly, what can I do in addition to 
+
+taking back-ups?
+
+ TechTalk: From the SMART (Self-Monitoring, Analysis, and Reporting Technology) message of your system, it appears that your hard disk has a major problem. We recommend that you change the hard disk as soon as possible. SMART is a reliability prediction technology that anticipates the failure of a disk drive and prompts the user to back up data prior to a drive failure. This technology is applied to both IDE and SCSI drives. Since disk drive architecture is different, SMART carries different sets of attributes and thresholds for different drive models. However, not all failures in hard disks are predictable. For example, a power surge that damages hard disk electronics is an unpredictable failure. Mechanical failures are usually gradual and predictable, which can be captured by SMART.
+
+Nirmal Shaw: I own a PC with Intel Pentium 
+
+IV processor and 128 MB RAM. I have Windows 98 and Windows XP installed in my 
+
+computer. How do I uninstal Windows XP from my system?
+
+Sayantan Jana: I have a Pentium IV 1.6 GHz 
+
+machine, with an Intel motherboard. My motherboard does not have a game-port, 
+
+but has several USB ports. I have recently bought a joystick that requires a 15-pin 
+
+port. Is there any 15-pin-port-to-USB parallel connector available in the market? 
+
+If so, what is the model make and where do I get one?
+
+ TechTalk: USB to game port converter is not readily available. You can try the grey market. Otherwise you can try joysticks with USB interface.
+
+Haralal Chakraborty: I am unable to do Disk 
+
+Defragmentation for the C-drive. I have updated Norton Antivirus 2004. I did Scan 
+
+the following message is displayed: ?Scan Disk has restarted 10 times because 
+
+Windows or another program has been writing to this drive. Quitting some running 
+
+programs may enable Scan Disk to finish sooner. Do you want to continue receiving 
+
+this writing? Yes, No, Cancel.? I clicked ?No? and did scanning of all the drives. 
+
+Then I tried defragmenting again. While there were no problems with D and E drives, 
+
+defragmentation of C-drive did not progress beyond 10 per cent. What?s wrong? 
+
+ TechTalk: This is a common problem, particularly if you haven?t defragmented the C-drive in a long time. Try running defragmentation on C drive after closing all other programmes, including resident programmes like anti-virus and task scheduler which work in the background. Be patient and let defragmentation continue, even if the progress is shown as only 10 per cent for a long time.
+
+Debratna Nag: My computer has both Windows 
+
+98 and XP. Due to some problem, Windows 98 had to be reinstalled. As a result, 
+
+the computer no longer gives the option of choosing Win 98 or XP as it used to 
+
+earlier and directly boots from Win 98. Moreover, my Win XP system drive (D:) 
+
+is not visible when accessing Win 98. Is it possible to retrieve music files from 
+
+my music folder in D drive?
+
+ TechTalk: Reinstalling Windows 98 has overwritten the previous master boot record of your hard disk where the boot information of Win XP was stored. That is why your computer does not give you the earlier dual boot option. Most probably your D drive was formatted as NTFS during your previous XP installation. So you cannot access this partition from Windows 98. Still, it is possible to retrieve your music files. For that, you need to boot your system using the Windows XP installer CD. It will detect a damaged XP installation and you will get the option to repair. Once XP is repaired fully, you can boot through XP and successfully get your old files. This will work provided you have not formatted your D drive after your recent Windows 98 reinstallation.
+
+... and elsewehere in the world
+
+ If only Tom Hanks? character in Cast Away had this with him. Japan?s electronics giant Matsushita Electric recently unveiled its new CD player SL-CT720, which manages an astonishing 206 hours of play with supplied external battery. That makes it the world?s longest playing portable CD player. At an estimated price of $135, it?s a steal, provided you manage to lay your hands on one in this part of the world.
+
+
+
+
+</TEXT>
+</DOC>

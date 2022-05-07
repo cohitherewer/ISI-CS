@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>1040905_calcutta_story_3720836.utf8</DOCNO>
+<TEXT>
+
+
+The Telegraph - Calcutta : Metro
+
+ TechTalk q amp;a
+
+ Thank you for the great response to TechTalk q amp;a. Do keep writing in.
+
+ lSounak Majumder: I have a Pentium IV 2.8 GHz machine. I want to configure my Outlook Express mail account but it asks for host server names for incoming and outgoing mails. I use BSNLs account-free Internet connection. Where can I get information about the servers?
+
+ TechTalk: You can only configure Outlook Express when your ISP provides mailbox facility. BSNLs account-free Internet connection does not do that. Configuring Yahoo! or Hotmail through this connection may not work either. You have to get a package that offers email space from providers like VSNL.
+
+ lAditya Venkataraman: I have a Compaq Presario 5000 purchased in 2001 with the following configuration: Intel Pentium III 1.0 GHz, 5 MB graphics memory, 20 GB HDD with Windows ME. I recently upgraded to 256 MB RAM and also wanted to upgrade the graphics card. But I was told that my motherboard doesnt have the required graphics card socket. Is there any way that I can upgrade my graphics card as most of my games are not working? Also, will Windows XP Professional work on my computer without the drivers creating any problem?
+
+ TechTalk: Most new games require an AGP card with minimum 32 MB video memory. Unfortunately, your motherboard doesnt have the AGP slot you need to upgrade. You can try installing a graphics card on the PCI slot. Special kinds of AGP cards are now available that fit into a regular PCI slot.
+
+ As to your other query, XP Professional has built-in drivers for most of the Presario series hardware, so there should not be a problem. 
+
+ lAlankar Banerjee: I have a PC with Intel Pentium IV 1.70 GHz processor, 128 MB RAM, 40 GB hard disk and Windows XP Professional. I am interested in graphic designing. How can I get quality display and what kind of hardware is necessary for graphic designing? Also, whenever I print bulk data, I get the error message that the virtual memory is full. Why does this happen?
+
+ TechTalk: To get the desired display quality, you should have an AGP display card which supports true 32-bit colour at 1024 X 768 screen resolution. For this, an AGP slot option should be present on your motherboard. The minimum display memory should be 64 MB. You should also increase the main memory to 512 MB to get a good response time while working with heavy graphics.
+
+ lDebasish Chakraborty: How do I instal and configure proxy server on different machines? I have Windows 98 as my operating system.
+
+
+
+
+</TEXT>
+</DOC>
